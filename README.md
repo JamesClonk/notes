@@ -50,3 +50,25 @@ What to do..
 | Jioazi | - | - |
 
 ## Travel
+
+- [ ] Hawaii
+  - [ ] Kauai
+  - [ ] Big Island
+  - [ ] Maui
+
+- [ ] Denmark
+  - [ ] Copenhagen
+
+- [ ] Norway
+  - [ ] Oslo
+  - [ ] Bergen
+  - [ ] Mardalsfossen
+  - [ ] Trondheim
+  - [ ] Lofoten
+  - [ ] Kvalvika Beach
+  - [ ] Tromsø
+
+- [ ] Iceland
+  - [ ] Kirkjufell
+  - [ ] Jökulsárlón
+  - [ ] Skógafoss

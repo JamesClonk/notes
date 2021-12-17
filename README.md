@@ -1,7 +1,7 @@
 # checklist
 What to do next?
 
-## Activites
+## Activities
 
 - [ ] Skydiving in Hawaii
 - [ ] Wardruna Concert

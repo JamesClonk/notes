@@ -72,3 +72,12 @@ What to do..
   - [ ] Kirkjufell
   - [ ] Jökulsárlón
   - [ ] Skógafoss
+
+- [ ] Japan
+  - [ ] Okinawa
+  - [ ] Kyushu
+  - [ ] North-Eastern Side
+  - [ ] Hokkaido
+
+- [ ] New Zealand
+

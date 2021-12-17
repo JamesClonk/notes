@@ -3,6 +3,11 @@ What to do..
 
 ## Activites
 
+- [ ] Skydiving in Hawaii
+- [ ] Wardruna Concert
+- [ ] Dune Part II in IMAX
+- [ ] Okonomiyaki, Tonkatsu and Wagyu in Japan
+
 ## Restaurants
 
 #### Huayuan

@@ -56,15 +56,15 @@ What to do next?
 
 ## Travel
 
-- [ ] Hawaii
+- [ ] **Hawaii**
   - [ ] Kauai
   - [ ] Big Island
   - [ ] Maui
 
-- [ ] Denmark
+- [ ] **Denmark**
   - [ ] Copenhagen
 
-- [ ] Norway
+- [ ] **Norway**
   - [ ] Oslo
   - [ ] Bergen
   - [ ] Mardalsfossen
@@ -73,16 +73,16 @@ What to do next?
   - [ ] Kvalvika Beach
   - [ ] Tromsø
 
-- [ ] Iceland
+- [ ] **Iceland**
   - [ ] Kirkjufell
   - [ ] Jökulsárlón
   - [ ] Skógafoss
 
-- [ ] Japan
+- [ ] **Japan**
   - [ ] Okinawa
   - [ ] Kyushu
   - [ ] North-Eastern Side
   - [ ] Hokkaido
 
-- [ ] New Zealand
+- [ ] **New Zealand**
 

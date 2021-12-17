@@ -10,7 +10,7 @@ What to do next?
 
 ## Restaurants
 
-#### Huayuan
+### Huayuan
 | Dish | Score | Comment |
 | --- | --- | --- |
 | Drei Tassen Poulet| - | - |

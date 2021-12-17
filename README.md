@@ -31,7 +31,7 @@ What to do..
 | Gebratenes Rindfleisch mit Kräuterseitlinge | - | - |
 | Gebratenes Rindfleisch nach Ma-La Art | - | - |
 | Gebratenes Rindfleisch nach Szechuan Art  | - | - |
-| Frittiertes Rindfleisch nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
+| ✅ Frittiertes Rindfleisch nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
 | --- | --- | --- |
 | Gebratenes Lamm nach Pekinger Art | - | - |
 | Gebratenes Lamm nach Shandonger Art | - | - |
@@ -39,5 +39,14 @@ What to do..
 | ✅ Lamm auf Grillplate nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
 | Gebratenes Lamm mit chinesischem Sauerkraut | - | - |
 | Gebratenes Lamm nach Ma-La Art | - | - |
+| --- | --- | --- |
+| Frittierte Crevetten nach Kung Po Art | - | - |
+| Gebratene Crevetten nach Ma-La Art | - | - |
+| Gebratene Crevetten nach Szechuan Art | - | - |
+| --- | --- | --- |
+| Tonkatsu | - | - |
+| Unagi Donburi | - | - |
+| Gyudon | - | - |
+| Jioazi | - | - |
 
 ## Travel

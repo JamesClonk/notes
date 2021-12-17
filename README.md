@@ -8,9 +8,6 @@ What to do..
 #### Huayuan
 | Dish | Score | Comment |
 | --- | --- | --- |
-| ✅ Lamm auf Grillplate nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
-| ✅ Lamm auf Grillplate nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
-| --- | --- | --- |
 | Drei Tassen Poulet| - | - |
 | ✅ General Tso Poulet | ⭐⭐⭐-⭐ | Very good, sometimes too "fruity" taste though |
 | Korean Fried Chicken | - | - |
@@ -28,10 +25,19 @@ What to do..
 | Löwenkopf | - | - |
 | Schweinestreifen nach Yu-Xiang Art | - | - |
 | --- | --- | --- |
-| xxx | - | - |
-| xxx | - | - |
-| xxx | - | - |
-| xxx | - | - |
-| xxx | - | - |
+| Frittiertes Rindfleisch and Zucker-Essig Sauce | - | - |
+| Rindfleisch Bulgogi | - | - |
+| Gebratenes an Orangensauce | - | - |
+| Gebratenes Rindfleisch mit Kräuterseitlinge | - | - |
+| Gebratenes Rindfleisch nach Ma-La Art | - | - |
+| Gebratenes Rindfleisch nach Szechuan Art  | - | - |
+| Frittiertes Rindfleisch nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
+| --- | --- | --- |
+| Gebratenes Lamm nach Pekinger Art | - | - |
+| Gebratenes Lamm nach Shandonger Art | - | - |
+| Frittiertes Lamm | - | - |
+| ✅ Lamm auf Grillplate nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
+| Gebratenes Lamm mit chinesischem Sauerkraut | - | - |
+| Gebratenes Lamm nach Ma-La Art | - | - |
 
 ## Travel

@@ -30,10 +30,11 @@ What to do next?
 | ✅ Ente nach Ma-La Art 🌶 | ⭐⭐⭐⭐⭐ | Perfect level of spicy, very good! |
 | --- | --- | --- |
 | Lady Pork | - | - |
-| Ginger Pork | - | - |
-| Schweinestreifen mit Knoblauchsprossen | - | - |
-| Löwenkopf | - | - |
-| Schweinestreifen nach Yu-Xiang Art | - | - |
+| ~~Ginger Pork~~ | - | - |
+| *Geschmorter Schweinebauch nach Huaner Art* | - | - |
+| Gebratene Schweinestreifen mit Knoblauchsprossen | - | - |
+| ~~Löwenkopf~~ | - | - |
+| Gebratene Schweinestreifen nach Yu-Xiang Art | - | - |
 | --- | --- | --- |
 | Frittiertes Rindfleisch and Zucker-Essig Sauce | - | - |
 | Rindfleisch Bulgogi | - | - |

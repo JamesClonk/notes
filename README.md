@@ -38,7 +38,7 @@ What to do next?
 | --- | --- | --- |
 | Fire Beer - Frittiertes Rindfleisch an Zucker-Essig Sauce | - | - |
 | Rindfleisch Bulgogi | - | - |
-| ~~Gebratenes an Orangensauce~~ | - | - |
+| ~~Gebratenes Rindfleisch an Orangensauce~~ | - | - |
 | *Shuizhu Beef - Rindfleisch in heisser Brühe* | - | - |
 | Gebratenes Rindfleisch mit Kräuterseitlinge | - | - |
 | Gebratenes Rindfleisch nach Ma-La Art | - | - |
@@ -47,9 +47,10 @@ What to do next?
 | --- | --- | --- |
 | Gebratenes Lamm nach Pekinger Art | - | - |
 | Gebratenes Lamm nach Shandonger Art | - | - |
-| Frittiertes Lamm | - | - |
+| ~~Frittiertes Lamm~~ | - | - |
+| *Lammrippen Shangri-La* | - | - |
 | ✅ Lamm auf Grillplate nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
-| Gebratenes Lamm mit chinesischem Sauerkraut | - | - |
+| ~~Gebratenes Lamm mit chinesischem Sauerkraut~~ | - | - |
 | Gebratenes Lamm nach Ma-La Art | - | - |
 | --- | --- | --- |
 | Frittierte Crevetten nach Kung Po Art | - | - |

@@ -49,7 +49,7 @@ What to do next?
 | Gebratenes Lamm nach Shandonger Art | - | - |
 | ~~Frittiertes Lamm~~ | - | - |
 | *Lammrippen Shangri-La* | - | - |
-| ✅ Lamm auf Grillplate nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
+| ✅ Lamm auf Grillplate nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! (Spices can be an acquired taste) |
 | ~~Gebratenes Lamm mit chinesischem Sauerkraut~~ | - | - |
 | Gebratenes Lamm nach Ma-La Art 🌶 | - | - |
 | --- | --- | --- |

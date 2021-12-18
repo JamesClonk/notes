@@ -41,7 +41,7 @@ What to do next?
 | ~~Gebratenes Rindfleisch an Orangensauce~~ | - | - |
 | *Shuizhu Beef - Rindfleisch in heisser Brühe* | - | - |
 | Gebratenes Rindfleisch mit Kräuterseitlinge | - | - |
-| Gebratenes Rindfleisch nach Ma-La Art | - | - |
+| Gebratenes Rindfleisch nach Ma-La Art 🌶 | - | - |
 | Gebratenes Rindfleisch nach Szechuan Art  | - | - |
 | ✅ Frittiertes Rindfleisch nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
 | --- | --- | --- |
@@ -51,10 +51,10 @@ What to do next?
 | *Lammrippen Shangri-La* | - | - |
 | ✅ Lamm auf Grillplate nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
 | ~~Gebratenes Lamm mit chinesischem Sauerkraut~~ | - | - |
-| Gebratenes Lamm nach Ma-La Art | - | - |
+| Gebratenes Lamm nach Ma-La Art 🌶 | - | - |
 | --- | --- | --- |
 | Frittierte Crevetten nach Kung Po Art | - | - |
-| Gebratene Crevetten nach Ma-La Art | - | - |
+| Gebratene Crevetten nach Ma-La Art 🌶 | - | - |
 | Gebratene Crevetten nach Szechuan Art | - | - |
 | --- | --- | --- |
 | Tonkatsu | - | - |

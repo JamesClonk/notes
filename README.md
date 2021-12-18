@@ -36,9 +36,10 @@ What to do next?
 | ~~Löwenkopf~~ | - | - |
 | Gebratene Schweinestreifen nach Yu-Xiang Art | - | - |
 | --- | --- | --- |
-| Frittiertes Rindfleisch and Zucker-Essig Sauce | - | - |
+| Fire Beer - Frittiertes Rindfleisch an Zucker-Essig Sauce | - | - |
 | Rindfleisch Bulgogi | - | - |
-| Gebratenes an Orangensauce | - | - |
+| ~~Gebratenes an Orangensauce~~ | - | - |
+| *Shuizhu Beef - Rindfleisch in heisser Brühe* | - | - |
 | Gebratenes Rindfleisch mit Kräuterseitlinge | - | - |
 | Gebratenes Rindfleisch nach Ma-La Art | - | - |
 | Gebratenes Rindfleisch nach Szechuan Art  | - | - |

@@ -54,6 +54,7 @@ What to do next?
 | Gebratenes Lamm nach Ma-La Art 🌶 | - | - |
 | --- | --- | --- |
 | Frittierte Crevetten nach Kung Po Art | - | - |
+| *Frittierte Crevetten mit Szechuanpfeffer* | - | - |
 | Gebratene Crevetten nach Ma-La Art 🌶 | - | - |
 | Gebratene Crevetten nach Szechuan Art | - | - |
 | --- | --- | --- |

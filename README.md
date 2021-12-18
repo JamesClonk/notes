@@ -19,14 +19,15 @@ What to do next?
 | --- | --- | --- |
 | Drei Tassen Poulet| - | - |
 | ✅ General Tso Poulet | ⭐⭐⭐⭐ | Very good, sometimes too "fruity" taste though |
+| Popcorn Poulet | - | - |
 | Korean Fried Chicken | - | - |
-| Lazi Poulet mit Chili & Pfeffer | - | - |
+| Lazi Poulet mit Chili & Szechuanpfeffer 🌶🌶 | - | - |
 | Gebratenes Poulet nach Szechuan Art | - | - |
-| Poulet nach Kung Po Art | ⭐⭐⭐⭐ | Excellent, but don't order it if you don't like leek 😂 |
+| ✅ Poulet nach Kung Po Art | ⭐⭐⭐⭐ | Excellent, but don't order it if you don't like leek 😂 |
 | --- | --- | --- |
 | Gegrillte Entenbrust | - | - |
 | Gebratene Entenbrust | - | - |
-| ✅ Ente nach Ma-La Art | ⭐⭐⭐⭐⭐ | Perfect level of spicy, very good! |
+| ✅ Ente nach Ma-La Art 🌶 | ⭐⭐⭐⭐⭐ | Perfect level of spicy, very good! |
 | --- | --- | --- |
 | Lady Pork | - | - |
 | Ginger Pork | - | - |

@@ -14,7 +14,7 @@ What to do next?
 | Dish | Score | Comment |
 | --- | --- | --- |
 | Drei Tassen Poulet| - | - |
-| ✅ General Tso Poulet | ⭐⭐⭐-⭐ | Very good, sometimes too "fruity" taste though |
+| ✅ General Tso Poulet | ⭐⭐⭐⭐ | Very good, sometimes too "fruity" taste though |
 | Korean Fried Chicken | - | - |
 | Lazi Poulet mit Chili & Pfeffer | - | - |
 | Gebratenes Poulet nach Szechuan Art | - | - |
@@ -22,7 +22,7 @@ What to do next?
 | --- | --- | --- |
 | Gegrillte Entenbrust | - | - |
 | Gebratene Entenbrust | - | - |
-| ✅ Ente nach Ma-La Art | ⭐⭐⭐⭐ | Perfect level of spicy, very good! |
+| ✅ Ente nach Ma-La Art | ⭐⭐⭐⭐⭐ | Perfect level of spicy, very good! |
 | --- | --- | --- |
 | Lady Pork | - | - |
 | Ginger Pork | - | - |
@@ -85,4 +85,6 @@ What to do next?
   - [ ] Hokkaido
 
 - [ ] **New Zealand**
+
+- [ ] **Scotland**
 

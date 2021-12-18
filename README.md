@@ -22,7 +22,7 @@ What to do next?
 | Korean Fried Chicken | - | - |
 | Lazi Poulet mit Chili & Pfeffer | - | - |
 | Gebratenes Poulet nach Szechuan Art | - | - |
-| Poulet nach Kung Po Art | - | - |
+| Poulet nach Kung Po Art | ⭐⭐⭐⭐ | Excellent, but don't order it if you don't like leek 😂 |
 | --- | --- | --- |
 | Gegrillte Entenbrust | - | - |
 | Gebratene Entenbrust | - | - |

@@ -27,7 +27,7 @@ What to do next?
 | --- | --- | --- |
 | Gegrillte Entenbrust | - | - |
 | Gebratene Entenbrust | - | - |
-| ✅ Ente nach Ma-La Art 🌶 | ⭐⭐⭐⭐⭐ | Perfect level of spicy, very good! |
+| ✅ Ente nach Ma-La Art 🌶 | ⭐⭐⭐⭐⭐ | Perfect level of spicy, very good! (Very "oily" though, don't order on days you don't feel like eating fatty stuff) |
 | --- | --- | --- |
 | Lady Pork | - | - |
 | ~~Ginger Pork~~ | - | - |

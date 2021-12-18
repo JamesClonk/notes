@@ -7,6 +7,10 @@ What to do next?
 - [ ] Wardruna Concert
 - [ ] Dune Part II in IMAX
 - [ ] Okonomiyaki, Tonkatsu and Wagyu in Japan
+- [ ] Bicycle Tour through Japan
+- [ ] Hiking in Scotland
+- [ ] Hiking in New Zealand
+- [ ] Watching Polar Lights
 
 ## Restaurants
 
@@ -81,7 +85,7 @@ What to do next?
 - [ ] **Japan**
   - [ ] Okinawa
   - [ ] Kyushu
-  - [ ] North-Eastern Side
+  - [ ] North-Western Side
   - [ ] Hokkaido
 
 - [ ] **New Zealand**

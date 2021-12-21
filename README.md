@@ -34,7 +34,7 @@ What to do next?
 | *Geschmorter Schweinebauch nach Huaner Art* | - | - |
 | Gebratene Schweinestreifen mit Knoblauchsprossen | - | - |
 | ~~Löwenkopf~~ | - | - |
-| Gebratene Schweinestreifen nach Yu-Xiang Art | - | - |
+| ✅ Gebratene Schweinestreifen nach Yu-Xiang Art | ⭐⭐⭐⭐ | Very nice, maybe a bit "oily". Works well with noodles. |
 | --- | --- | --- |
 | Fire Beer - Frittiertes Rindfleisch an Zucker-Essig Sauce | - | - |
 | Rindfleisch Bulgogi | - | - |

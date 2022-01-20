@@ -20,7 +20,7 @@ What to do next?
 | Drei Tassen Poulet| - | - |
 | ✅ General Tso Poulet | ⭐⭐⭐⭐ | Very good, sometimes too "fruity" taste though |
 | Popcorn Poulet | - | - |
-| Korean Fried Chicken | - | - |
+| ✅ Korean Fried Chicken | ⭐⭐⭐⭐ | Not bad, my own home-made Korean Fried Chicken is better though 😉 |
 | Lazi Poulet mit Chili & Szechuanpfeffer 🌶🌶 | - | - |
 | Gebratenes Poulet nach Szechuan Art | - | - |
 | ✅ Poulet nach Kung Po Art | ⭐⭐⭐⭐ | Excellent, but don't order it if you don't like leek 😂 |
@@ -36,12 +36,12 @@ What to do next?
 | ~~Löwenkopf~~ | - | - |
 | ✅ Gebratene Schweinestreifen nach Yu-Xiang Art | ⭐⭐⭐⭐ | Very nice, maybe a bit "oily". Works well with noodles. |
 | --- | --- | --- |
-| Fire Beer - Frittiertes Rindfleisch an Zucker-Essig Sauce | - | - |
+| ✅ Fire Beer - Frittiertes Rindfleisch an Zucker-Essig Sauce | ⭐⭐⭐⭐⭐ | OMG! |
 | Rindfleisch Bulgogi | - | - |
 | ~~Gebratenes Rindfleisch an Orangensauce~~ | - | - |
 | *Shuizhu Beef - Rindfleisch in heisser Brühe* | - | - |
 | Gebratenes Rindfleisch mit Kräuterseitlinge | - | - |
-| Gebratenes Rindfleisch nach Ma-La Art 🌶 | - | - |
+| ✅ Gebratenes Rindfleisch nach Ma-La Art 🌶 | ⭐⭐⭐⭐⭐ | Perfect level of spicy, very good! (Can be "oily" though, don't order on days you don't feel like eating fatty stuff) |
 | Gebratenes Rindfleisch nach Szechuan Art  | - | - |
 | ✅ Frittiertes Rindfleisch nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
 | --- | --- | --- |

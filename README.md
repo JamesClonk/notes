@@ -36,7 +36,7 @@ What to do next?
 | ~~Löwenkopf~~ | - | - |
 | ✅ Gebratene Schweinestreifen nach Yu-Xiang Art | ⭐⭐⭐⭐ | Very nice, maybe a bit "oily". Works well with noodles. |
 | --- | --- | --- |
-| ✅ Fire Beer - Frittiertes Rindfleisch an Zucker-Essig Sauce | ⭐⭐⭐⭐⭐ | OMG! |
+| ✅ Fire Beef - Frittiertes Rindfleisch an Zucker-Essig Sauce | ⭐⭐⭐⭐⭐ | OMG! |
 | Rindfleisch Bulgogi | - | - |
 | ~~Gebratenes Rindfleisch an Orangensauce~~ | - | - |
 | *Shuizhu Beef - Rindfleisch in heisser Brühe* | - | - |

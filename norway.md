@@ -6,6 +6,8 @@
 
 ## Bergen
 
+## Lillehammer / Hamar
+
 ## Trondheim
 
 ## Bodø

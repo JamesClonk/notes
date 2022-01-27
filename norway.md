@@ -1,8 +1,14 @@
 ## Oslo
 
-##
+## Kristiansand
 
-##
+## Stavanger
+
+## Bergen
+
+## Trondheim
+
+## Bodø
 
 ## Lofoten
 
@@ -12,4 +18,4 @@
 - [ ] Bunes Beach / Hiking
   - https://goo.gl/maps/wM4P7zEYMQ5bFecX8 (Beach)
 
-## Tromsø?
+## Tromsø

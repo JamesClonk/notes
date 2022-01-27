@@ -12,6 +12,12 @@
 
 ## Bergen
 
+- [ ] Bryggen (old wharf)
+  - https://goo.gl/maps/utbTyx7zPKnbZ1QN8
+  - https://stiftelsenbryggen.no/
+- [ ] Fisketorget (Fishmarket)
+  - https://goo.gl/maps/2kPCKYSLmDM4zMou9
+  - https://www.bergen.kommune.no/hvaskjer/tema/fisketorget
 - [ ] Solstrand Hotel & Bad
 
 ## National Parks / Viewpoints

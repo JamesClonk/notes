@@ -6,11 +6,17 @@
 
 ## Bergen
 
-## Hardangervidda
+## National Parks / Viewpoints
 
 - [ ] Hardangervidda National Park
   - https://goo.gl/maps/1F6ueqCjeMifvXUc8
   - https://hardangervidda.com/
+- [ ] Stegastein Viepoint
+  - https://goo.gl/maps/UwBueBGThfKAgXm17
+  - https://www.visitnorway.com/listings/stegastein-viewpoint/171495/
+- [ ] Jotunheimen National Park
+  - https://goo.gl/maps/FB83N5mQuGapBWTN7
+  - https://jotunheimen.com/en/
 
 ## Lillehammer / Hamar
 

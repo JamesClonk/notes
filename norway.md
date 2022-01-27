@@ -1,28 +1,44 @@
 ## Oslo
 
+- [ ] Operahuset
+  - https://goo.gl/maps/y4mZLasc9LAH2FBF6
+  - https://operaen.no/
+
 ## Kristiansand
 
 ## Stavanger
 
+- [ ] Sola Strand Hotel
+
 ## Bergen
+
+- [ ] Solstrand Hotel & Bad
 
 ## National Parks / Viewpoints
 
 - [ ] Hardangervidda National Park
   - https://goo.gl/maps/1F6ueqCjeMifvXUc8
   - https://hardangervidda.com/
-- [ ] Stegastein Viepoint
+- [ ] Stegastein Viewpoint
   - https://goo.gl/maps/UwBueBGThfKAgXm17
   - https://www.visitnorway.com/listings/stegastein-viewpoint/171495/
 - [ ] Jotunheimen National Park
   - https://goo.gl/maps/FB83N5mQuGapBWTN7
   - https://jotunheimen.com/en/
 
+- [ ] Hotel Alexandra
+
 ## Lillehammer / Hamar
 
 ## Trondheim
 
+- [ ] Britannia Hotel
+
 ## Bodø
+
+- [ ] Norsk Luftfartsmuseum
+  - https://g.page/flymuseum?share
+  - https://www.luftfartsmuseum.no/
 
 ## Lofoten
 

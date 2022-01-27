@@ -40,6 +40,9 @@
 
 - [ ] Geirangerfjord
   - https://goo.gl/maps/gj35D76WXpVRgp3t7
+- [ ] Mardalsfossen
+  - https://goo.gl/maps/Jwpp3Gq63x8y6tXw8
+  - https://www.europeanwaterfalls.com/waterfalls/mardalsfossen/
 
 ## Trondheim
 

@@ -6,6 +6,12 @@
 
 ## Bergen
 
+## Hardangervidda
+
+- [ ] Hardangervidda National Park
+  - https://goo.gl/maps/1F6ueqCjeMifvXUc8
+  - https://hardangervidda.com/
+
 ## Lillehammer / Hamar
 
 ## Trondheim

@@ -30,6 +30,11 @@
 
 ## Lillehammer / Hamar
 
+## Ålesund
+
+- [ ] Geirangerfjord
+  - https://goo.gl/maps/gj35D76WXpVRgp3t7
+
 ## Trondheim
 
 - [ ] Britannia Hotel

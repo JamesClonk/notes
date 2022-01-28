@@ -8,6 +8,10 @@
 
 ## Stavanger
 
+- [ ] Vågen Nightlife
+  - https://goo.gl/maps/7UwLRsjpDt1zNuYy8
+- [ ] Cardinal Pub
+  - https://goo.gl/maps/X5NckNtQYnY1EKZy9
 - [ ] Sola Strand Hotel
 
 ## Bergen
@@ -36,13 +40,18 @@
 
 ## Lillehammer / Hamar
 
-## Ålesund
+## Ålesund / Molde
 
 - [ ] Geirangerfjord
   - https://goo.gl/maps/gj35D76WXpVRgp3t7
 - [ ] Mardalsfossen
   - https://goo.gl/maps/Jwpp3Gq63x8y6tXw8
   - https://www.europeanwaterfalls.com/waterfalls/mardalsfossen/
+
+## Oppdal
+
+- [ ] Quality Hotel Skifer
+  - https://goo.gl/maps/LcjWfbnWtFfVeYp68
 
 ## Trondheim
 

@@ -68,6 +68,8 @@
 - [ ] Norsk Luftfartsmuseum
   - https://g.page/flymuseum?share
   - https://www.luftfartsmuseum.no/
+- [ ] Nordland Museum
+  - https://goo.gl/maps/YTqgPUfdFjz1iwJX6
 
 ## Lofoten
 

@@ -83,5 +83,7 @@
   - https://goo.gl/maps/9Y1zkxBWsBUKDycL8 (Hiking Trail)
 - [ ] Bunes Beach / Hiking
   - https://goo.gl/maps/wM4P7zEYMQ5bFecX8 (Beach)
+- [ ] Lofotr Viking Museum
+  - https://g.page/lofotr?share
 
 ## Tromsø

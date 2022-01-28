@@ -1,5 +1,8 @@
 ## Oslo
 
+- [ ] The Salmon
+  - https://goo.gl/maps/n6QAV3Jq67QR5nRP6
+  - https://www.thesalmon.com/restauranten
 - [ ] Operahuset
   - https://goo.gl/maps/y4mZLasc9LAH2FBF6
   - https://operaen.no/

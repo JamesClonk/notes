@@ -55,6 +55,8 @@
 
 ## Trondheim
 
+- [ ] Old Town Bridge
+  - https://goo.gl/maps/Ex1FP5jp15ku63sU7
 - [ ] Britannia Hotel
 
 ## Bodø

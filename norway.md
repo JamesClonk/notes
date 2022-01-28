@@ -85,5 +85,7 @@
   - https://goo.gl/maps/wM4P7zEYMQ5bFecX8 (Beach)
 - [ ] Lofotr Viking Museum
   - https://g.page/lofotr?share
+- [ ] Reine
+  - https://goo.gl/maps/6MHUdoXUsoWhcKLc6
 
 ## Tromsø

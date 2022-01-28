@@ -71,6 +71,11 @@
 - [ ] Nordland Museum
   - https://goo.gl/maps/YTqgPUfdFjz1iwJX6
 
+## Narvik
+
+- [ ] Narvik Krigsmuseum
+  - https://goo.gl/maps/CgowrTqsvxKpGBtr8
+
 ## Lofoten
 
 - [ ] Kvalvika Beach / Hiking (https://www.rando-lofoten.net/en/fredvang-kvalvika-en)

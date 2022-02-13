@@ -19,7 +19,7 @@ What to do next?
 | --- | --- | --- |
 | Drei Tassen Poulet| - | - |
 | ✅ General Tso Poulet | ⭐⭐⭐⭐ | Very good, sometimes too "fruity" taste though |
-| Popcorn Poulet | - | - |
+| ✅ Popcorn Poulet | ⭐⭐⭐⭐ | Crunchy, spicy and tasty. But I felt it needed a dipping sauce, it was a bit dry |
 | ✅ Korean Fried Chicken | ⭐⭐⭐⭐ | Not bad, my own home-made Korean Fried Chicken is better though 😉 |
 | Lazi Poulet mit Chili & Szechuanpfeffer 🌶🌶 | - | - |
 | Gebratenes Poulet nach Szechuan Art | - | - |
@@ -45,7 +45,7 @@ What to do next?
 | Gebratenes Rindfleisch nach Szechuan Art  | - | - |
 | ✅ Frittiertes Rindfleisch nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
 | --- | --- | --- |
-| Gebratenes Lamm nach Pekinger Art | - | - |
+| Gebratenes Lamm nach Pekinger Art | ⭐⭐⭐ | Good, but a bit bland. Lots of leek though 🤷‍♂️ |
 | Gebratenes Lamm nach Shandonger Art | - | - |
 | ~~Frittiertes Lamm~~ | - | - |
 | *Lammrippen Shangri-La* | - | - |

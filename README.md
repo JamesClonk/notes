@@ -45,8 +45,8 @@ What to do next?
 | Gebratenes Rindfleisch nach Szechuan Art  | - | - |
 | ✅ Frittiertes Rindfleisch nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! |
 | --- | --- | --- |
-| Gebratenes Lamm nach Pekinger Art | ⭐⭐⭐ | Good, but a bit bland. Lots of leek though 🤷‍♂️ |
-| Gebratenes Lamm nach Shandonger Art | - | - |
+| ✅ Gebratenes Lamm nach Pekinger Art | ⭐⭐⭐ | Good, but a bit bland. Lots of leek though 🤷‍♂️ |
+| ✅ Gebratenes Lamm nach Shandonger Art | ⭐⭐⭐⭐ | Nice! With lots of garlic |
 | ~~Frittiertes Lamm~~ | - | - |
 | *Lammrippen Shangri-La* | - | - |
 | ✅ Lamm auf Grillplate nach Pekinger Art | ⭐⭐⭐⭐⭐ | OMG! (Spices can be an acquired taste) |

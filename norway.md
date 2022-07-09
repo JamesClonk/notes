@@ -33,7 +33,7 @@ https://www.booking.com/hotel/no/kong-carl.de.html?aid=304142;label=gen173nr-1DC
 ## Kristiansand
 
 ## Stavanger
-- [ ] Vågen Nightlife
+- [x] Vågen Nightlife
   - https://goo.gl/maps/7UwLRsjpDt1zNuYy8
 - [ ] Cardinal Pub
   - https://goo.gl/maps/X5NckNtQYnY1EKZy9
@@ -41,19 +41,21 @@ https://www.booking.com/hotel/no/kong-carl.de.html?aid=304142;label=gen173nr-1DC
 
 ## Bergen
 
-- [ ] Bryggen (old wharf)
+- [x] Bryggen (old wharf)
   - https://goo.gl/maps/utbTyx7zPKnbZ1QN8
   - https://stiftelsenbryggen.no/
-- [ ] Fisketorget (Fishmarket)
+- [x] Fisketorget (Fishmarket)
   - https://goo.gl/maps/2kPCKYSLmDM4zMou9
   - https://www.bergen.kommune.no/hvaskjer/tema/fisketorget
 - [ ] Solstrand Hotel & Bad
 
 ## National Parks / Viewpoints
 
-- [ ] Hardangervidda National Park
+- [x] Hardangervidda National Park
   - https://goo.gl/maps/1F6ueqCjeMifvXUc8
   - https://hardangervidda.com/
+- [x] Vøringfossen
+  - https://goo.gl/maps/x2Fsa9rgux3ey4cY7
 - [ ] Stegastein Viewpoint
   - https://goo.gl/maps/UwBueBGThfKAgXm17
   - https://www.visitnorway.com/listings/stegastein-viewpoint/171495/

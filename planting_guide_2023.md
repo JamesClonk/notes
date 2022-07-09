@@ -9,20 +9,19 @@
     - Für Vegtrug
     - Bohnen, 2x Edamame
     - Bohnen, 2x Buschbohnen
-    - Cucumis, 1x Zuckermelone
+    - Cucumis, 1x Snackgurke
 
 - #### Pump 2, 70L Reservoir
-  - 6x Drips
+  - 7x Drips
     - Für 40er Topf (cottage)
-    - Cucumis, 1x Schlangengurke
-    - Cucumis, 1x Snackgurke
+    - Cucumis, 2x Zuckermelone
   - 12x Drips
     - 3x 30er Topf (trio cottage)
     - 4x Drips pro Topf
     - 1x Tomatenpflanze pro Topf
 
 - #### Pump 3, 70L Reservoir
-  - 6x Drips
+  - 7x Drips
     - Für 40er Topf (cottage)
     - Cucumis, 1x Schlangengurke
     - Cucumis, 1x Snackgurke
@@ -34,7 +33,7 @@
 - #### Pump 4, 35L Reservoir
   - 4x Drips
     - Für weissen Einzeltopf (quadro ls large)
-    - Cucumis, 1x Zitronengurke
+    - Cucumis, 1x Schlangengurke
   - 3x Drips
     - Für grossen Balkonkasten 
     - 1x Kapuzinerkresse

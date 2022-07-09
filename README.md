@@ -71,12 +71,12 @@ What to do next?
   - [ ] Big Island
   - [ ] Maui
 
-- [x] **Denmark**
-  - [x] Copenhagen
+- [x] ~**Denmark**~
+  - [x] ~Copenhagen~
 
 - [x] **Norway**
-  - [x] Oslo
-  - [x] Bergen
+  - [x] ~Oslo~
+  - [x] ~Bergen~
   - [ ] Mardalsfossen
   - [ ] Trondheim
   - [ ] Lofoten

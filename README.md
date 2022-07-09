@@ -4,12 +4,13 @@ What to do next?
 ## Activities
 
 - [ ] Skydiving in Hawaii
-- [ ] Wardruna Concert
+- [x] ~Wardruna Concert in Norway~
 - [ ] Dune Part II in IMAX
 - [ ] Okonomiyaki, Tonkatsu and Wagyu in Japan
 - [ ] Bicycle Tour through Japan
 - [ ] Hiking in Scotland
 - [ ] Hiking in New Zealand
+- [x] ~Hiking in Norway~
 - [ ] Watching Polar Lights
 
 ## Restaurants
@@ -70,12 +71,12 @@ What to do next?
   - [ ] Big Island
   - [ ] Maui
 
-- [ ] **Denmark**
-  - [ ] Copenhagen
+- [x] **Denmark**
+  - [x] Copenhagen
 
-- [ ] **Norway**
-  - [ ] Oslo
-  - [ ] Bergen
+- [x] **Norway**
+  - [x] Oslo
+  - [x] Bergen
   - [ ] Mardalsfossen
   - [ ] Trondheim
   - [ ] Lofoten

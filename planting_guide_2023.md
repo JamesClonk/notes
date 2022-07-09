@@ -17,7 +17,7 @@
     - Cucumis, 1x Schlangengurke
     - Cucumis, 1x Snackgurke
   - 12x Drips
-    - 3x 30er Topf (Trio Cottage)
+    - 3x 30er Topf (trio cottage)
     - 4x Drips pro Topf
     - 1x Tomatenpflanze pro Topf
 
@@ -27,7 +27,7 @@
     - Cucumis, 1x Schlangengurke
     - Cucumis, 1x Snackgurke
   - 12x Drips
-    - 3x 30er Topf (Trio Cottage)
+    - 3x 30er Topf (trio cottage)
     - 4x Drips pro Topf
     - 1x Tomatenpflanze pro Topf
 

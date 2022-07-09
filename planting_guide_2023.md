@@ -52,44 +52,42 @@
   Zuckersüsse, saftige und aromatische Früchte. Reifen am warmen Standort auch in unserem Klima. Die rankenden Pflanzen müssen nicht ausgeschnitten werden.
 
 
-## Usefulness / Notes:
+## Usefulness / Notes
 
 - Schlangengurken | Snackgurken > normale Gurken > Tomaten
 - Kapuzinerkresse 0.5x grosser Balkonkasten oder 1x kleiner Balkonkasten komplett besäät reicht lääängstens aus, wird schnell viel zu viel.
 - Nur noch 1x Pflanze pro 30er Topf machen in 2023! Es gibt viel zu viel Wucher und zu viel zurückstutzen nötig ansonsten, und Früchte kommen auch weniger! (confirmed now 2x saisons in a row, **STOP IT** with the 2x per Pot !!!)
 
 
-timeline:
+## Timeline
 
-mid-april -> melonensamen anziehen (brauchen laaaange zum reifen, daher early but long inside gewächshaus halten, erst after mid-may nach draussen bringen)
+- Mid-April -> Melonensamen anziehen (brauchen laaaange zum reifen, daher early but long inside Gewächshaus halten, erst after Mid-May nach draussen bringen)
+- Mid-April -> Tomatensamen anziehen (anfangs langsam)
+- Mid-April -> Mojitominze anziehen (wächst langsam)
+- Mid-End-April -> Kapuzinerkresse anziehen (wächst schnell)
+- End-April -> Bohnensamen anziehen
+- End-April (2 Wochen nach Tomaten) -> Cucumis Samen anziehen (sie wachsen schneller)
+- End-April -> Chilisamen anziehen (wachsen langsamer, aber brauchen draussen 100%ige Wärme)
 
-mid-april -> tomatensamen anziehen (anfangs langsam)
+## Location
 
-mid-april -> mojitominze anziehen (wächst langsam)
-mid-end-april -> kapuzinerkresse anziehen (wächst schnell)
-end-april -> bohnensamen anziehen
-end-april (2 weeks nach tomaten) -> cucumis samen anziehen (sie wachsen schneller)
-end-april -> chilisamen anziehen (wachsen langsamer, aber brauchen draussen 100%ige wärme)
+- max. 1 Melonen Pflanze pro grossen 40er Topf (large cottage)
+- max. 1-2 Cucumis-Family Pflanzen in pro grossen 40er Topf (large cottage)
+- max. 1 Cucumis-Family Pflanze pro 30er Topf (trio cottage)
+- max. 1 Cucumis-Family Pflanze pro weissem Einzeltopf (quadro ls large (nur der large, die 4 anderen sind zu klein für eine Cucumis)
+- max. 1 Tomatenpflanze pro 30er Topf (trio cottage)
+- max. 1 Tomatenpflanze pro weissem Einzeltopf (quadro ls)
+- max. 2 Chilis pro 30er Topf (trio cottage)
+- max. 1 Chili Pflanze pro weissem Einzeltopf (quadro ls)
+- im Vegtrug nur Bohnen, Würzelgemüse und/oder Chillis, keine Tomaten/Gurken dort **:no_entry:**
 
+## Logistics
 
-location:
+- max 4-5 tomatenpflanzen IN TOTAL (!!!)
+- max 4-5 gurkenpflanzen IN TOTAL (!!!)
+- 3x drips pro cucumis-family pflanze
+- 2-3x drips pro tomaten pflanze
+- 1-2x drips pro chili pflanze
+- 1-2x drips für kleines balkonbeet
+- 1-3x drips für grosses balkonbeet
 
-max. 1 melonen pflanze pro grossen 40er topf (large cottage)
-max. 1-2 cucumis-family pflanzen in pro grossen 40er topf (large cottage)
-max. 1 cucumis-family pflanze pro 30er topf (trio cottage)
-max. 1 cucumis-family pflanze pro weissem einzeltopf (quadro ls large (nur der large, die 4 anderen sind zu klein für eine cucumis)
-max. 1 tomatenpflanze pro 30er topf (trio cottage)
-max. 1 tomatenpflanze pro weissem einzeltopf (quadro ls)
-max. 2 chilis pro 30er topf (trio cottage)
-max. 1 chili pflanze pro weissem einzeltopf (quadro ls)
-im vegtrug nur bohnen, würzelgemüse und/oder chillis, keine tomaten/gurken dort (!)
-
-
-logistics:
-max 4-5 tomatenpflanzen IN TOTAL (!!!)
-max 4-5 gurkenpflanzen IN TOTAL (!!!)
-3x drips pro cucumis-family pflanze
-2-3x drips pro tomaten pflanze
-1-2x drips pro chili pflanze
-1-2x drips für kleines balkonbeet
-1-3x drips für grosses balkonbeet

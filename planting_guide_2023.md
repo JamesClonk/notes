@@ -80,14 +80,24 @@
 - max. 2 Chilis pro 30er Topf (trio cottage)
 - max. 1 Chili Pflanze pro weissem Einzeltopf (quadro ls)
 - im Vegtrug nur Bohnen, Würzelgemüse und/oder Chillis, keine Tomaten/Gurken dort **:no_entry:**
+- Chilis -> weisse Einzeltöpfe bevorzugt (quadro ls)
 
 ## Logistics
 
-- max 4-5 tomatenpflanzen IN TOTAL (!!!)
-- max 4-5 gurkenpflanzen IN TOTAL (!!!)
-- 3x drips pro cucumis-family pflanze
-- 2-3x drips pro tomaten pflanze
-- 1-2x drips pro chili pflanze
-- 1-2x drips für kleines balkonbeet
-- 1-3x drips für grosses balkonbeet
+- Max 4-5 Tomatenpflanzen **IN TOTAL** ⛔
+- Max 4-5 Gurkenpflanzen **IN TOTAL** ⛔
+- 3x Drips pro Cucumis-Family Pflanze
+- 2-4x Drips pro Tomaten Pflanze
+- 2x Drips pro Chili Pflanze
+- 1-2x Drips für kleines Balkonbeet
+- 1-3x Drips für grosses Balkonbeet
 
+---
+
+# Potential Setup for 2023 ❓
+
+- 7-9x Drips für Vegtrug
+- 5x Drips für 40er Topf (cottage)
+- 4x Drips für 30er Topf (trio cottage)
+- 3-4x Drips für weissen Einzeltopf (quadro ls large)
+- 2x Drips für weissen Einzeltopf (quadro ls)

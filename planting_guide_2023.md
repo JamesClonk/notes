@@ -1,3 +1,50 @@
+# Potential Setup for 2023 ❓
+
+- #### Pump 1, 70L Reservoir
+  - 6x Drips
+    - 3x weisse Einzeltöpfe (quadro ls)
+    - 2x Drips pro Topf
+    - 1x Chilipflanze pro Topf
+  - 10x Drips
+    - Für Vegtrug
+    - Bohnen, 2x Edamame
+    - Bohnen, 2x Buschbohnen
+    - Cucumis, 1x Zuckermelone
+
+- #### Pump 2, 70L Reservoir
+  - 6x Drips
+    - Für 40er Topf (cottage)
+    - Cucumis, 1x Schlangengurke
+    - Cucumis, 1x Snackgurke
+  - 12x Drips
+    - 3x 30er Topf (Trio Cottage)
+    - 4x Drips pro Topf
+    - 1x Tomatenpflanze pro Topf
+
+- #### Pump 3, 70L Reservoir
+  - 6x Drips
+    - Für 40er Topf (cottage)
+    - Cucumis, 1x Schlangengurke
+    - Cucumis, 1x Snackgurke
+  - 12x Drips
+    - 3x 30er Topf (Trio Cottage)
+    - 4x Drips pro Topf
+    - 1x Tomatenpflanze pro Topf
+
+- #### Pump 4, 35L Reservoir
+  - 4x Drips
+    - Für weissen Einzeltopf (quadro ls large)
+    - Cucumis, 1x Zitronengurke
+  - 3x Drips
+    - Für grossen Balkonkasten 
+    - 1x Kapuzinerkresse
+    - 1x ??? ❓
+  - 2x Drips
+    - Für kleinen Balkonkasten
+    - 1x Mojitominze 
+
+---
+
 ## Plants
 
 - #### Gurke 'Euphya F1' Samen
@@ -91,13 +138,3 @@
 - 2x Drips pro Chili Pflanze
 - 1-2x Drips für kleines Balkonbeet
 - 1-3x Drips für grosses Balkonbeet
-
----
-
-# Potential Setup for 2023 ❓
-
-- 7-9x Drips für Vegtrug
-- 5x Drips für 40er Topf (cottage)
-- 4x Drips für 30er Topf (trio cottage)
-- 3-4x Drips für weissen Einzeltopf (quadro ls large)
-- 2x Drips für weissen Einzeltopf (quadro ls)

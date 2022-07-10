@@ -6,7 +6,7 @@
     - 2x Drips pro Topf
     - 1x Chilipflanze pro Topf
   - 10x Drips
-    - Für Vegtrug
+    - Für Vegtrug (or replace with new trio cottage?)
     - Bohnen, 2x Edamame
     - Bohnen, 2x Buschbohnen
     - Cucumis, 1x Snackgurke

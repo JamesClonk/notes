@@ -18,7 +18,9 @@
   - 12x Drips
     - 3x 30er Topf (trio cottage)
     - 4x Drips pro Topf
-    - 1x Tomatenpflanze pro Topf
+    - 1x Spargelbohne
+    - 1x Snackgurke
+    - 1x Tomatenpflanze
 
 - #### Pump 3, 70L Reservoir
   - 7x Drips
@@ -28,12 +30,17 @@
   - 12x Drips
     - 3x 30er Topf (trio cottage)
     - 4x Drips pro Topf
-    - 1x Tomatenpflanze pro Topf
+    - 1x Tomatenpflanze
+    - 1x Schlangengurke
+    - 1x Tomatenpflanze
 
 - #### Pump 4, 35L Reservoir
-  - 4x Drips
+  - 5x Drips
     - Für weissen Einzeltopf (quadro ls large)
-    - Cucumis, 1x Schlangengurke
+    - 1x Tomatenpflanze
+  - 4x Drips
+    - Für weissen Einzeltopf (quadro ls)
+    - 1x Tomatenpflanze
   - 3x Drips
     - Für grossen Balkonkasten 
     - 1x Kapuzinerkresse
@@ -91,6 +98,14 @@
   
   Kefe, Zuckererbse 'Riesenzucker' Samen.
   Höhe 90 cm. Mittelfrüh. Grosse, lange, dunkelgrüne, langfleischige Hülsen. Die Pflanzen sind sehr robust, wüchsig und ertragreich.
+
+- #### Spargelbohnen
+  https://www.saemereien.ch/bohnensamen-kaufen-spargelbohne-vigna-unguiculata-subsp-sesquipedalis-samen
+  
+  Wächst wie Stangenbohnen bis 2.5 m in die Höhe.
+  Der Name bezieht sich auf die 50-90cm langen und 6-8mm dicken elastischen Hülsen.
+  Die jungen Hülsen (30-60cm) werden im Wok gebraten, oder wie Gartenbohnen gekocht und als (Spaghetti-Bohne) oder Bohnensalat genossen.
+  Der Geschmack ist angenehm mild. In Asien werden Sie als Gemüse und Keimsprossen genutzt.
 
 - #### Zuckermelone 'Ancien' Samen
   https://www.saemereien.ch/melonensamen-kaufen-melone-zuckermelone-zuckermelone-ancien-cucumis-melo-bio-samen

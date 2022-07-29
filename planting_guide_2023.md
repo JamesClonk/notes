@@ -1,14 +1,15 @@
 # Potential Setup for 2023 ❓
 
 - #### Pump 1, 70L Reservoir
-  - 6x Drips
+  - 6-9x Drips
     - 3x weisse Einzeltöpfe (quadro ls)
-    - 2x Drips pro Topf
+    - 2-3x Drips pro Topf
     - 1x Chilipflanze pro Topf
   - 10x Drips
     - Für Vegtrug (or replace with new trio cottage?)
     - Bohnen, 2x Edamame
     - Bohnen, 2x Buschbohnen
+    - Bohnen, 1x Spargelbohne
     - Cucumis, 1x Snackgurke
 
 - #### Pump 2, 70L Reservoir
@@ -18,19 +19,18 @@
   - 12x Drips
     - 3x 30er Topf (trio cottage)
     - 4x Drips pro Topf
-    - 1x Spargelbohne
     - 1x Snackgurke
+    - 1x Schlangengurke
     - 1x Tomatenpflanze
 
 - #### Pump 3, 70L Reservoir
   - 7x Drips
     - Für 40er Topf (cottage)
-    - Cucumis, 1x Schlangengurke
-    - Cucumis, 1x Snackgurke
+    - Cucumis, 2x Wassermelone
   - 12x Drips
     - 3x 30er Topf (trio cottage)
     - 4x Drips pro Topf
-    - 1x Tomatenpflanze
+    - 1x Snackgurke
     - 1x Schlangengurke
     - 1x Tomatenpflanze
 
@@ -53,12 +53,12 @@
 
 ## Plants
 
-- #### Gurke 'Euphya F1' Samen
+- #### Gurke 'Euphya F1'
   https://www.saemereien.ch/gurkensamen-kaufen-Euphya-f1-profiline-cucumis-sativus-samen
   
   Eine rein weibliche, parthenokarpe, mittelfrühe, bitterfreie Treibgurke (Salatgurke), die sehr ertragreich und robust ist. Sie bildet viele dunkelgrüne, ca. 30-40 cm lange, leicht gerieften, kernlose Früchte. Die ausgereiften Gurken wiegen ca. 500-600 g. Diese Sorte ist geeignet für den Anbau im geschützten Freiland und im Gewächshaus. Ausserdem ist sie sehr widerstandsfähig gegen Echten Mehltau und hochresistent gegen Blattbrand und Gurkenkrätze. Diese F1-Hybride verträgt auch etwas kühlere Temperaturen.
 
-- #### Gurke 'Patio Snack F1' Samen
+- #### Gurke 'Patio Snack F1'
   https://www.saemereien.ch/gurkensamen-kaufen-Patio-Snack-cucumis-sativus-samen
 
   Der Selbstversorger-Balkon wird Realität. Die neue Mini-Gurke F1 'Patio Snack' bildet im grossen Balkongefäss viele dieser saftigen und schmackhaften Delikatessen. Direkt von der Pflanze ernten Sie regelmässig knackige, grün glänzende Snackgurken in bester Qualität. Als jungfernfrüchtige (parthenocarpe) Sorte mit hoher Schädlingstoleranz bildet jede Blüte eine schmackhafte Frucht. Und da Gurken von Natur aus Rankpflanzen sind, 'ergreifen' sie gerne mit mehreren Trieben Balkongitter als Klettergerüst. Bei gleichmässiger Wasser- und Nährstoffversorgung wird der Balkon zum vertikalen Gartenbeet, zum Hängegarten.
@@ -76,12 +76,12 @@
   Sie erreicht ein Fruchtgewicht von 100 -110g.
   Als aromatische, schnittfeste Tomate ist sie besonders für Salate und italienische Gerichte empfehlenswert.
 
-- #### Zuckertomate 'Solena Red F1' Samen
+- #### Zuckertomate 'Solena Red F1'
   https://www.saemereien.ch/tomatensamen-bestellen-tomate-zucker-tomate-solena-red-f1-lycopersicon-esculentum-tomatensamen
 
   Eine hocharomatische und zuckersüsse Tomate mit guten Resistenzen. Zum Verzieren von Speisen oder zum Naschen direkt von der Pflanze. Ideal für Freiland, Gewächshaus und Balkon. Fruchtgewicht ca. 20 g.
 
-- #### Gemüsepaprika 'Hot and Sweet' Samen
+- #### Gemüsepaprika 'Hot and Sweet'
   https://www.saemereien.ch/paprikasamen-kaufen-gemuesepaprika-hot-and-sweet-capsicum-annuum-bio-samen
 
   Süsse bis scharfe Früchte, die aber im Geschmack mild sind. Diese ertragreiche Sorte eignet sich besonders für auf den Grill.
@@ -96,7 +96,7 @@
 - #### Buschbohnen
   https://www.saemereien.ch/erbsensamen-kaufen-kefe-zuckererbse-riesenzucker-pisum-sativum-var-saccharatum-samen
   
-  Kefe, Zuckererbse 'Riesenzucker' Samen.
+  Kefe, Zuckererbse 'Riesenzucker'.
   Höhe 90 cm. Mittelfrüh. Grosse, lange, dunkelgrüne, langfleischige Hülsen. Die Pflanzen sind sehr robust, wüchsig und ertragreich.
 
 - #### Spargelbohnen
@@ -107,11 +107,30 @@
   Die jungen Hülsen (30-60cm) werden im Wok gebraten, oder wie Gartenbohnen gekocht und als (Spaghetti-Bohne) oder Bohnensalat genossen.
   Der Geschmack ist angenehm mild. In Asien werden Sie als Gemüse und Keimsprossen genutzt.
 
-- #### Zuckermelone 'Ancien' Samen
+- #### Zuckermelone 'Ancien'
   https://www.saemereien.ch/melonensamen-kaufen-melone-zuckermelone-zuckermelone-ancien-cucumis-melo-bio-samen
 
   Zuckersüsse, saftige und aromatische Früchte. Reifen am warmen Standort auch in unserem Klima. Die rankenden Pflanzen müssen nicht ausgeschnitten werden.
 
+- #### Wassermelone 'Sugar Baby'
+  https://www.saemereien.ch/melonensamen-kaufen-wassermelone-sugar-baby-citrullus-lanatus-bio-samen
+  
+  Der Standard der kleinen Wassermelonen. Die runde Früchte sind 15-20cm im Durchmesser und im Durchschnitt 2-3 kg. Reife Melonen sind fast schwarz. 'Sugar Baby' hat einen guten Geschmack und eine zähe Schale, die Rissbildungen widersteht. Bei Aussaat im April reifen Ende August mehrere köstlich süsse und saftige Wassermelonen heran. Bei sonnigem, mildem Klima reifen die Früchte sogar im Freiland.
+
+- #### Paprika 'Friggitello F1'
+  https://www.saemereien.ch/paprikasamen-kaufen-Paprika-Friggitello-F1-Capsicum-annuum-samen
+  
+  Mittelgrosse Pflanzen produzieren ertragsreiche, 14cm längliche, spitz zulaufende, dünnhäutige, aromatische, mittelgrüne, interessante italienische Früchte. Leicht verdaulich und ideal zum Braten.
+  
+- #### Gemüsepaprika 'Skytia'
+  https://www.saemereien.ch/paprikasamen-kaufen-gemuesepaprika-Skytia-capsicum-annuum-samen
+  
+  Diese reich tragende alte Regionalsorte aus Polen ist eine optische Besonderheit, denn ihre ca. 16-18 cm langen Früchte sind spitz mit ca. 6-7 cm Durchmesser. Sie verändern ihre Farbe von anfangs grün im Reifestadium dann in cremeweiss. Sie haben eine dünne Schale und einen herrlich fruchtigen, angenehm süssen Geschmack mit leichter Würze. 
+  
+- #### Gemüsepaprika 'Pinokkio'
+  https://www.saemereien.ch/paprikasamen-kaufen-gemuesepaprika-pinokkio-capsicum-annuum-samen
+  
+  Von hellgelb nach leuchtend orangerot färbende, länglichspitze Paprikaschote. Für den Anbau im Freien geeignet. Resistent gegen Tomatenmosaikvirus.
 
 ## Usefulness / Notes
 

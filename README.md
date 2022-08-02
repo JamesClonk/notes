@@ -20,6 +20,7 @@ What to do next?
 - [x] Bigote Verde ⭐⭐⭐⭐⭐
 - [x] Dr Süder ⭐⭐⭐⭐⭐
 - [x] Chartreuse ⭐⭐⭐⭐⭐
+- [x] Onkel Thoms Schnitzelscheune ⭐⭐⭐⭐
 - [x] Namaste ⭐⭐⭐⭐
 - [x] Chu Garden ⭐⭐⭐⭐
 - [x] Noa ⭐⭐⭐⭐

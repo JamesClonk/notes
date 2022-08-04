@@ -16,7 +16,7 @@
 | Lady Pork | - | - |
 | ~~Ginger Pork~~ | - | - |
 | *Geschmorter Schweinebauch nach Huaner Art* | - | - |
-| Gebratene Schweinestreifen mit Knoblauchsprossen | - | - |
+| ✅ Gebratene Schweinestreifen mit Knoblauchsprossen | ⭐⭐⭐⭐ | Very nice, works well with noodles!  |
 | ~~Löwenkopf~~ | - | - |
 | ✅ Gebratene Schweinestreifen nach Yu-Xiang Art | ⭐⭐⭐⭐ | Very nice, maybe a bit "oily". Works well with noodles. |
 | --- | --- | --- |

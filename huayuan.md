@@ -43,6 +43,6 @@
 | Gebratene Crevetten nach Szechuan Art | - | - |
 | --- | --- | --- |
 | Tonkatsu | - | - |
-| Unagi Donburi | - | - |
+| ✅ Unagi Donburi | ⭐⭐⭐⭐ | A good, nice meal. The eel was very tasty! |
 | Gyudon | - | - |
 | Jioazi | - | - |

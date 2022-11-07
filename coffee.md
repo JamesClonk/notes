@@ -21,7 +21,7 @@
 | --- | --- | --- | --- |
 | [Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil (Yellow Bourbon), light-medium roast, low acidity, light/med bitter, sweet | ❓️ | ❓️ |
 | [Adrianos Silvestre](https://adrianos.ch/shop/kaffee/bohnen/silvestre-bohnen) | 100% Arabica, Brazil (Yellow Icatu), low fruitiness, some acidity | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), not bad but not great either, mild fruity/acidic/citric aftertaste, otherwise maybe too bland (could be grind/prep's fault though) | An2mb16.6R |
-| [Migros Barista Espresso](https://www.migros.ch/en/product/107112900000) | x% Arabica / x% Robusta, medium roast, earthy, low acidity, bitter | pre-ground bought, medium-fine grind, heavy woody and earthy aftertaste, no acidity and fruitiness. okay-ish, but way too bitter (could be prep's fault) | An2mb16.6R |
+| [Migros Barista Espresso](https://www.migros.ch/en/product/107112900000) | x% Arabica / x% Robusta, medium roast, earthy, low acidity, bitter | pre-ground bought, medium-fine grind, heavy woody and earthy aftertaste, no acidity and fruitiness. okay-ish, but way too bitter (could be prep's fault) | An2mb16.6R = ok, B = nasty! |
 
 ## ⭐️⭐️
 

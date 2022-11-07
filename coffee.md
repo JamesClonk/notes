@@ -21,13 +21,13 @@
 | --- | --- | --- | --- |
 | [Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil | ❓️ | ❓️ |
 | [Adrianos Silvestre](https://adrianos.ch/shop/kaffee/bohnen/silvestre-bohnen) | 100% Arabica, Brazil (Yellow Icatu), low fruitiness, some acidity | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), not bad but not great either, mild fruity/acidic/citric aftertaste, otherwise maybe too bland (could be grind/prep's fault though) | An2mb16.6R |
-| [Migros Barista Espresso](https://www.migros.ch/en/product/107112900000) | x% Arabica / x% Robusta, medium roast, earthy, low acidity | pre-ground bought, medium-fine grind, slightly woody, no acidity and fruitiness. okay-ish taste, though probably too bitter (could be prep's fault) | An2mb16.6R |
+| [Migros Barista Espresso](https://www.migros.ch/en/product/107112900000) | x% Arabica / x% Robusta, medium roast, earthy, low acidity | pre-ground bought, medium-fine grind, heavy woody and earthy aftertaste, no acidity and fruitiness. okay-ish, though probably too bitter (could be prep's fault) | An2mb16.6R |
 
 ## ⭐️⭐️
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Adrianos Lungo](https://adrianos.ch/shop/kaffee/bohnen/adrianos-lungo-1) | 100% Arabica, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - Costa Rica([Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria)) blend | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), very fruity, acidic, citric, not bad per se but definitely don't like the fruity/citrus taste, almost more tea than coffee | An2mb16.6R |
+| [Adrianos Lungo](https://adrianos.ch/shop/kaffee/bohnen/adrianos-lungo-1) | 100% Arabica, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - Costa Rica([Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria)) blend, very fruity, acidic and citric | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), not bad per se but definitely don't like the heavy fruity/citrus taste, almost more tea than coffee | An2mb16.6R |
 | [Adrianos Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen) | 100% Arabica, Ethiopia, fruity, acidic, citric | ❓️ | ❓️ |
 
 ## ⭐️

@@ -13,7 +13,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| Peru | Peru, light-medium roast | - | Ai3mb |
+| [Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, low acidity, sweet | - | Ai3mb |
 
 ## ⭐️⭐️⭐️
 

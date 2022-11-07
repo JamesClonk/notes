@@ -13,7 +13,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, low acidity, sweet | Used 20-22 clicks on C40, added hot milk and milk foam, delicious! | Ai3mb16.6R |
+| [Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, low acidity, sweet | Used 20-22 clicks on C40, mild and pleasant taste, no bad acidity, no fruitiness, added hot milk and milk foam, delicious! | Ai3mb16.6R |
 
 ## ⭐️⭐️⭐️
 
@@ -40,7 +40,7 @@
   - n = normal
   - i = inverted
   - xm = time
-  - b = +bloom/stir
+  - b = +bloom/stir (usually 30s)
 - B = Bialetti / Moka pot
 - E = Espresso / 9bar
 - P = E.S.E. pads

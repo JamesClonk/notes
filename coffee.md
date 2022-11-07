@@ -20,6 +20,7 @@
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
 | [Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil | ❓️ | ❓️ |
+| [Adrianos Silvestre](https://adrianos.ch/shop/kaffee/bohnen/silvestre-bohnen) | 100% Arabica, Brazil (Yellow Icatu) | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), low fruitiness, some acidity, not bad, but not great either, mild fruity/acidic/citric aftertaste, otherwise maybe too bland (could be grind/prep's fault though) | An2mb16.6R |
 
 ## ⭐️⭐️
 

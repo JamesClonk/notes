@@ -13,13 +13,13 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, low acidity, some sweet, not bitter | Used 20-22 clicks on C40, mild and pleasant taste, no bad acidity, no fruitiness, added hot milk and milk foam, delicious! | Ai3mb16.6R |
+| [Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, low acidity, light sweet, not bitter | Used 20-22 clicks on C40, mild and pleasant taste, no bad acidity, no fruitiness, added hot milk and milk foam, delicious! | Ai3mb16.6R |
 
 ## ⭐️⭐️⭐️
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil, light-medium roast, low acidity, low/med bitter, sweet | ❓️ | ❓️ |
+| [Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil, light-medium roast, low acidity, light/med bitter, sweet | ❓️ | ❓️ |
 | [Adrianos Silvestre](https://adrianos.ch/shop/kaffee/bohnen/silvestre-bohnen) | 100% Arabica, Brazil (Yellow Icatu), low fruitiness, some acidity | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), not bad but not great either, mild fruity/acidic/citric aftertaste, otherwise maybe too bland (could be grind/prep's fault though) | An2mb16.6R |
 | [Migros Barista Espresso](https://www.migros.ch/en/product/107112900000) | x% Arabica / x% Robusta, medium roast, earthy, low acidity, bitter | pre-ground bought, medium-fine grind, heavy woody and earthy aftertaste, no acidity and fruitiness. okay-ish, but way too bitter (could be prep's fault) | An2mb16.6R |
 

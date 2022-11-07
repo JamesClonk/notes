@@ -60,5 +60,6 @@
 - E = Espresso / 9bar
 - P = E.S.E. pads
 - F = French Press
-- H|V = Drip|Filter coffee / Hario V60
+- H = Hario / drip|filter coffee
+  - V = V60
 - C = Chemex

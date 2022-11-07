@@ -25,6 +25,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
+| [Lungo](https://adrianos.ch/shop/kaffee/bohnen/adrianos-lungo-1) | --- | medium grind (Bialetti coarseness according to Adrianos store), very fruity, acidic, citric, not bad per se but definitely don't like the fruity/citrus taste, almost more tea than coffee | An2mb16.6R |
 
 ## ⭐️
 

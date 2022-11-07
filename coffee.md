@@ -6,32 +6,32 @@
 
 ## ⭐️⭐️⭐️⭐️⭐️
 
-| Name | Metadata | Comment | Method |
+| Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
 
 ## ⭐️⭐️⭐️⭐️
 
-| Name | Metadata | Comment | Method |
+| Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
 
 ## ⭐️⭐️⭐️
 
-| Name | Metadata | Comment | Method |
+| Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
 
 ## ⭐️⭐️
 
-| Name | Metadata | Comment | Method |
+| Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
 
 ## ⭐️
 
-| Name | Metadata | Comment | Method |
+| Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
 
 ---
 
-## Methods
+## Usage / Methods
 
 - xR = Ratio
 - A = AeroPress
@@ -39,5 +39,7 @@
   - i = inverted
   - xm = time
   - b = +bloom/stir
-- B = Bialetti
+- B = Bialetti / Moka pot
+- E = Espresso / 9bar
+- P = E.S.E. pads
 

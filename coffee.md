@@ -25,7 +25,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Adrianos Lungo](https://adrianos.ch/shop/kaffee/bohnen/adrianos-lungo-1) | 100% Arabica, Brazil(Cerrafine) - Ethiopia(Boledu) - Costa Rica(Candelaria) blend | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), very fruity, acidic, citric, not bad per se but definitely don't like the fruity/citrus taste, almost more tea than coffee | An2mb16.6R |
+| [Adrianos Lungo](https://adrianos.ch/shop/kaffee/bohnen/adrianos-lungo-1) | 100% Arabica, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - Costa Rica(Candelaria) blend | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), very fruity, acidic, citric, not bad per se but definitely don't like the fruity/citrus taste, almost more tea than coffee | An2mb16.6R |
 | [Adrianos Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen) | 100% Arabica, Ethiopia, fruity, acidic, citric | ❓️ | ❓️ |
 
 ## ⭐️

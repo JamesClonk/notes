@@ -18,7 +18,8 @@
 ## ⭐️⭐️⭐️
 
 | Name | Metadata | Comment | Usage |
-| [Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil | --- | --- |
+| --- | --- | --- | --- |
+| [Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil | ❓️ | ❓️ |
 
 ## ⭐️⭐️
 

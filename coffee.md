@@ -59,4 +59,6 @@
 - B = Bialetti / Moka pot
 - E = Espresso / 9bar
 - P = E.S.E. pads
-
+- F = French Press
+- H|V = Drip|Filter coffee / Hario V60
+- C = Chemex

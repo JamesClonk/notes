@@ -33,7 +33,7 @@
 
 ## Usage / Methods
 
-- xR = Ratio
+- xR = Ratio, example 16.7 -> 12g/200ml
 - A = AeroPress
   - n = normal
   - i = inverted

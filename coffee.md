@@ -13,6 +13,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
+| Peru | Peru, light-medium roast | - | Ai3mb |
 
 ## ⭐️⭐️⭐️
 

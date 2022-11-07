@@ -13,12 +13,12 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, low acidity, sweet | Used 20-22 clicks on C40, added hot milk and milk foam, delicious! | Ai3mb16.6R |
+| [Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, low acidity, sweet | Used 20-22 clicks on C40, added hot milk and milk foam, delicious! | Ai3mb16.6R |
 
 ## ⭐️⭐️⭐️
 
 | Name | Metadata | Comment | Usage |
-| --- | --- | --- | --- |
+| [Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil | --- | --- |
 
 ## ⭐️⭐️
 

@@ -45,8 +45,8 @@
 | [Turm - India - Monsooned Malabar](https://shop.turmkaffee.ch/kaffee/india-monsooned.html) | 100% Arabica, India, light-medium roast, low/no acidity, ❓️ | ❓️ | ❓️ |
 | [Café Oli - Colombia – Bahareque Torra](https://cafeoli.ch/produit/colombia-torra/) | 100% Arabica, Colombia (Castillo, Colombia and Caturra blend), ❓️ roast, fruity, acidic and citric, ❓️ | ❓️ | ❓️ |
 | [Café Oli - Ethiopia – Tega & Tula](https://cafeoli.ch/produit/ethiopia-tega-tula/) | 100% Arabica, Ethiopia, ❓️ roast, sweet, fruity, low bitter, ❓️ | ❓️ | ❓️ |
-| [Café Oli - Colombia – Bahareque Torra](https://cafeoli.ch/produit/colombia-torra/) | 100% Arabica, Colombia (Castillo, Colombia and Caturra blend), ❓️ roast, fruity, acidic and citric, ❓️ | ❓️ | ❓️ |
-| [Café Oli - Colombia – Bahareque Torra](https://cafeoli.ch/produit/colombia-torra/) | 100% Arabica, Colombia (Castillo, Colombia and Caturra blend), ❓️ roast, fruity, acidic and citric, ❓️ | ❓️ | ❓️ |
+| [Café Oli - Honduras – COMSA Blend](https://cafeoli.ch/produit/honduras-comsa-blend/) | 100% Arabica, Honduras (Parainema, Lempira, IHCAFE 90, Catuai, Icatu, Tipica, Pache, Bourbon and Catimor blend), ❓️ roast, low fruitiness??, sweet??, low bitter??, ❓️ | ❓️ | ❓️ |
+| [Café Oli - Mexico – San Alfonso](https://cafeoli.ch/produit/mexico-san-alfonso/) | 100% Arabica, Mexico (Marsellesa and Caturra blend), ❓️ roast, low sweet, fruity, acidic and citric, ❓️ | ❓️ | ❓️ |
 
 
 ---

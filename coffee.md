@@ -24,8 +24,8 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Café Oli - Ethiopia – Tega & Tula](https://cafeoli.ch/produit/ethiopia-tega-tula/) | 100% Arabica, Ethiopia, medium roast, very fruity and citric, acidic, low bitter | Too fruity/acidic for me | ❓️ |
-| [Adrianos - Silvestre](https://adrianos.ch/shop/kaffee/bohnen/silvestre-bohnen) | 100% Arabica, Brazil (Yellow Icatu), some fruitiness, some acidity | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), not bad but not great either, pretty *meh* overall, mild fruity/acidic/citric aftertaste, otherwise maybe too bland (could be grind/prep's fault though) | An2mb16.6R |
+| [Café Oli - Ethiopia – Tega & Tula](https://cafeoli.ch/produit/ethiopia-tega-tula/) | 100% Arabica, Ethiopia, medium roast, very <ins>fruity</ins> and citric, acidic, low bitter | Too fruity/acidic for me | ❓️ |
+| [Adrianos - Silvestre](https://adrianos.ch/shop/kaffee/bohnen/silvestre-bohnen) | 100% Arabica, Brazil (Yellow Icatu), some fruitiness, some acidity | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), not bad but not great either, pretty <ins>meh</ins> overall, mild fruity/acidic/citric aftertaste, otherwise maybe too bland (could be grind/prep's fault though) | An2mb16.6R |
 
 ## ⭐️⭐️
 

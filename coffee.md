@@ -8,7 +8,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Café Oli - Honduras – COMSA Blend](https://cafeoli.ch/produit/honduras-comsa-blend/) | 100% Arabica, Honduras (Parainema, Lempira, IHCAFE 90, Catuai, Icatu, Tipica, Pache, Bourbon and Catimor blend), medium-dark roast, <ins>dark chocolate</ins, low fruity, sweet/creamy, smooth, low citric, low bitter | ❓️ | ❓️ |
+| [Café Oli - Honduras – COMSA Blend](https://cafeoli.ch/produit/honduras-comsa-blend/) | 100% Arabica, Honduras (Parainema, Lempira, IHCAFE 90, Catuai, Icatu, Tipica, Pache, Bourbon and Catimor blend), medium-dark roast, <ins>dark chocolate</ins>, low fruity, sweet/creamy, smooth, low citric, low bitter | ❓️ | ❓️ |
 | [Café Oli - Mexico – San Alfonso](https://cafeoli.ch/produit/mexico-san-alfonso/) | 100% Arabica, Mexico (Marsellesa and Caturra blend), medium roast, caramely, bitter, low sweet, acidic, ❓️ | ❓️ | ❓️ |
 
 ## ⭐️⭐️⭐️⭐️

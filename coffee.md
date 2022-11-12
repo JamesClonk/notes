@@ -13,8 +13,8 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Turm - Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, low acidity, light sweet, light nutty, not bitter | Used 20-22 clicks on [C40](https://www.comandantegrinder.com/) for grind size, mild and pleasant taste, no bad acidity, no fruitiness, added hot milk and milk foam, delicious! (Mario's comment: Marroni) | Ai3mb16.6R = 4x⭐️<br/>An4ms18-20R = 3x⭐️ |
-| [Turm - Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil (Yellow Bourbon), light-medium roast, ~nutty~, light fruity, low acidity, low bitter, sweet | ❓️ | ❓️ |
+| [Turm - Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, <u>earthy</u>, low acidity, light sweet, light nutty, light bitter | Used 20-22 clicks on [C40](https://www.comandantegrinder.com/) for grind size, mild and pleasant taste, no bad acidity, no fruitiness, added hot milk and milk foam, delicious! (Mario's comment: Marroni) | Ai3mb16.6R = 4x⭐️<br/>An4ms18-20R = 3x⭐️ |
+| [Turm - Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil (Yellow Bourbon), light-medium roast, <u>nutty</u>, light fruity, low acidity, low bitter, sweet | ❓️ | ❓️ |
 
 ## ⭐️⭐️⭐️
 

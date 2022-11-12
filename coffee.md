@@ -43,7 +43,7 @@
 | [Adrianos - Malabar](https://adrianos.ch/shop/kaffee/bohnen/adrianos-malabar-1) | 100% Arabica, India, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Dark Robusta](https://adrianos.ch/shop/kaffee/bohnen/adrianos-dark-robusta-1) | 50% Arabica / 50% Robusta, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - India(Robusta), ❓️ | ❓️ | ❓️ |
 | [Turm - India - Monsooned Malabar](https://shop.turmkaffee.ch/kaffee/india-monsooned.html) | 100% Arabica, India, light-medium roast, earthy, low/no acidity, ❓️ | ❓️ | ❓️ |
-| [Café Oli - Colombia – Bahareque Torra](https://cafeoli.ch/produit/colombia-torra/) | 100% Arabica, Colombia (Castillo, Colombia and Caturra blend), medium roast, chocolatey smell, ❓️ | ❓️ | ❓️ |
+| [Café Oli - Colombia – Bahareque Torra](https://cafeoli.ch/produit/colombia-torra/) | 100% Arabica, Colombia (Castillo, Colombia and Caturra blend), medium roast, chocolatey smell, low acidic/citric, ❓️ | ❓️ | ❓️ |
 | [Café Oli - Ethiopia – Tega & Tula](https://cafeoli.ch/produit/ethiopia-tega-tula/) | 100% Arabica, Ethiopia, ❓️ roast, sweet, fruity, low bitter, ❓️ | ❓️ | ❓️ |
 | [Café Oli - Honduras – COMSA Blend](https://cafeoli.ch/produit/honduras-comsa-blend/) | 100% Arabica, Honduras (Parainema, Lempira, IHCAFE 90, Catuai, Icatu, Tipica, Pache, Bourbon and Catimor blend), ❓️ roast, low fruitiness??, sweet??, low bitter??, ❓️ | ❓️ | ❓️ |
 | [Café Oli - Mexico – San Alfonso](https://cafeoli.ch/produit/mexico-san-alfonso/) | 100% Arabica, Mexico (Marsellesa and Caturra blend), ❓️ roast, low sweet, fruity, acidic and citric, ❓️ | ❓️ | ❓️ |

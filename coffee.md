@@ -8,15 +8,15 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Café Oli - Honduras – COMSA Blend](https://cafeoli.ch/produit/honduras-comsa-blend/) | 100% Arabica, Honduras (Parainema, Lempira, IHCAFE 90, Catuai, Icatu, Tipica, Pache, Bourbon and Catimor blend), medium-dark roast, <ins>dark chocolate</ins>, low fruity, sweet/creamy, smooth, low citric, low bitter | 16 clicks on [C40](https://www.comandantegrinder.com/) for grind size, pleasant bitterness, full of chocolatey flavors, unbelievably delicious with hot milk  and milk foam!<br/>Don't know if its a residual effect of a coffee cupping I did just before or the newly reduced C40 grind size, but it *felt* strong and gave me a dizzy head 😂 | An4ms17R |
-| [Café Oli - Mexico – San Alfonso](https://cafeoli.ch/produit/mexico-san-alfonso/) | 100% Arabica, Mexico (Marsellesa and Caturra blend), medium roast, <ins>caramel</ins>/chocolate, sweet, rough, creamy, low citric | 16 clicks on [C40](https://www.comandantegrinder.com/) for grind size, resulted in a pleasant slight fruitiness.<br/>Got a dizzy head again, maybe the grind size is too low and it gets too strong for me? Or the lower ratio of 15? Try coarser next time and/or higher ratio 📌 | An4ms15R |
+| [Café Oli - Honduras – COMSA Blend](https://cafeoli.ch/produit/honduras-comsa-blend/) | 100% Arabica, Honduras (Parainema, Lempira, IHCAFE 90, Catuai, Icatu, Tipica, Pache, Bourbon and Catimor blend), medium-dark roast, <ins>dark chocolate</ins>, low fruity, sweet/creamy, smooth, low citric, low bitter | 16 clicks on [C40](https://www.comandantegrinder.com/) for grind size, pleasant bitterness, full of chocolatey flavors, unbelievably delicious with hot milk  and milk foam!<br/>Don't know if its a residual effect of a coffee cupping I did just before or the newly reduced C40 grind size, but it *felt* strong and gave me a dizzy head 😂 | An4ms17RC16 |
+| [Café Oli - Mexico – San Alfonso](https://cafeoli.ch/produit/mexico-san-alfonso/) | 100% Arabica, Mexico (Marsellesa and Caturra blend), medium roast, <ins>caramel</ins>/chocolate, sweet, rough, creamy, low citric | 16 clicks on [C40](https://www.comandantegrinder.com/) for grind size, resulted in a pleasant slight fruitiness, got a dizzy head again.<br/>More clicks (22) and lower ratio (14) resulted in a more even feeling. | An4ms15RC16 = 5x<br/>An4ms14RC22 = 5x |
 
 ## ⭐️⭐️⭐️⭐️
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
 | [Café Oli - Colombia – Bahareque Torra](https://cafeoli.ch/produit/colombia-torra/) | 100% Arabica, Colombia (Castillo, Colombia and Caturra blend), medium roast, citric, fruity, not sweet, low acidic | very fruity but still pleasant <ins>citrus</ins> taste | ❓️ |
-| [Turm - Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, <ins>earthy</ins>, low acidity, light sweet, light nutty, light bitter | 20-22 clicks on [C40](https://www.comandantegrinder.com/) for grind size, mild and pleasant taste, no bad acidity, no fruitiness, added hot milk and milk foam, delicious!<br/>(Mario's comment: Marroni) | Ai3mb16.6R = 4x⭐️<br/>An4ms18-20R = 3x⭐️ |
+| [Turm - Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, <ins>earthy</ins>, low acidity, light sweet, light nutty, light bitter | 20-22 clicks on [C40](https://www.comandantegrinder.com/) for grind size, mild and pleasant taste, no bad acidity, no fruitiness, added hot milk and milk foam, delicious!<br/>(Mario's comment: Marroni) | Ai3mb16.6RC20 = 4x<br/>An4ms18-20RC20 = 3x |
 | [Turm - Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil (Yellow Bourbon), light-medium roast, <ins>nutty</ins>, light fruity, low acidity, low bitter, sweet | ❓️ | ❓️ |
 | [Turm - India - Monsooned Malabar](https://shop.turmkaffee.ch/kaffee/india-monsooned.html) | 100% Arabica, India, light-medium roast, <ins>tobacco</ins>, earthy, low/no acidity, low bitter | ❓️ | ❓️ |
 
@@ -65,4 +65,5 @@
 - F = French Press
 - H = Hario / drip|filter coffee
   - V = V60
-- C = Chemex
+- Ch = Chemex
+- Cxx = Comandante [C40](https://www.comandantegrinder.com/) click settings

@@ -17,7 +17,7 @@
 | --- | --- | --- | --- |
 | [Café Oli - Colombia – Bahareque Torra](https://cafeoli.ch/produit/colombia-torra/) | 100% Arabica, Colombia (Castillo, Colombia and Caturra blend), medium roast, citric, fruity, not sweet, low acidic | very fruity but still pleasant <ins>citrus</ins> taste | ❓️ |
 | [Café Oli - Ethiopia – Tega & Tula](https://cafeoli.ch/produit/ethiopia-tega-tula/) | 100% Arabica, Ethiopia, medium roast, very <ins>fruity</ins> and citric, acidic, low bitter | Very fruity, but somehow pleasant, worked well standalone for a large cup. | An4msR17C22 |
-| [Turm - Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, <ins>earthy</ins>, low acidity, light sweet, light nutty, light bitter | 20-22 clicks on [C40](https://www.comandantegrinder.com/) for grind size, mild and pleasant taste, no bad acidity, no fruitiness, added hot milk and milk foam, delicious!<br/>(Mario's comment: Marroni) | Ai3mbR16.6C20 = 4x<br/>An4ms18-20RC20 = 3x |
+| [Turm - Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, <ins>earthy</ins>, low acidity, light sweet, light nutty, light bitter | 20-22 clicks on [C40](https://www.comandantegrinder.com/) for grind size, mild and pleasant taste, no bad acidity, no fruitiness, added hot milk and milk foam, delicious!<br/>(Mario's comment: Marroni) | Ai3mbR16.6C20 = 4x<br/>An4msR18-20C20 = 3x |
 | [Turm - Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil (Yellow Bourbon), light-medium roast, <ins>nutty</ins>, light fruity, low acidity, low bitter, sweet | ❓️ | ❓️ |
 | [Turm - India - Monsooned Malabar](https://shop.turmkaffee.ch/kaffee/india-monsooned.html) | 100% Arabica, India, light-medium roast, <ins>tobacco</ins>, earthy, low/no acidity, low bitter | ❓️ | ❓️ |
 
@@ -52,7 +52,7 @@
 
 ## Usage / Methods - code matrix
 
-- xR = Ratio, example 16.7 -> 12g/200ml
+- Rx = Ratio, example 16.7 -> 12g/200ml
 - A = AeroPress
   - n = normal
   - i = inverted

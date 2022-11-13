@@ -9,7 +9,7 @@
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
 | [Café Oli - Honduras – COMSA Blend](https://cafeoli.ch/produit/honduras-comsa-blend/) | 100% Arabica, Honduras (Parainema, Lempira, IHCAFE 90, Catuai, Icatu, Tipica, Pache, Bourbon and Catimor blend), medium-dark roast, <ins>dark chocolate</ins>, low fruity, sweet/creamy, smooth, low citric, low bitter | 16 clicks on [C40](https://www.comandantegrinder.com/) for grind size, pleasant bitterness, full of chocolatey flavors, unbelievably delicious with hot milk  and milk foam!<br/>Don't know if its a residual effect of a coffee cupping I did just before or the newly reduced C40 grind size, but it *felt* strong and gave me a dizzy head 😂 | An4ms17R |
-| [Café Oli - Mexico – San Alfonso](https://cafeoli.ch/produit/mexico-san-alfonso/) | 100% Arabica, Mexico (Marsellesa and Caturra blend), medium roast, <ins>caramel</ins>/chocolate, sweet, rough, creamy, low citric | 16 clicks on [C40](https://www.comandantegrinder.com/) for grind size, resulted in a pleasant slight fruitiness. got a dizzy head again, maybe the grind size is too low and it gets too strong for me? Or the lower ratio of 15? Try coarser next time and/or higher ratio 📌 | An4ms15R |
+| [Café Oli - Mexico – San Alfonso](https://cafeoli.ch/produit/mexico-san-alfonso/) | 100% Arabica, Mexico (Marsellesa and Caturra blend), medium roast, <ins>caramel</ins>/chocolate, sweet, rough, creamy, low citric | 16 clicks on [C40](https://www.comandantegrinder.com/) for grind size, resulted in a pleasant slight fruitiness.<br/>Got a dizzy head again, maybe the grind size is too low and it gets too strong for me? Or the lower ratio of 15? Try coarser next time and/or higher ratio 📌 | An4ms15R |
 
 ## ⭐️⭐️⭐️⭐️
 

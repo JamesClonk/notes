@@ -52,17 +52,17 @@
 
 ## Usage / Methods - code matrix
 
-- Rx = Ratio, example 16.7 -> 12g/200ml
+- R_ = Ratio, example 16.7 -> 12g/200ml
 - A = AeroPress
   - n = normal
   - i = inverted
-  - xm = time
+  - _m = time
   - b = +bloom/stir (usually 30s)
   - s = +stir at start only
 - B = Bialetti / Moka pot
 - E = Espresso / 9bar
-  - xg = grams of coffee
-  - ->xsxg = shot time and grams of result
+  - _g = grams of coffee
+  - ->_s_g = shot time and grams of result
 - P = E.S.E. pads
 - F = French Press
 - H = Hario / drip|filter coffee

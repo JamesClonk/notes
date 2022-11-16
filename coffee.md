@@ -61,6 +61,8 @@
   - s = +stir at start only
 - B = Bialetti / Moka pot
 - E = Espresso / 9bar
+  - xg = grams of coffee
+  - ->xsxg = shot time and grams of result
 - P = E.S.E. pads
 - F = French Press
 - H = Hario / drip|filter coffee

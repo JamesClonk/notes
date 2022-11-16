@@ -67,3 +67,11 @@
   - V = V60
 - Ch = Chemex
 - Cxx = Comandante [C40](https://www.comandantegrinder.com/) click settings
+
+## General notes
+
+Starting points for dialing in:
+- C40 clicks for 9barista: 10-15
+- C40 clicks for Bialetti: 16-20
+- C40 clicks for AeroPress, standard: 18-24
+- C40 clicks for AeroPress, inverted: 22-28

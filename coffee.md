@@ -15,7 +15,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Café Oli - Colombia – Bahareque Torra](https://cafeoli.ch/produit/colombia-torra/) | 100% Arabica, Colombia (Castillo, Colombia and Caturra blend), medium roast, citric, fruity, not sweet, low acidic | very fruity but still pleasant <ins>citrus</ins> taste<br/><br/>Try 26 clicks for AeroPress! | ❓️ |
+| [Café Oli - Colombia – Bahareque Torra](https://cafeoli.ch/produit/colombia-torra/) | 100% Arabica, Colombia (Castillo, Colombia and Caturra blend), medium roast, citric, fruity, not sweet, low acidic | very fruity but still pleasant <ins>citrus</ins> taste<br/><br/>Try 26 clicks for AeroPress! | Ap38gR11C26 |
 | [Café Oli - Ethiopia – Tega & Tula](https://cafeoli.ch/produit/ethiopia-tega-tula/) | 100% Arabica, Ethiopia, medium roast, very <ins>fruity</ins> and citric, acidic, low bitter | Very fruity, but somehow pleasant, worked well standalone for a large cup. As long as you know what to expect (fruity tea-like taste, not suited for milk!) it works well<br/><br/>Try 26 clicks for AeroPress next time!<br/><br/>In white vacuum box | An4msR17C22 |
 | [Turm - Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, <ins>earthy</ins>, no fruit, low acidity, light sweet, light nutty, light bitter | 20-22 clicks on [C40](https://www.comandantegrinder.com/) for grind size, mild and pleasant taste, no bad acidity, no fruitiness, works well with hot milk and milk foam -> delicious!<br/>(Mario's comment: Marroni) | Ai3mbR16.6C20 = 4x<br/>An4msR18-20C20 = 3x |
 | [Turm - Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil (Yellow Bourbon), light-medium roast, <ins>nutty</ins>, light fruity, low acidity, low bitter, sweet | ❓️ | ❓️ |
@@ -56,6 +56,7 @@
 - A = AeroPress
   - n = normal
   - i = inverted
+  - p = PuckPuck cold brew
   - _m = time
   - b = +bloom/stir (usually 30s)
   - s = +stir at start only

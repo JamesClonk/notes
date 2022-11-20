@@ -48,7 +48,7 @@
 | [Adrianos - Malabar](https://adrianos.ch/shop/kaffee/bohnen/adrianos-malabar-1) | 100% Arabica, India, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Dark Robusta](https://adrianos.ch/shop/kaffee/bohnen/adrianos-dark-robusta-1) | 50% Arabica / 50% Robusta, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - India(Robusta), ❓️ | ❓️ | ❓️ |
 | [Stoll Classic - Nero](https://www.stoll-kaffee.ch/produkt/nero/) | 85% Arabica / 15% Robusta, ???(Arabica) - India(Robusta), dark roast, chocolatey, sweet, spices, bitter, ❓️ | ❓️ | ❓️ |
-| [Stoll Classic - Hausmischung](https://www.stoll-kaffee.ch/produkt/hausmischung/) | 100% Arabica, Brazil - Ethiopia - Columbia - Costa Rica, light-medium roast, citric, sweet, acidity, ❓️ | ❓️ | ❓️ |
+| [Stoll Classic - Hausmischung](https://www.stoll-kaffee.ch/produkt/hausmischung/) | 100% Arabica, Brazil - Ethiopia - Columbia - Costa Rica, light-medium roast, citric, sweet, acidity, ❓️ | Aimed at Café Crème (and maybe Lungo), not really for Espresso? ❓️ | ❓️ |
 
 ---
 

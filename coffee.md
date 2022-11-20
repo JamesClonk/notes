@@ -32,7 +32,7 @@
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
 | [Migros - Barista Espresso](https://www.migros.ch/en/product/107112900000) | x% Arabica / x% Robusta, medium roast, earthy, low acidity, bitter | pre-ground bought, medium-fine grind, heavy woody and earthy aftertaste, no acidity and fruitiness. okay-ish, but way too bitter (could be prep's fault) | An2mbR16.6 = maybe ok-ish<br/>B = nasty! |
-| [Adrianos - Lungo](https://adrianos.ch/shop/kaffee/bohnen/adrianos-lungo-1) | 100% Arabica, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - Costa Rica([Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria)) blend, very fruity, acidic and citric, bitter | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), unpleasant, definitely don't like the heavy fruity/citrus taste, almost more tea than coffee, bitter near the end | An2mbR16.6 |
+| [Adrianos - Lungo](https://adrianos.ch/shop/kaffee/bohnen/adrianos-lungo-1) | 100% Arabica, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - Costa Rica([Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria)) blend, very fruity, acidic and citric, bitter | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), unpleasant, definitely don't like the heavy fruity/citrus taste, almost more tea than coffee, sour near the end | An2mbR16.6 |
 
 ## ⭐️
 

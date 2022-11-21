@@ -49,7 +49,8 @@
 | [Adrianos - Dark Robusta](https://adrianos.ch/shop/kaffee/bohnen/adrianos-dark-robusta-1) | 50% Arabica / 50% Robusta, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - India(Robusta), ?dark roast?, tobacco, caramel, fermented, ❓️ | Specifically for Espresso, ❓️ | ❓️ |
 | [Stoll Classic - Nero](https://www.stoll-kaffee.ch/produkt/nero/) | 85% Arabica / 15% Robusta, ???(Arabica) - India(Robusta), dark roast, chocolatey, nutty, sweet, spices, bitter, ❓️ | Specifically for Espresso, ❓️ | ❓️ |
 | [Stoll Classic - Hausmischung](https://www.stoll-kaffee.ch/produkt/hausmischung/) | 100% Arabica, Brazil - Ethiopia - Columbia - Costa Rica, light-medium roast, citric, sweet, acidity, ❓️ | Aimed at Café Crème (and maybe Lungo), not really for Espresso? ❓️ | ❓️ |
-| [MAME - El Paraiso Red - Filter](https://mame.coffee/collections/coffee/products/el-paraiso-red-filter) | 100% Arabica, Colombia, light-medium roast, natural/fermented, fruity, creamy, ❓️ | Specifically for filter coffee, ❓️ | ❓️ |
+| [MAME - El Paraiso Red - Filter](https://mame.coffee/collections/coffee/products/el-paraiso-red-filter) | 100% Arabica, Colombia, light roast, natural/fermented, fruity, creamy, ❓️ | Specifically for filter coffee, ❓️ | ❓️ |
+| [MAME - Pearl - Espresso](https://mame.coffee/collections/espresso/products/test-of-gilberto-espresso) | 100% Arabica, Brazil, medium roast, natural, chocolatey, creamy, ❓️ | Specifically for Espresso, ❓️ | ❓️ |
 
 ---
 

@@ -2,6 +2,12 @@
 
 ---
 
+## General TODO:
+
+- [ ] Try next AeroPress with a large dose - low ratio recipe. For example inverted, very coarse grind (C28-30), 30g, add 50ml, bloom, add remaining 100-200ml, stir, wait 2min, swirl, wait 30s, push through.
+
+---
+
 ## Beans / Coffee
 
 ## ⭐️⭐️⭐️⭐️⭐️

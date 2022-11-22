@@ -74,6 +74,7 @@
   - V = V60
 - Ch = Chemex
 - Cxx = Comandante [C40](https://www.comandantegrinder.com/) click settings
+- 👍️ = this is how to use that coffee, determined after lengthy research process 😆
 
 ## General notes
 

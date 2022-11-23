@@ -90,3 +90,15 @@ Starting points for dialing in:
 - C40 clicks for Bialetti: 16-20 (may go as high as 30 though)
 - C40 clicks for AeroPress, standard: 18-24
 - C40 clicks for AeroPress, inverted: 22-28
+
+#### 9baristo process:
+
+- don't push rubber cover on portafilter basket all the way in, ideally it shouldn't touch the puck
+- without adaptor-plate on smallest glass-ceramic
+- set to highest heat
+- wait till first angry steam blow from chimney
+- see Espresso appearing and start timer
+- ~25s later the second angry steam blow from chimney should happen / have happened by then
+- immediately take off of heat once second angry steam blow subsides, stop timer
+- pour shot into glass
+- enjoy! (or not.. 🤣)

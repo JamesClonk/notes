@@ -90,7 +90,7 @@ Starting points for dialing in:
 - C40 clicks for Bialetti: 16-20 (may go as high as 30 though)
 - C40 clicks for AeroPress, standard: 18-24
 - C40 clicks for AeroPress, inverted: 22-28
-- C40 clicks for V60: 18-24 (a bit coarser for darker roasts)
+- C40 clicks for V60: 18-22 (a bit coarser for darker roasts)
 
 ---
 

@@ -90,8 +90,9 @@ Starting points for dialing in:
 - C40 clicks for Bialetti: 16-20 (may go as high as 30 though)
 - C40 clicks for AeroPress, standard: 18-24
 - C40 clicks for AeroPress, inverted: 22-28
+- C40 clicks for V60, inverted: 18-24 (a bit coarser for darker roasts)
 
-##### Wait time for freshly roasted beans:
+##### Wait time for freshly roasted beans
 - Espresso 12 days+
 - Filter 5 days+
 
@@ -103,6 +104,11 @@ Minimally 5-7 days for filter brewing and 7-10 days for Espresso. Usually lasts 
 
 ###### light roast
 10 - 14 days for filter and 14 days+ for Espressos
+
+#### V60 process:
+
+- when in doubt, use C18-20 as base grind size
+- 
 
 #### 9baristo process:
 

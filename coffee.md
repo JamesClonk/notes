@@ -118,9 +118,10 @@ Starting points for dialing in:
 - when in doubt, use C18-20 as base grind size
 - rinse filter paper
 - heat water
-  - only ultra light roasts need 100c water
-  - the darker it gets the lower the temps, down to 80c for very dark rossts. 
-  - try 95c as default
+  - the darker it gets the lower the temps
+  - down to 80-85c (maybe up to 90c) for darker rossts
+  - 90-95c for medium roasts
+  - 95-100c for light roasts
 - preheat V60 cup
 - put hot V60 cup on caraffe, add rinsed filter paper
 - add coffee, dig small mound in middle

@@ -115,7 +115,7 @@ Starting points for dialing in:
 #### V60 process:
 
 - base recipe: 15g beans, 250g water
-- when in doubt, use C18-20 as base grind size
+- when in doubt, use C18-22 as base grind size
 - rinse filter paper
 - heat water
   - the darker it gets the lower the temps

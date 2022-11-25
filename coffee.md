@@ -108,7 +108,10 @@ Minimally 5-7 days for filter brewing and 7-10 days for Espresso. Usually lasts 
 #### V60 process:
 
 - when in doubt, use C18-20 as base grind size
-- heat water. only ultra light roasts need 100c water, the darker it gets the lower the temps, down to 80c for very dark rossts. try 95c as default.
+- heat water
+  - only ultra light roasts need 100c water
+  - the darker it gets the lower the temps, down to 80c for very dark rossts. 
+  - try 95c as default
 - 0:00 - pour 50g
 - 0:10-0:15 - gently swirl
 - reset time (makes keeping track easier for the intervals)

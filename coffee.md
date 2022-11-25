@@ -92,6 +92,8 @@ Starting points for dialing in:
 - C40 clicks for AeroPress, inverted: 22-28
 - C40 clicks for V60, inverted: 18-24 (a bit coarser for darker roasts)
 
+---
+
 ##### Wait time for freshly roasted beans
 - Espresso 12 days+
 - Filter 5 days+
@@ -107,6 +109,8 @@ Starting points for dialing in:
 
 ###### light roast
 - 10 - 14 days for filter and 14 days+ for Espressos
+
+---
 
 #### V60 process:
 
@@ -129,6 +133,8 @@ Starting points for dialing in:
 - 2:00-2:05 - gently swirl
 - 2:05-3:00 - let it drain
 - 3:00+ - should be done roughly after hitting the 3min. mark
+
+---
 
 #### 9barista process:
 

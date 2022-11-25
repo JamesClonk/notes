@@ -114,6 +114,7 @@ Starting points for dialing in:
 
 #### V60 process:
 
+- base recipe: 15g beans, 250g water
 - when in doubt, use C18-20 as base grind size
 - heat water
   - only ultra light roasts need 100c water

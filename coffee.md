@@ -108,9 +108,20 @@ Minimally 5-7 days for filter brewing and 7-10 days for Espresso. Usually lasts 
 #### V60 process:
 
 - when in doubt, use C18-20 as base grind size
-- 
+- 0:00 - pour 50g
+- 0:10-0:15 - gently swirl
+- 0:15-1:00 - bloom
+- 1:00-1:15 - pour 50g (100g total)
+- 1:15-1:25 - wait
+- 1:25-1:35 - pour 50g (150g total)
+- 1:35-1:45 - wait
+- 1:45-1:55 - pour 50g (200g total)
+- 1:55-2:05 - wait
+- 2:05-2:15 - pour 50g (250g total)
+- 2:15-2:20 - gently swirl
+- 2:20+ - let it drain
 
-#### 9baristo process:
+#### 9barista process:
 
 - don't push rubber cover on portafilter basket all the way in, ideally it shouldn't touch the puck
 - without adaptor-plate on smallest glass-ceramic

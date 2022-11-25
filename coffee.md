@@ -122,7 +122,8 @@ Starting points for dialing in:
   - the darker it gets the lower the temps, down to 80c for very dark rossts. 
   - try 95c as default
 - preheat V60 cup
-- put hot V60 cup on caraffe, add rinsed filter paper, add coffee
+- put hot V60 cup on caraffe, add rinsed filter paper
+- add coffee, dig small mound in middle
 - 0:00 - pour 50g
 - 0:10-0:15 - gently swirl
 - reset time (makes keeping track easier for the intervals)

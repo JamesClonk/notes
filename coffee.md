@@ -124,7 +124,7 @@ Starting points for dialing in:
 - preheat V60 cup
 - put hot V60 cup on caraffe, add rinsed filter paper
 - add coffee, dig small mound in middle
-- 0:00 - pour 50g
+- 0:00 - pour 50g (use simple circular pouring for all pours!)
 - 0:10-0:15 - gently swirl
 - reset time (makes keeping track easier for the intervals)
 - 0:00-0:45 - bloom

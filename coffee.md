@@ -97,13 +97,16 @@ Starting points for dialing in:
 - Filter 5 days+
 
 ###### dark roast
-As fresh as possible. At 1-3 days old it is already far beyond the degassing levels of medium and light roasts. Starts to oxidize and really taste acrid after a week or so.
+- as fresh as possible
+- after 1-3 days old it is already beyond the degassing levels of medium and light roasts
+- it starts to oxidize and really taste acrid/bitter after a week
 
 ###### medium roast
-Minimally 5-7 days for filter brewing and 7-10 days for Espresso. Usually lasts at least a good month or two before noticeable deterioration of flavours.
+- min. 5-7 days for filter coffee, and 7-10 days for Espresso
+- usually lasts at least a month or two before noticeable deterioration of flavours
 
 ###### light roast
-10 - 14 days for filter and 14 days+ for Espressos
+- 10 - 14 days for filter and 14 days+ for Espressos
 
 #### V60 process:
 

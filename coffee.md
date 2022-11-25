@@ -91,6 +91,16 @@ Starting points for dialing in:
 - C40 clicks for AeroPress, standard: 18-24
 - C40 clicks for AeroPress, inverted: 22-28
 
+Wait time for freshly roasted beans:
+- Espresso 12 days+
+- Filter 5 days+
+
+Dark Roast: As fresh as possible. At 1-3 days old it is already far beyond the degassing levels of medium and light roasts. Starts to oxidize and really taste acrid after a week or so.
+
+Medium Roasts: Minimally 5-7 days for filter brewing and 7-10 days for Espresso. Usually lasts at least a good month or two before noticeable deterioration of flavours.
+
+Light Roasts: 10 - 14 days for filter and 14 days+ for Espressos
+
 #### 9baristo process:
 
 - don't push rubber cover on portafilter basket all the way in, ideally it shouldn't touch the puck

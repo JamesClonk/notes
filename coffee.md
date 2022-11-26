@@ -118,6 +118,22 @@ General observations of differences in brewing methods:
 
 ---
 
+#### AeroPress base process:
+
+- put filter in cap, screw cap onto base
+- pour coffee into base, 12g, swirl to even level
+- put base onto cup
+- pour hot water into base (95-100c), 200g
+- stir with tool for 2-3s
+- put plunger in for vacuum
+- wait 3min
+- gently swirl a few times
+- wait 20s
+- slowly push plunger, until all water has left (stop at the hiss!)
+- done, enjoy! 😋👌
+
+---
+
 #### V60 process:
 
 - base recipe: 15g beans, 250g water, 16.6 ratio

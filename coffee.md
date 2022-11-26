@@ -92,6 +92,12 @@ Starting points for dialing in:
 - C40 clicks for AeroPress, inverted: 22-28
 - C40 clicks for V60: 18-22 (a bit coarser for darker roasts)
 
+General observations of differences in brewing methods:
+- Basic AeroPress recipes generally produce a more "clear", smooth, watery, fruity result
+- V60 produces more "full", dry-mouth, texture, heavy result than AeroPress
+- 9barista so far never worked well with light roasts and/or fruity beans, seems to prefer dark and earthy
+- Bialetti generally produces very heavy, earthy, slightly bitter results
+
 ---
 
 ##### Wait time for freshly roasted beans

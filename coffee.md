@@ -27,12 +27,12 @@
 | [Turm - Peru - Villa Ecologica](https://shop.turmkaffee.ch/kaffee/peru-coop-villa-ecologica.html) | 100% Arabica, Peru, light-medium roast, <ins>earthy</ins>, no fruit, low acidity, light sweet, light nutty, light bitter | 20-22 clicks on [C40](https://www.comandantegrinder.com/) for grind size, mild and pleasant taste, no bad acidity, no fruitiness, works well with hot milk and milk foam -> delicious!<br/>(Mario's comment: Marroni)<br/><br/>takes exactly 6min without adaptor-plate, reset timer once Espresso appeared, was good!<br/><br/>:+1:Best with E14-18gC9, and milk | Ai3mbR16.6C20 = 4x<br/>An4msR18-20C20 = 3x<br/>E14gC9->22s42g = 3-4x<br/>E17gC9->24s44g = 3x<br/>E18gC9->42s43g = 3-4x |
 | [Turm - Brazil - Yellow Bourbon](https://shop.turmkaffee.ch/kaffee/brazil-yellow-burbon.html) | 100% Arabica, Brazil (Yellow Bourbon), light-medium roast, <ins>nutty</ins>, light fruity, low acidity, low bitter, sweet | ❓️ | ❓️ |
 | [Turm - India - Monsooned Malabar](https://shop.turmkaffee.ch/kaffee/india-monsooned.html) | 100% Arabica, India, light-medium roast, <ins>tobacco</ins>, earthy, low/no acidity, low bitter | ❓️ | ❓️ |
+| [Stoll Classic - Nero](https://www.stoll-kaffee.ch/produkt/nero/) | 84% Arabica / 16% Robusta, ???(Arabica) - India(Robusta), dark roast, chocolatey, nutty, sweet, spices, some bitter, no fruit/acidity | Specifically for Espresso.<br/>C9 was too fine for E18g, took 60s, but surprisingly it was good! No unpleasant aftertaste or anything, just a nutty, creamy flavor with some bitterness (but not too much). Me thinks my tastebuds tend to favor darker roasts for Espresso, probably.. | E18gC9->60s32g = 3-4x |
 
 ## ⭐️⭐️⭐️
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Stoll Classic - Nero](https://www.stoll-kaffee.ch/produkt/nero/) | 84% Arabica / 16% Robusta, ???(Arabica) - India(Robusta), dark roast, chocolatey, nutty, sweet, spices, some bitter, no fruit/acidity | Specifically for Espresso.<br/>C9 was too fine for E18g, took 60s, but surprisingly it was good! Me thinks my tastebuds tend to favor darker roasts for Espresso, probably.. | E18gC9->60s32g = 3x |
 | [Adrianos - Silvestre](https://adrianos.ch/shop/kaffee/bohnen/silvestre-bohnen) | 100% Arabica, Brazil (Yellow Icatu), some fruitiness, some acidity | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), not bad but not great either, pretty <ins>meh</ins> overall, mild fruity/acidic/citric aftertaste, otherwise maybe too bland (could be grind/prep's fault though) | An2mbR16.6 |
 
 ## ⭐️⭐️

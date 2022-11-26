@@ -32,7 +32,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Stoll Classic - Nero](https://www.stoll-kaffee.ch/produkt/nero/) | 85% Arabica / 15% Robusta, ???(Arabica) - India(Robusta), dark roast, chocolatey, nutty, sweet, spices, low bitter, no fruit/acidity | Specifically for Espresso, ❓️ | E18gC9->60s32g = 3x |
+| [Stoll Classic - Nero](https://www.stoll-kaffee.ch/produkt/nero/) | 84% Arabica / 16% Robusta, ???(Arabica) - India(Robusta), dark roast, chocolatey, nutty, sweet, spices, some bitter, no fruit/acidity | Specifically for Espresso.<br/>C9 was too fine for E18g, took 60s! | E18gC9->60s32g = 3x |
 | [Adrianos - Silvestre](https://adrianos.ch/shop/kaffee/bohnen/silvestre-bohnen) | 100% Arabica, Brazil (Yellow Icatu), some fruitiness, some acidity | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), not bad but not great either, pretty <ins>meh</ins> overall, mild fruity/acidic/citric aftertaste, otherwise maybe too bland (could be grind/prep's fault though) | An2mbR16.6 |
 
 ## ⭐️⭐️

@@ -171,7 +171,7 @@ General observations of differences in brewing methods:
 - set to highest heat
 - wait till first angry steam blow from chimney
 - see Espresso appearing and start timer
-- ~25s later the second angry steam blow from chimney should happen / have happened by then
+- ~25-35s later the second angry steam blow from chimney should happen / have happened by then
 - immediately take off of heat once second angry steam blow subsides, stop timer
 - pour shot into glass
 - enjoy! (or not.. 🤣)

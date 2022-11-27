@@ -127,7 +127,7 @@ General observations of differences in brewing methods:
 - pour coffee into base, 12g, shake to even level
 - put base onto cup
 - pour hot water into base (95-100c), 200g
-- stir with tool for 2-3s
+- stir with tool for 2-3s (important for even extraction!)
 - put plunger in for vacuum
 - wait 3min
 - gently swirl a few times

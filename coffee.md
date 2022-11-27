@@ -33,7 +33,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Stoll Classic - Hausmischung](https://www.stoll-kaffee.ch/produkt/hausmischung/) | 100% Arabica, Brazil - Ethiopia - Columbia - Costa Rica, medium-darkish roast, citric, sweet, acidity, ❓️ | Aimed at Café Crème (and maybe Lungo), not really for pure Espresso.<br/>E18gC10 was sour, not overwhelming but still a bit sour. | E18gC10->25s38g = 3x |
+| [Stoll Classic - Hausmischung](https://www.stoll-kaffee.ch/produkt/hausmischung/) | 100% Arabica, Brazil - Ethiopia - Columbia - Costa Rica, medium-darkish roast, citric, sweet, acidity, ❓️ | Aimed at Café Crème (and maybe Lungo), not really for pure Espresso.<br/>E18gC10 was sour, not overwhelming but still a bit sour, and also slightly bitter | E18gC10->25s38g = 3x |
 | [Adrianos - Silvestre](https://adrianos.ch/shop/kaffee/bohnen/silvestre-bohnen) | 100% Arabica, Brazil (Yellow Icatu), some fruitiness, some acidity | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), not bad but not great either, pretty <ins>meh</ins> overall, mild fruity/acidic/citric aftertaste, otherwise maybe too bland (could be grind/prep's fault though) | An2mbR16.6 |
 
 ## ⭐️⭐️

@@ -13,6 +13,8 @@
   - [ ] bloom 30s, then slowly pour everything in in 1 go
   - [x] add 100g, wait 30s, add 100g in second go?
 
+V60 no-bloom is very watery, but still retains the typical V60 dry-mouth feel.. not sure thats a good combo 🤔
+
 ---
 
 ## Beans / Coffee

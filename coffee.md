@@ -107,7 +107,7 @@ General observations of differences in brewing methods:
 - Basic AeroPress recipes generally produce a more "clear", smooth, watery, fruity result. Suited well for fruity coffees.
 - V60 produces more "full", dry-mouth, texture, heavy result than AeroPress. Suited well for milk-intended coffees.
 - Bialetti generally produces very heavy, earthy, bitter results. Viable only for milk-required coffees.
-- 9barista so far never worked well with light roasts and/or fruity beans, seems to prefer dark and earthy. Works well with darker roasts.
+- 9barista so far never worked well with light roasts and/or fruity beans, seems to prefer dark and earthy. Suited for darker roasts.
 
 ---
 

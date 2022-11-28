@@ -15,6 +15,9 @@
 
 V60 no-bloom is very watery, more fruity, slightly more clear but still retains the typical V60 dry-mouth feel.. not sure thats a good combo or not 🤔
 
+An4msR16C22 vs V60R16C22:
+In direct comparison also the AeroPress does have a slightly dry-mouth feel with the Tega, but much less pronounced. It is also less watery than a V60nobloom, but still more than a V60bloom. Overall I think AeroPress is "clearer" and better for fruity coffees.
+
 ---
 
 ## Beans / Coffee

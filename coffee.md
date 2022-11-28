@@ -5,13 +5,13 @@
 ## General TODO:
 
 - [ ] bloom vs no-bloom
-  - [ ] try V60 without blooming, will it be drastically different? will it resemble AeroPress recipe more?
+  - [x] try V60 without blooming, will it be drastically different? will it resemble AeroPress recipe more?
   - [ ] try AeroPress with blooming, will it change drastically? (maybe not?)
 - [ ] try next AeroPress with a large dose - low ratio recipe. For example inverted, very coarse grind (C28-30), 30g, add 50ml, bloom, add remaining 100-200ml, stir, wait 2min, swirl, wait 30s, push through.
   - note: this might a) be more suitable for darker roasts / heavier coffees, b) might not be good regardless. it favors different things and tastes. Use with caution.
 - [ ] try different V60 pouring techniques, for example
   - [ ] bloom 30s, then slowly pour everything in in 1 go
-  - [ ] add 100g, wait 30s, add 100g in second go?
+  - [x] add 100g, wait 30s, add 100g in second go?
 
 ---
 

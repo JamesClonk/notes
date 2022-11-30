@@ -11,7 +11,7 @@
   - [x] bloom 30s, then slowly pour everything in in 1 go
   - [x] add 100g, wait 30s, add 100g in second go?
 
-- [ ] try V60 one more time with light roast and C28 clicks..
+- [ ] try V60 one more time with light roast and C30 clicks..
 
 V60 no-bloom is very watery, more fruity, slightly more clear but still retains the typical V60 dry-mouth feel.. not sure thats a good combo or not 🤔
 

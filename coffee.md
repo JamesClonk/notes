@@ -11,6 +11,8 @@
   - [x] bloom 30s, then slowly pour everything in in 1 go
   - [x] add 100g, wait 30s, add 100g in second go?
 
+- [ ] try V60 one more time with light roast and C28 clicks..
+
 V60 no-bloom is very watery, more fruity, slightly more clear but still retains the typical V60 dry-mouth feel.. not sure thats a good combo or not 🤔
 
 An4msR16C22 vs V60R16C22:
@@ -99,7 +101,7 @@ Starting points for dialing in:
 - C40 clicks for Bialetti: 16-20 (may go as high as 30 though)
 - C40 clicks for AeroPress, standard: 18-24
 - C40 clicks for AeroPress, inverted: 22-28
-- C40 clicks for V60: 18-22 (a bit coarser for darker roasts)
+- C40 clicks for V60: 22-30 (a bit coarser for darker roasts)
 
 General observations of differences in brewing methods:
 - Basic AeroPress recipes generally produce a more "clear", smooth, watery, fruity result. Suited well for fruity coffees.

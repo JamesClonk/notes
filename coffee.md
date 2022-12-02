@@ -2,23 +2,6 @@
 
 ---
 
-## General TODO:
-
-- [ ] bloom vs no-bloom
-  - [x] try V60 without blooming, will it be drastically different? will it resemble AeroPress recipe more?
-  - [ ] try AeroPress with blooming, will it change drastically? (maybe not?)
-- [x] try different V60 pouring techniques, for example
-  - [x] bloom 30s, then slowly pour everything in in 1 go
-  - [x] add 100g, wait 30s, add 100g in second go?
-
-- [x] try V60 one more time with light roast and C30 clicks..
-
-V60 no-bloom is very watery, more fruity, slightly more clear but still retains the typical V60 dry-mouth feel.. not sure thats a good combo or not 🤔
-
-
-
----
-
 ## Beans / Coffee
 
 ## ⭐️⭐️⭐️⭐️⭐️
@@ -109,7 +92,7 @@ General observations of differences in brewing methods:
 - 9barista so far never worked well with light roasts and/or fruity beans, seems to prefer dark and earthy. Suited for darker roasts.
 
 An4msR16C20 vs V60R16C22:
-In direct comparison also the AeroPress does have a slightly dry-mouth feel with the Tega, but less pronounced. It is also slightly less watery than a V60nobloom (though Ratio can change/fix that), but still more than a V60bloom. Better fruit taste too, less texture, but more fruitiness. Overall I think the default AeroPress recipe is "clearer" and better for fruity coffees than default V60 recipe, but V60R18C28 got close. Overall C22 is probably best for a V60, while C18-20 the best starting point for an AeroPress.
+The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth, more watery but more fruitiness. Overall I think the default AeroPress recipe is "clearer" and better for fruity coffees than default V60 recipe, but V60R18C28 got close (higher than "normal" ratios seem to make it closer through being more watery?). Overall C22 is probably best for a V60, while C18-20 the best starting point for an AeroPress.
 
 ---
 

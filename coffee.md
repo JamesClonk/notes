@@ -15,8 +15,7 @@
 
 V60 no-bloom is very watery, more fruity, slightly more clear but still retains the typical V60 dry-mouth feel.. not sure thats a good combo or not 🤔
 
-An4msR16C22 vs V60R16C30:
-In direct comparison also the AeroPress does have a slightly dry-mouth feel with the Tega, but less pronounced. It is also slightly less watery than a V60nobloom (though Ratio can change/fix that), but still more than a V60bloom. Better fruit taste too, less texture, but more fruitiness. Overall I think the default AeroPress recipe is "clearer" and better for fruity coffees than default V60 recipe, but V60R18C30 gets close.
+
 
 ---
 
@@ -99,15 +98,18 @@ In direct comparison also the AeroPress does have a slightly dry-mouth feel with
 Starting points for dialing in:
 - C40 clicks for 9barista: 7-14
 - C40 clicks for Bialetti: 16-20 (may go as high as 30 though)
-- C40 clicks for AeroPress, standard: 18-24
+- C40 clicks for AeroPress, standard: 16-24
 - C40 clicks for AeroPress, inverted: 22-28
-- C40 clicks for V60: 24-30 (a bit coarser for darker roasts)
+- C40 clicks for V60: 20-25 (a bit coarser for darker roasts)
 
 General observations of differences in brewing methods:
 - Basic AeroPress recipes generally produce a more "clear", smooth, watery, fruity result. Suited well for fruity coffees.
 - V60 produces more "full", dry-mouth, texture, heavy result than AeroPress. Suited well for milk-intended coffees.
 - Bialetti generally produces very heavy, earthy, bitter results. Viable only for milk-required coffees.
 - 9barista so far never worked well with light roasts and/or fruity beans, seems to prefer dark and earthy. Suited for darker roasts.
+
+An4msR16C20 vs V60R16C22:
+In direct comparison also the AeroPress does have a slightly dry-mouth feel with the Tega, but less pronounced. It is also slightly less watery than a V60nobloom (though Ratio can change/fix that), but still more than a V60bloom. Better fruit taste too, less texture, but more fruitiness. Overall I think the default AeroPress recipe is "clearer" and better for fruity coffees than default V60 recipe, but V60R18C28 got close. Overall C22 is probably best for a V60, while C18-20 the best starting point for an AeroPress.
 
 ---
 
@@ -148,7 +150,7 @@ General observations of differences in brewing methods:
 #### V60 process:
 
 - base recipe: 15g beans, 250g water, 16.6 ratio
-- when in doubt, use C18-22 as base grind size (don't go coarser, it would mess up the flow rate!)
+- when in doubt, use C22 as base grind size
 - rinse filter paper
 - heat water
   - the darker it gets the lower the temps

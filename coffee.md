@@ -92,7 +92,7 @@ General observations of differences in brewing methods:
 - 9barista so far never worked well with light roasts and/or fruity beans, seems to prefer dark and earthy. Suited for darker roasts.
 
 An4msR16C20 vs V60R16C22:
-The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth, more watery but more fruitiness. Overall I think the default AeroPress recipe is "clearer" and better for fruity coffees than default V60 recipe, but V60R18C28 got close (higher than "normal" ratios seem to make it closer through being more watery?). Overall C22 is probably best for a V60, while C18-20 the best starting point for an AeroPress.
+The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth, more watery but more fruitiness. Overall I think the default AeroPress recipe is "clearer" and better for fruity coffees than default V60 recipe, but V60R18C28 got close (higher than "normal" ratios seem to make it closer through being more watery?). Overall C20-22 is probably best for a V60, while C18-20 the best starting point for an AeroPress.
 
 ---
 

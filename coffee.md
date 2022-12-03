@@ -50,7 +50,7 @@
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Malabar](https://adrianos.ch/shop/kaffee/bohnen/adrianos-malabar-1) | 100% Arabica, India, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Dark Robusta](https://adrianos.ch/shop/kaffee/bohnen/adrianos-dark-robusta-1) | 50% Arabica / 50% Robusta, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - India(Robusta), ?dark roast?, tobacco, caramel, fermented, ❓️ | Specifically for Espresso, ❓️ | ❓️ |
-| [MAME - Pearl - Espresso](https://mame.coffee/collections/espresso/products/test-of-gilberto-espresso) | 100% Arabica, Brazil, medium roast, natural, chocolatey, creamy, ❓️ | Specifically for Espresso, ❓️<br/>Stored currently in the white vacuum box. | ❓️ |
+| [MAME - Pearl - Espresso](https://mame.coffee/collections/espresso/products/test-of-gilberto-espresso) | 100% Arabica, Brazil, medium-dark roast, natural, chocolatey, creamy, ❓️<br/>🌑 Espresso-only | Smells very chocolatey, ❓️<br/>Stored currently in the white vacuum box. | ❓️ |
 
 ---
 

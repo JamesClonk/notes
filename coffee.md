@@ -27,6 +27,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
+| [MAME - Pearl - Espresso](https://mame.coffee/collections/espresso/products/test-of-gilberto-espresso) | 100% Arabica, Brazil, medium-dark roast, natural, chocolatey, smokey, creamy, nutty, low acidity<br/>🌑 Espresso-only | Smells very chocolatey, beans are small-ish somehow.<br/>Stored currently in the white vacuum box.<br/><br/>C10 resulted in very sour shot. Ignoring the sourness, it does have a nice nutty-chocolate taste though. | E18gC10->25s42g = 3x |
 | [Stoll Classic - Hausmischung](https://www.stoll-kaffee.ch/produkt/hausmischung/) | 100% Arabica, Brazil - Ethiopia - Columbia - Costa Rica, medium-darkish roast, citric/sour, sweet, acidity, bitter | Aimed at Café Crème (and maybe Lungo), not really for pure Espresso.<br/>E18gC10 was sour, not overwhelming but still a bit sour, and also slightly bitter. Likely much better as a Lungo to get rid of the sourness, or as an Americano | E18gC10->25s38g = 3x |
 | [Adrianos - Silvestre](https://adrianos.ch/shop/kaffee/bohnen/silvestre-bohnen) | 100% Arabica, Brazil (Yellow Icatu), some fruitiness, some acidity | pre-ground bought, medium grind (Bialetti coarseness according to Adrianos store), not bad but not great either, pretty <ins>meh</ins> overall, mild fruity/acidic/citric aftertaste, otherwise maybe too bland (could be grind/prep's fault though) | An2mbR16.6 |
 
@@ -50,7 +51,6 @@
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Malabar](https://adrianos.ch/shop/kaffee/bohnen/adrianos-malabar-1) | 100% Arabica, India, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Dark Robusta](https://adrianos.ch/shop/kaffee/bohnen/adrianos-dark-robusta-1) | 50% Arabica / 50% Robusta, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - India(Robusta), ?dark roast?, tobacco, caramel, fermented, ❓️ | Specifically for Espresso, ❓️ | ❓️ |
-| [MAME - Pearl - Espresso](https://mame.coffee/collections/espresso/products/test-of-gilberto-espresso) | 100% Arabica, Brazil, medium-dark roast, natural, chocolatey, smokey, creamy, nutty, low acidity<br/>🌑 Espresso-only | Smells very chocolatey, beans are small-ish somehow.<br/>Stored currently in the white vacuum box.<br/><br/>C10 resulted in very sour shot. Ignoring the sourness, it does have a nice nutty-chocolate taste though. | E18gC10->25s42g = 3x |
 
 ---
 

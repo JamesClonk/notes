@@ -50,7 +50,7 @@
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Malabar](https://adrianos.ch/shop/kaffee/bohnen/adrianos-malabar-1) | 100% Arabica, India, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Dark Robusta](https://adrianos.ch/shop/kaffee/bohnen/adrianos-dark-robusta-1) | 50% Arabica / 50% Robusta, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - India(Robusta), ?dark roast?, tobacco, caramel, fermented, ❓️ | Specifically for Espresso, ❓️ | ❓️ |
-| [MAME - Pearl - Espresso](https://mame.coffee/collections/espresso/products/test-of-gilberto-espresso) | 100% Arabica, Brazil, medium-dark roast, natural, chocolatey, smokey, creamy, ❓️<br/>🌑 Espresso-only | Smells very chocolatey, beans are small-ish somehow.<br/>Stored currently in the white vacuum box.<br/><br/>C10 resulted in very sour shot. | E18gC10->25s42g = 3x |
+| [MAME - Pearl - Espresso](https://mame.coffee/collections/espresso/products/test-of-gilberto-espresso) | 100% Arabica, Brazil, medium-dark roast, natural, chocolatey, smokey, creamy, ❓️<br/>🌑 Espresso-only | Smells very chocolatey, beans are small-ish somehow.<br/>Stored currently in the white vacuum box.<br/><br/>C10 resulted in very sour shot. Ignoring the sourness, it does have a nice nutty-chocolate taste though. | E18gC10->25s42g = 3x |
 
 ---
 

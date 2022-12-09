@@ -51,8 +51,8 @@
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Malabar](https://adrianos.ch/shop/kaffee/bohnen/adrianos-malabar-1) | 100% Arabica, India, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Dark Robusta](https://adrianos.ch/shop/kaffee/bohnen/adrianos-dark-robusta-1) | 50% Arabica / 50% Robusta, Brazil(Cerrafine) - Ethiopia([Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen)) - India(Robusta), ?dark roast?, tobacco, caramel, fermented, ❓️ | Specifically for Espresso, ❓️ | ❓️ |
-| [Drip Roasters - Ethiopia Nano Challa](https://www.driproasters.ch/de/kaffee/filter/ethiopia-nano-challa-filter-250g) | 100% Arabica, Ethiopia - Jimma - Genji Challa, fruity, citrusy, acidic, floral, ❓️ | ❓️ | ❓️ |
-| [Drip Roasters - Ethiopia Bule Adado](https://www.driproasters.ch/de/kaffee/filter/ethiopia-bule-adado-filter-250g) | 100% Arabica (Yirgacheffe - Kudhume, Welisho, Dego), Ethiopia - Bule, natural, citric, fruity, berry, sweet, ❓️ | ❓️ | ❓️ |
+| [Drip Roasters - Ethiopia Nano Challa](https://www.driproasters.ch/de/kaffee/filter/ethiopia-nano-challa-filter-250g) | 100% Arabica, Ethiopia - Jimma - Genji Challa, ??? roast, fruity, citrusy, acidic, floral, ❓️ | ❓️ | ❓️ |
+| [Drip Roasters - Ethiopia Bule Adado](https://www.driproasters.ch/de/kaffee/filter/ethiopia-bule-adado-filter-250g) | 100% Arabica (Yirgacheffe - Kudhume, Welisho, Dego), Ethiopia - Bule, ??? roast, natural/fermented, citric, fruity, berry, sweet, ❓️ | ❓️ | ❓️ |
 
 ---
 

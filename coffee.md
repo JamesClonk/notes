@@ -75,7 +75,8 @@
 - H = Hario / drip|filter coffee
   - S = Switch 
   - V = V60
-  - Txx = temperature in celsius
+  - p_ = x pours, example: p5 = 1x50g bloom 45s, afterwards 4x50g pours in 10-15s intervals
+  - T__ = temperature in celsius
 - Ch = Chemex
 - Cxx = Comandante [C40](https://www.comandantegrinder.com/) click settings
 - 👍️ = this is how to use that coffee, determined after lengthy research process 😆

@@ -174,5 +174,6 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 - see Espresso appearing and start timer
 - ~25-35s later the second angry steam blow from chimney should happen / have happened by then
 - immediately take off of heat once second angry steam blow subsides, stop timer
+  - _new finding!_ -> don't immediately take it off heat, wait a few seconds to extract more bitter-balance into a sour shot 😋👌
 - pour shot into glass
 - enjoy! (or not.. 🤣)

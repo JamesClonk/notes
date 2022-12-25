@@ -63,22 +63,21 @@
   - n = normal
   - i = inverted
   - p = PuckPuck cold brew
-  - _m = time
-  - b = +bloom/stir (usually 30s)
+  - _m|s = time
+  - b = +bloom/stir (usually 30-40s)
   - s = +stir at start only
 - B = Bialetti / Moka pot
 - E = Espresso / 9bar
-  - _g = grams of coffee
+  - _g _= grams of coffee
   - ->_s_g = shot time and grams of result
 - P = E.S.E. pads
 - F = French Press
-- H = Hario / drip|filter coffee
-  - S = Switch 
-  - V = V60
-  - p_ = x pours, example: p5 = 1x50g bloom 45s, afterwards 4x50g pours in 10-15s intervals. p5 usually is 50g45s with 4x50, p4 usually is 50g45s with 1x100 and 2x50. p3 is 50g45s with 2x100, p2 is 100g45s with 1x150. Other intervals noted in bean's comment section.
-  - T__ = temperature in celsius
+- S = Hario Switch 
+- V = Hario V60
+  - p_ = number of pours, example: p5 = 1x50g bloom 45s, afterwards 4x50g pours in 10-15s intervals. p5 usually is 50g45s with 4x50, p4 usually is 50g45s with 1x100 and 2x50. p3 is 50g45s with 2x100, p2 is 100g45s with 1x150. Other intervals noted in bean's comment section.
 - Ch = Chemex
-- Cxx = Comandante [C40](https://www.comandantegrinder.com/) click settings
+- C__ = Comandante [C40](https://www.comandantegrinder.com/) click settings
+- T__ = temperature in celsius
 - 👍️ = this is how to use that coffee, determined after lengthy research process 😆
 
 Note on T__, if omitted it means 100°C for AeroPress, 90°C for V60.

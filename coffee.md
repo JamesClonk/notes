@@ -136,6 +136,24 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 
 ---
 
+#### AeroPress milk-drinks process:
+
+- put 2x filter in cap, rinse with water, set aside
+- prep inverted method with plunger fully to (1) in base
+- grind coffee finer than usual, C14-16
+- pour coffee into base, 2x usual amount (preferably use medium to dark roasts)
+- pour hot water into base (95-100c), ½ usual amount
+- stir with tool for 20s
+- screw cap onto base
+- press excess air out (otherwise grounds will be stuck to plunger once flipped)
+- wait ½ usual amount of time
+- flip over onto coffee cup
+- push plunger, until all water has left (stop at the hiss!)
+- add hot/steamed/foamed milk according to preference
+- done, enjoy! 😋👌
+
+---
+
 #### V60 process:
 
 - base recipe: 15g beans, 250g water, 16.6 ratio

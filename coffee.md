@@ -140,7 +140,7 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 
 - put 2x filter in cap, rinse with water, set aside
 - prep inverted method with plunger fully to (1) in base
-- grind coffee finer than usual, C14-16
+- grind coffee finer than usual, C12-16
 - pour coffee into base, 2x usual amount (preferably use medium to dark roasts)
 - pour hot water into base (95-100c), ½ usual amount
 - stir with tool for 20s

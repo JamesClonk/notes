@@ -132,7 +132,7 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 - gently swirl a few times
 - wait 20s
 - slowly push plunger, until all water has left (stop at the hiss!)
-- done, enjoy! 😋👌
+- done, enjoy! 😋☕👌
 
 ---
 
@@ -150,7 +150,7 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 - flip over onto coffee cup
 - push plunger, until all water has left (stop at the hiss!)
 - add hot/steamed/foamed milk according to preference
-- done, enjoy! 😋👌
+- done, enjoy! 😋🥛👌
 
 ---
 
@@ -181,6 +181,7 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 - 2:00-2:05 - gently swirl
 - 2:05-3:00 - let it drain
 - 3:00+ - should be done roughly after hitting the 3min. mark
+- done, enjoy! 😋👌
 
 ---
 

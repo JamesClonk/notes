@@ -81,7 +81,7 @@
 - Cxx = Comandante [C40](https://www.comandantegrinder.com/) click settings
 - 👍️ = this is how to use that coffee, determined after lengthy research process 😆
 
-Note on T__, if omitted it means 100°C for AeroPress, 94°C for V60.
+Note on T__, if omitted it means 100°C for AeroPress, 90°C for V60.
 
 ## General notes
 

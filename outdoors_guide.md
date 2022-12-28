@@ -56,7 +56,7 @@ Location: In between travel and shopping backpack, used approx. bi-weekly.
 - [ ] Power supply for laptop
 - [ ] Small wireless mouse with spare batteries
 - [ ] HDMI cable (or whatever external port is available on the laptop)
-- [ ] 3pol-CH-to-"German" power plug adaptor
+- [ ] 3pol-CH-to-German power plug adaptor
 
 #### Shopping backpack
 

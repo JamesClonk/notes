@@ -6,7 +6,7 @@ This is a list of things and what/how/where they need to be organised in the hal
 
 #### Travel backpack
 
-Largest size / volume backpack available.
+Largest overall size / volume backpack available. (Though it should still count as carry-on luggage on a flight)
 
 Location: furthest from door, used rarely.
 
@@ -36,7 +36,7 @@ Location: furthest from door, used rarely.
 
 #### Office backpack
 
-Business backpack specifically targeting a single 15″ laptop, otherwise as small and lean as possible.
+Business backpack specifically targeting a single 15″ laptop, otherwise as small and lean as possible. (Try to not use a full-sized, large backpack for this if possible, it will only annoying.. know yourself dude! 😬)
 
 Location: In between travel and shopping backpack, used approx. bi-weekly.
 
@@ -55,7 +55,7 @@ Location: In between travel and shopping backpack, used approx. bi-weekly.
 
 #### Shopping backpack
 
-Backpack to use for when you go shopping, based on largest possible free volume divided by weight.
+Backpack to use exclusively for when you go shopping, based on largest possible free volume divided by weight. Backpack doesn't need any additional pockets or dividers or any other of that fancy stuff.
 
 Location: In between office and daily backpack, used approx. once per week.
 
@@ -64,7 +64,7 @@ Location: In between office and daily backpack, used approx. once per week.
 
 #### Daily or light-travel backpack / sling bag
 
-Small backpack or sling bag, needs to be lightweight and comfortable to wear and as small as possible to fit everything from the list below, plus it needs to be capabable still to additionally pack a 0.5L travel mug / thermos on-demand.
+Small backpack or sling bag, needs to be lightweight and comfortable to wear and as small as possible to still fit everything from the list below plus an additional 0.5L travel mug or thermos if needed.
 
 Location: Closest to the door, used several times per week.
 

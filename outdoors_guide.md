@@ -20,6 +20,7 @@ Location: furthest from door, used rarely.
 - [ ] 2x FFP2 face masks
 - [ ] USB charger with USB-A port
 - [ ] USB A-C cable
+- [ ] Wired earphones with microphone
 - [ ] Travel power plug adaptor (multi-country)
 - [ ] Powerbank
 - [ ] Toiletry bag
@@ -53,6 +54,8 @@ Location: In between travel and shopping backpack, used approx. bi-weekly.
 - [ ] Band-aids
 - [ ] USB charger with USB-A port
 - [ ] 2x USB A-C cable
+- [ ] Wired earphones with microphone
+- [ ] Foldable on-ear headphones with microphone
 - [ ] Power supply for laptop
 - [ ] Small wireless mouse with spare batteries
 - [ ] HDMI cable (or whatever external port is available on the laptop)
@@ -80,6 +83,7 @@ Location: Closest to the door, used several times per week.
 - [ ] Aspirin
 - [ ] USB charger with USB-C port
 - [ ] USB-C cable
+- [ ] Wired earphones with microphone
 - [x] ~0.5L thermos / mug~
 
 ## Shelf

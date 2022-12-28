@@ -1,6 +1,6 @@
 # By-the-door prep list
 
-This is a list of things and what/how/where they need to be organised in the hallway next to the door. 😂
+This is a list of things and what/how/where they need to be organised in the hallway next to the front door. 😂
 
 ## Jackets
 

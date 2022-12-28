@@ -2,6 +2,10 @@
 
 This is a list of things and what/how/where they need to be organised in the hallway next to the door. 😂
 
+## Jackets
+
+## Shoes
+
 ## Bags
 
 #### Travel backpack
@@ -77,10 +81,6 @@ Location: Closest to the door, used several times per week.
 - [ ] USB charger with USB-C port
 - [ ] USB-C cable
 - [x] ~0.5L thermos / mug~
-
-## Jackets
-
-## Shoes
 
 ## Shelf
 

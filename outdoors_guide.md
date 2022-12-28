@@ -22,7 +22,7 @@ Location: furthest from door, used rarely.
 - [ ] USB A-C cable
 - [ ] Wired earphones with microphone
 - [ ] Travel power plug adaptor (multi-country)
-- [ ] Powerbank
+- [ ] Power bank
 - [ ] Toiletry bag
   - [ ] Aspirin
   - [ ] Aspirin-C
@@ -72,7 +72,7 @@ Location: In between office and daily backpack, used approx. once per week.
 
 #### Daily or light-travel backpack / sling bag
 
-Small backpack or sling bag, needs to be lightweight and comfortable to wear and as small as possible to still fit everything from the list below plus an additional 0.5L travel mug or thermos and a small powerbank if needed.
+Small backpack or sling bag, needs to be lightweight and comfortable to wear and as small as possible to still fit everything from the list below plus an additional 0.5L travel mug or thermos and a small power bank if needed.
 
 Location: Closest to the door, used several times per week.
 

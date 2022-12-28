@@ -22,7 +22,7 @@ Location: furthest from door, used rarely.
 - [ ] USB A-C cable
 - [ ] Wired earphones with microphone
 - [ ] Travel power plug adaptor (multi-country)
-- [ ] Power bank
+- [ ] Power bank and matching charging cable
 - [ ] Toiletry bag
   - [ ] Aspirin
   - [ ] Aspirin-C

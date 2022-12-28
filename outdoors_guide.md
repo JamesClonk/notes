@@ -41,7 +41,7 @@ Location: furthest from door, used rarely.
 
 #### Office backpack
 
-Business backpack specifically targeting a single 15″ laptop, otherwise as small and lean as possible. (Try to not use a full-sized, large backpack for this if possible, it will only annoying.. know yourself dude! 😬)
+Business backpack specifically targeting a single 15″ laptop, otherwise as small and lean as possible. (Try to not use a full-sized large backpack for this if possible, it will only annoy you.. know yourself dude! 😬)
 
 Location: In between travel and shopping backpack, used approx. bi-weekly.
 

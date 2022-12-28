@@ -80,6 +80,8 @@ Location: Closest to the door, used several times per week.
 
 ## Jackets
 
+## Shoes
+
 ## Shelf
 
 - [ ] Qi-capable power bank, always fully charged (permanent charging station setup on shelf)

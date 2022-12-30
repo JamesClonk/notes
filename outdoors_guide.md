@@ -14,13 +14,14 @@ Largest overall size / volume backpack available. (Though it should still count 
 
 Location: furthest from door, used rarely.
 
-- [ ] Micro umbrella
-- [ ] Plastic bag
-- [ ] Tempo
-- [ ] 2x FFP2 face masks
-- [ ] USB charger with USB-A port
-- [ ] USB A-C cable
-- [ ] Wired earphones with microphone
+- [x] Micro umbrella
+- [x] Plastic bag
+- [x] Tempo
+- [x] 2x FFP2 face masks
+- [x] Mask holder
+- [x] USB charger with USB-A port
+- [x] USB A-C cable
+- [x] Wired earphones with microphone
 - [ ] Travel power plug adaptor (multi-country)
 - [ ] Power bank and matching charging cable
 - [ ] Toiletry bag
@@ -51,6 +52,7 @@ Location: In between travel and shopping backpack, used approx. bi-weekly.
 - [x] Carry bag
 - [x] Tempo
 - [x] 2x FFP2 face masks
+- [x] Mask holder
 - [x] Aspirin
 - [x] Band-aids
 - [x] USB charger with USB-A port

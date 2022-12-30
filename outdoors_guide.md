@@ -51,8 +51,8 @@ Location: In between travel and shopping backpack, used approx. bi-weekly.
 - [x] Carry bag
 - [x] Tempo
 - [x] 2x FFP2 face masks
-- [ ] Aspirin
-- [ ] Band-aids
+- [x] Aspirin
+- [x] Band-aids
 - [x] USB charger with USB-A port
 - [x] 2x USB A-C cable
 - [x] Wired earphones with microphone

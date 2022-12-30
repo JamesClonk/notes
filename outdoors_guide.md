@@ -27,7 +27,7 @@ Location: furthest from door, used rarely.
 - [x] Power bank and matching charging cable
 - [x] Small travel laptop (or GSM-enabled tablet)
 - [x] Power supply for laptop (or 2nd set of USB-C charger)
-- [ ] HDMI cable (or whatever external port is available on the laptop)
+- [x] HDMI cable (or whatever external port is available on the laptop)
 - [x] Toiletry bag
   - [x] Aspirin
   - [x] Aspirin-C

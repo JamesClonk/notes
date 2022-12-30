@@ -78,8 +78,8 @@ Backpack to use exclusively for when you go shopping, based on largest possible 
 
 Location: In between office and daily backpack, used approx. once per week.
 
-- [ ] 2x Plastic bags
-- [ ] 2x FFP2 face masks
+- [x] 2x Plastic bags
+- [x] 2x Face masks
 
 #### Daily or light-travel backpack / sling bag
 

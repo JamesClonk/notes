@@ -29,6 +29,7 @@ Location: furthest from door, used rarely.
 - [x] Power supply for laptop (or 2nd set of USB-C charger)
 - [x] HDMI cable (or whatever external port is available on the laptop)
 - [x] Toiletry bag
+  - [ ] Fishermans
   - [x] Aspirin
   - [x] Aspirin-C
   - [x] Alka-Seltzer
@@ -57,6 +58,7 @@ Location: In between travel and shopping backpack, used approx. bi-weekly.
 - [x] Tempo
 - [x] 2x FFP2 face masks
 - [x] Mask holder
+- [ ] Fishermans
 - [x] Aspirin
 - [x] Band-aids
 - [x] USB charger with USB-A port
@@ -85,26 +87,28 @@ Small backpack or sling bag, needs to be lightweight and comfortable to wear and
 
 Location: Closest to the door, used several times per week.
 
-- [ ] Micro umbrella - *Optional*
+- [x] Micro umbrella - *Optional*
 - [x] Plastic bag
-- [ ] Tempo
-- [ ] FFP2 face masks
+- [x] Tempo
+- [x] FFP2 face masks
+- [ ] Fishermans
 - [x] Aspirin
 - [x] USB charger with USB-C port
 - [x] USB-C cable
 - [x] Wired earphones with microphone
-- [ ] ?? Newer ANC headphones ??
+- [x] Newer ANC headphones
 - [x] ~0.5L thermos / mug~
 
 ## Shelf
 
 - [ ] Qi-capable power bank, always fully charged (permanent charging station setup on shelf)
-- [ ] 2x TO-GO bags, each containing:
-  - [ ] Wired earphones with microphone
-  - [ ] USB charger with USB-A port
-  - [ ] USB A-C cable
-  - [ ] Tempo
-  - [ ] FFP2 face mask
-  - [ ] Attached to a lanyard with an alligator clip
+- [x] 2x TO-GO bags, each containing:
+  - [x] Wired earphones with microphone
+  - [x] USB charger with USB-A port
+  - [x] USB A-C cable
+  - [x] Tempo
+  - [x] Face mask
+  - [ ] Fishermans
+  - [x] Attached to a lanyard with an alligator clip
 
 ## Pants

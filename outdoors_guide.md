@@ -27,20 +27,20 @@ Location: furthest from door, used rarely.
 - [ ] Power bank and matching charging cable
 - [x] Toiletry bag
   - [x] Aspirin
-  - [ ] Aspirin-C
+  - [x] Aspirin-C
   - [x] Alka-Seltzer
   - [x] Imodium
   - [x] Motilium
   - [x] Ohropax
   - [x] Condoms
   - [x] Band-aids
-  - [ ] Tempo
+  - [x] Tempo
   - [x] Travel-sized toothpaste
-  - [ ] Travel-sized toothbrush
-  - [ ] Travel-sized deo
-  - [ ] Travel-sized shower gel
-  - [ ] Clear ziplock bag
-  - [ ] Sleep mask
+  - [x] Travel-sized toothbrush
+  - [x] Travel-sized deo
+  - [x] Travel-sized shower gel
+  - [x] Clear ziplock bag
+  - [x] Sleep mask
 
 #### Office backpack
 

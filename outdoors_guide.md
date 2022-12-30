@@ -22,6 +22,7 @@ Location: furthest from door, used rarely.
 - [x] USB charger with USB-A port
 - [x] USB A-C cable
 - [x] Wired earphones with microphone
+- [ ] Older ANC headphones
 - [ ] Travel power plug adaptor (multi-country)
 - [ ] Power bank and matching charging cable
 - [x] Toiletry bag
@@ -59,6 +60,7 @@ Location: In between travel and shopping backpack, used approx. bi-weekly.
 - [x] 2x USB A-C cable
 - [x] Wired earphones with microphone
 - [x] Foldable on-ear headphones with microphone
+- [ ] ?? Newer ANC headphones ??
 - [x] Laptop
 - [x] Power supply for laptop
 - [x] Small wireless mouse with spare batteries
@@ -88,6 +90,7 @@ Location: Closest to the door, used several times per week.
 - [ ] USB charger with USB-C port
 - [ ] USB-C cable
 - [ ] Wired earphones with microphone
+- [ ] ?? Newer ANC headphones ??
 - [x] ~0.5L thermos / mug~
 
 ## Shelf

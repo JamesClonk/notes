@@ -14,7 +14,7 @@ Largest overall size / volume backpack available. (Though it should still count 
 
 Location: furthest from door, used rarely.
 
-- [ ] Mini umbrella
+- [ ] Micro umbrella
 - [ ] Plastic bag
 - [ ] Tempo
 - [ ] 2x FFP2 face masks
@@ -46,18 +46,19 @@ Business backpack specifically targeting a single 15″ laptop, otherwise as sma
 
 Location: In between travel and shopping backpack, used approx. bi-weekly.
 
-- [ ] Micro umbrella
+- [x] Mini umbrella
 - [ ] Plastic bag
 - [ ] Tempo
-- [ ] 2x FFP2 face masks
+- [x] 2x FFP2 face masks
 - [ ] Aspirin
 - [ ] Band-aids
 - [ ] USB charger with USB-A port
 - [ ] 2x USB A-C cable
 - [ ] Wired earphones with microphone
-- [ ] Foldable on-ear headphones with microphone
-- [ ] Power supply for laptop
-- [ ] Small wireless mouse with spare batteries
+- [x] Foldable on-ear headphones with microphone
+- [x] Laptop
+- [x] Power supply for laptop
+- [x] Small wireless mouse with spare batteries
 - [ ] HDMI cable (or whatever external port is available on the laptop)
 - [ ] 3pol-CH-to-German power plug adaptor
 

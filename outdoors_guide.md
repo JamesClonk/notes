@@ -86,13 +86,13 @@ Small backpack or sling bag, needs to be lightweight and comfortable to wear and
 Location: Closest to the door, used several times per week.
 
 - [ ] Micro umbrella - *Optional*
-- [ ] Plastic bag
+- [x] Plastic bag
 - [ ] Tempo
 - [ ] FFP2 face masks
-- [ ] Aspirin
-- [ ] USB charger with USB-C port
-- [ ] USB-C cable
-- [ ] Wired earphones with microphone
+- [x] Aspirin
+- [x] USB charger with USB-C port
+- [x] USB-C cable
+- [x] Wired earphones with microphone
 - [ ] ?? Newer ANC headphones ??
 - [x] ~0.5L thermos / mug~
 

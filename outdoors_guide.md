@@ -4,9 +4,15 @@ This is a list of things and what/how/where they need to be organised in the hal
 
 ## Jackets
 
+- [ ] Ordered by purpose (from furthest from door to closest)
+  - [ ] Skiing
+  - [ ] Winter/Cold
+  - [ ] Rain/Wet
+  - [ ] General
+
 ## Shoes
 
-- [ ] Ordered by purpose
+- [ ] Ordered by purpose (from furthest from door to closest)
   - [ ] Hiking
   - [ ] Snow
   - [ ] Winter/Cold
@@ -15,6 +21,30 @@ This is a list of things and what/how/where they need to be organised in the hal
   - [ ] Summery
 
 ## Bags
+
+- [ ] Ordered by purpose (from furthest from door to closest)
+  - [ ] Travel
+  - [ ] Office
+  - [ ] Shopping
+  - [ ] Daily
+
+## Pants
+
+- [x] Belt
+- [ ] Fishermans
+- [ ] Tempo
+
+## Shelf
+
+- [ ] Qi-capable power bank, always fully charged (permanent charging station setup on shelf)
+- [x] 2x TO-GO bags, each containing:
+  - [x] Wired earphones with microphone
+  - [x] USB charger with USB-A port
+  - [x] USB A-C cable
+  - [x] Tempo
+  - [x] Face mask
+  - [ ] Fishermans
+  - [x] Attached to a lanyard with an alligator clip
 
 #### Travel backpack
 
@@ -106,21 +136,3 @@ Location: Closest to the door, used several times per week.
 - [x] Wired earphones with microphone
 - [x] Newer ANC headphones
 - [x] ~0.5L thermos / mug~
-
-## Shelf
-
-- [ ] Qi-capable power bank, always fully charged (permanent charging station setup on shelf)
-- [x] 2x TO-GO bags, each containing:
-  - [x] Wired earphones with microphone
-  - [x] USB charger with USB-A port
-  - [x] USB A-C cable
-  - [x] Tempo
-  - [x] Face mask
-  - [ ] Fishermans
-  - [x] Attached to a lanyard with an alligator clip
-
-## Pants
-
-- [x] Belt
-- [ ] Fishermans
-- [ ] Tempo

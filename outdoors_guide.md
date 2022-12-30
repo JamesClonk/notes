@@ -112,3 +112,7 @@ Location: Closest to the door, used several times per week.
   - [x] Attached to a lanyard with an alligator clip
 
 ## Pants
+
+- [x] Belt
+- [ ] Fishermans
+- [ ] Tempo

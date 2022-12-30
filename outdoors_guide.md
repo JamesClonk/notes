@@ -6,6 +6,14 @@ This is a list of things and what/how/where they need to be organised in the hal
 
 ## Shoes
 
+- [ ] Ordered by purpose
+  - [ ] Hiking
+  - [ ] Snow
+  - [ ] Winter/Cold
+  - [ ] Rain/Wet
+  - [ ] All purpose
+  - [ ] Summery
+
 ## Bags
 
 #### Travel backpack

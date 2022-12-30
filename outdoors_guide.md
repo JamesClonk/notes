@@ -25,6 +25,8 @@ Location: furthest from door, used rarely.
 - [ ] Older ANC headphones
 - [ ] Travel power plug adaptor (multi-country)
 - [ ] Power bank and matching charging cable
+- [ ] Small travel laptop (or GSM-enabled tablet)
+- [ ] Power supply for laptop (or 2nd set of USB-C charger)
 - [x] Toiletry bag
   - [x] Aspirin
   - [x] Aspirin-C

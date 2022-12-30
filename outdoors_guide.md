@@ -24,17 +24,17 @@ Location: furthest from door, used rarely.
 - [x] Wired earphones with microphone
 - [ ] Travel power plug adaptor (multi-country)
 - [ ] Power bank and matching charging cable
-- [ ] Toiletry bag
-  - [ ] Aspirin
+- [x] Toiletry bag
+  - [x] Aspirin
   - [ ] Aspirin-C
-  - [ ] Alka-Seltzer
-  - [ ] Imodium
-  - [ ] Motilium
-  - [ ] Ohropax
-  - [ ] Condoms
-  - [ ] Band-aids
+  - [x] Alka-Seltzer
+  - [x] Imodium
+  - [x] Motilium
+  - [x] Ohropax
+  - [x] Condoms
+  - [x] Band-aids
   - [ ] Tempo
-  - [ ] Travel-sized toothpaste
+  - [x] Travel-sized toothpaste
   - [ ] Travel-sized toothbrush
   - [ ] Travel-sized deo
   - [ ] Travel-sized shower gel

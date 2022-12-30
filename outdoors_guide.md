@@ -19,14 +19,15 @@ Location: furthest from door, used rarely.
 - [x] Tempo
 - [x] 2x FFP2 face masks
 - [x] Mask holder
-- [x] USB charger with USB-A port
-- [x] USB A-C cable
+- [x] 2x USB charger with USB-A port
+- [x] 2x USB A-C cable
 - [x] Wired earphones with microphone
-- [ ] Older ANC headphones
-- [ ] Travel power plug adaptor (multi-country)
-- [ ] Power bank and matching charging cable
-- [ ] Small travel laptop (or GSM-enabled tablet)
-- [ ] Power supply for laptop (or 2nd set of USB-C charger)
+- [x] Older ANC headphones
+- [x] Travel power plug adaptor (multi-country)
+- [x] Power bank and matching charging cable
+- [x] Small travel laptop (or GSM-enabled tablet)
+- [x] Power supply for laptop (or 2nd set of USB-C charger)
+- [ ] HDMI cable (or whatever external port is available on the laptop)
 - [x] Toiletry bag
   - [x] Aspirin
   - [x] Aspirin-C

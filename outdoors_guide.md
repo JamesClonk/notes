@@ -47,20 +47,21 @@ Business backpack specifically targeting a single 15″ laptop, otherwise as sma
 Location: In between travel and shopping backpack, used approx. bi-weekly.
 
 - [x] Mini umbrella
-- [ ] Plastic bag
-- [ ] Tempo
+- [x] Plastic bag
+- [x] Carry bag
+- [x] Tempo
 - [x] 2x FFP2 face masks
 - [ ] Aspirin
 - [ ] Band-aids
-- [ ] USB charger with USB-A port
-- [ ] 2x USB A-C cable
-- [ ] Wired earphones with microphone
+- [x] USB charger with USB-A port
+- [x] 2x USB A-C cable
+- [x] Wired earphones with microphone
 - [x] Foldable on-ear headphones with microphone
 - [x] Laptop
 - [x] Power supply for laptop
 - [x] Small wireless mouse with spare batteries
-- [ ] HDMI cable (or whatever external port is available on the laptop)
-- [ ] 3pol-CH-to-German power plug adaptor
+- [x] HDMI cable (or whatever external port is available on the laptop)
+- [x] 3pol-CH-to-German power plug adaptor
 
 #### Shopping backpack
 

@@ -133,8 +133,8 @@ Location: In between shopping backpack and daily sling bag, used approx. once or
 - [ ] Fishermans
 - [x] Aspirin
 - [x] Band-aids
-- [ ] USB charger with USB-A port
-- [ ] USB A-C cable
+- [x] USB charger with USB-A port
+- [x] USB A-C cable
 - [ ] Wired earphones with microphone
 - [x] Newer ANC headphones
 - [x] ~0.5L thermos / mug~

@@ -26,6 +26,7 @@ This is a list of things and what/how/where they need to be organised in the hal
   - [ ] Travel
   - [ ] Office
   - [ ] Shopping
+  - [ ] Light
   - [ ] Daily
 
 ## Pants
@@ -119,20 +120,38 @@ Location: In between office and daily backpack, used approx. once per week.
 - [x] 2x Plastic bags
 - [x] 2x Face masks
 
-#### Daily or light-travel backpack / sling bag
+#### Light-travel backpack
 
-Small backpack or sling bag, needs to be lightweight and comfortable to wear and as small as possible to still fit everything from the list below plus an additional 0.5L travel mug or thermos and a small power bank if needed.
+Small backpack, needs to be lightweight and comfortable to wear and as small as possible to still fit everything from the list below plus an additional 0.5L travel mug or thermos and a small power bank if needed.
+
+Location: Closest to the door, used several times per week.
+
+- [ ] Micro umbrella - *Optional*
+- [ ] Plastic bag
+- [ ] Tempo
+- [ ] FFP2 face masks
+- [ ] Fishermans
+- [ ] Aspirin
+- [ ] USB charger with USB-C port
+- [ ] USB-C cable
+- [ ] Wired earphones with microphone
+- [x] Newer ANC headphones
+- [x] ~0.5L thermos / mug~
+
+#### Daily sling bag
+
+Sling bag, needs fit everything from the list below plus an additional 0.5L travel mug or thermos and a small power bank if needed.
 
 Location: Closest to the door, used several times per week.
 
 - [x] Micro umbrella - *Optional*
-- [x] Plastic bag
+- [ ] Plastic bag
 - [x] Tempo
 - [x] FFP2 face masks
 - [ ] Fishermans
-- [x] Aspirin
-- [x] USB charger with USB-C port
-- [x] USB-C cable
-- [x] Wired earphones with microphone
-- [x] Newer ANC headphones
+- [ ] Aspirin
+- [ ] USB charger with USB-C port
+- [ ] USB-C cable
+- [ ] Wired earphones with microphone
+- [ ] Newer ANC headphones
 - [x] ~0.5L thermos / mug~

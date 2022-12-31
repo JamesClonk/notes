@@ -132,8 +132,8 @@ Location: In between shopping backpack and daily sling bag, used approx. once or
 - [ ] FFP2 face masks
 - [ ] Fishermans
 - [ ] Aspirin
-- [ ] USB charger with USB-C port
-- [ ] USB-C cable
+- [ ] USB charger with USB-A port
+- [ ] USB A-C cable
 - [ ] Wired earphones with microphone
 - [x] Newer ANC headphones
 - [x] ~0.5L thermos / mug~

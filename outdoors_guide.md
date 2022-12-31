@@ -131,7 +131,8 @@ Location: In between shopping backpack and daily sling bag, used approx. once or
 - [x] Tempo
 - [x] FFP2 face masks
 - [ ] Fishermans
-- [ ] Aspirin
+- [x] Aspirin
+- [x] Band-aids
 - [ ] USB charger with USB-A port
 - [ ] USB A-C cable
 - [ ] Wired earphones with microphone

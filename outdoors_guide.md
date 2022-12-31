@@ -115,7 +115,7 @@ Location: In between travel and shopping backpack, used approx. bi-weekly.
 
 Backpack to use exclusively for when you go shopping, based on largest possible free volume divided by weight. Backpack doesn't need any additional pockets or dividers or any other of that fancy stuff.
 
-Location: In between office and daily backpack, used approx. once per week.
+Location: In between office and light-travel backpack, used approx. once per week.
 
 - [x] 2x Plastic bags
 - [x] 2x Face masks
@@ -124,7 +124,7 @@ Location: In between office and daily backpack, used approx. once per week.
 
 Small backpack, needs to be lightweight and comfortable to wear and as small as possible to still fit everything from the list below plus an additional 0.5L travel mug or thermos and a small power bank if needed.
 
-Location: Closest to the door, used several times per week.
+Location: In between shopping backpack and daily sling bag, used approx. once or twice per week.
 
 - [ ] Micro umbrella - *Optional*
 - [ ] Plastic bag

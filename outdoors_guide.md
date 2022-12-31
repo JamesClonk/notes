@@ -127,7 +127,7 @@ Small backpack, needs to be lightweight and comfortable to wear and as small as 
 Location: In between shopping backpack and daily sling bag, used approx. once or twice per week.
 
 - [ ] Micro umbrella - *Optional*
-- [ ] Plastic bag
+- [x] Plastic bag
 - [ ] Tempo
 - [ ] FFP2 face masks
 - [ ] Fishermans
@@ -145,7 +145,7 @@ Sling bag, needs fit everything from the list below plus an additional 0.5L trav
 Location: Closest to the door, used several times per week.
 
 - [x] Micro umbrella - *Optional*
-- [ ] Plastic bag
+- [x] Plastic bag
 - [x] Tempo
 - [x] FFP2 face masks
 - [ ] Fishermans

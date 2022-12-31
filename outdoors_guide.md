@@ -128,7 +128,7 @@ Location: In between shopping backpack and daily sling bag, used approx. once or
 
 - [ ] Micro umbrella - *Optional*
 - [x] Plastic bag
-- [ ] Tempo
+- [x] Tempo
 - [ ] FFP2 face masks
 - [ ] Fishermans
 - [ ] Aspirin

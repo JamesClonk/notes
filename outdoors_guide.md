@@ -149,9 +149,11 @@ Location: Closest to the door, used several times per week.
 - [x] Tempo
 - [x] FFP2 face masks
 - [ ] Fishermans
-- [ ] Aspirin
-- [ ] USB charger with USB-C port
-- [ ] USB-C cable
-- [ ] Wired earphones with microphone
+- [x] Aspirin
+- [x] Aspirin-C
+- [x] Band-aids
+- [x] USB charger with USB-A port
+- [x] USB A-C cable
+- [x] Wired earphones with microphone
 - [ ] Newer ANC headphones
 - [x] ~0.5L thermos / mug~

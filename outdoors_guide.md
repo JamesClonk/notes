@@ -68,7 +68,7 @@ Location: furthest from door, used rarely.
 - [x] Power supply for laptop (or 2nd set of USB-C charger)
 - [x] HDMI cable (or whatever external port is available on the laptop)
 - [x] Toiletry bag
-  - [ ] Fishermans
+  - [x] Fishermans
   - [x] Aspirin
   - [x] Aspirin-C
   - [x] Alka-Seltzer
@@ -97,7 +97,7 @@ Location: In between travel and shopping backpack, used approx. bi-weekly.
 - [x] Tempo
 - [x] 2x FFP2 face masks
 - [x] Mask holder
-- [ ] Fishermans
+- [x] Fishermans
 - [x] Aspirin
 - [x] Band-aids
 - [x] USB charger with USB-A port
@@ -130,7 +130,7 @@ Location: In between shopping backpack and daily sling bag, used approx. once or
 - [x] Plastic bag
 - [x] Tempo
 - [x] FFP2 face masks
-- [ ] Fishermans
+- [x] Fishermans
 - [x] Aspirin
 - [x] Band-aids
 - [x] USB charger with USB-A port
@@ -149,7 +149,7 @@ Location: Closest to the door, used several times per week.
 - [x] Plastic bag
 - [x] Tempo
 - [x] FFP2 face masks
-- [ ] Fishermans
+- [x] Fishermans
 - [x] Aspirin
 - [x] Aspirin-C
 - [x] Band-aids

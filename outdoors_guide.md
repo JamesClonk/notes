@@ -32,7 +32,7 @@ This is a list of things and what/how/where they need to be organised in the hal
 ## Pants
 
 - [x] Belt
-- [ ] Fishermans
+- [x] Fishermans
 - [ ] Tempo
 
 ## Shelf
@@ -44,7 +44,7 @@ This is a list of things and what/how/where they need to be organised in the hal
   - [x] USB A-C cable
   - [x] Tempo
   - [x] Face mask
-  - [ ] Fishermans
+  - [x] Fishermans
   - [x] Attached to a lanyard with an alligator clip
 
 #### Travel backpack

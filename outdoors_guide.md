@@ -4,40 +4,40 @@ This is a list of things and what/how/where they need to be organised in the hal
 
 ## Jackets
 
-- [ ] Ordered by purpose (from furthest from door to closest)
-  - [ ] Skiing
-  - [ ] Winter/Cold
-  - [ ] Rain/Wet
-  - [ ] General
+- [x] Ordered by purpose (from furthest from door to closest)
+  - [x] Skiing
+  - [x] Winter/Cold
+  - [x] Rain/Wet
+  - [x] General
 
 ## Shoes
 
-- [ ] Ordered by purpose (from furthest from door to closest)
-  - [ ] Hiking
-  - [ ] Snow
-  - [ ] Winter/Cold
-  - [ ] Rain/Wet
-  - [ ] All purpose
-  - [ ] Summery
+- [x] Ordered by purpose (from furthest from door to closest)
+  - [x] Hiking
+  - [x] Snow
+  - [x] Winter/Cold
+  - [x] Rain/Wet
+  - [x] All purpose
+  - [x] Summer-y
 
 ## Bags
 
-- [ ] Ordered by purpose (from furthest from door to closest)
-  - [ ] Travel
-  - [ ] Office
-  - [ ] Shopping
-  - [ ] Light
-  - [ ] Daily
+- [x] Ordered by purpose (from furthest from door to closest)
+  - [x] Travel
+  - [x] Office
+  - [x] Shopping
+  - [x] Light
+  - [x] Daily
 
 ## Pants
 
 - [x] Belt
 - [x] Fishermans
-- [ ] Tempo
+- [x] Tempo
 
 ## Shelf
 
-- [ ] Qi-capable power bank, always fully charged (permanent charging station setup on shelf)
+- [x] Qi-capable power bank, always fully charged (permanent charging station setup on shelf)
 - [x] 2x TO-GO bags, each containing:
   - [x] Wired earphones with microphone
   - [x] USB charger with USB-A port

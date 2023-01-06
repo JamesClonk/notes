@@ -126,7 +126,7 @@ Small backpack, needs to be lightweight and comfortable to wear and as small as 
 
 Location: In between shopping backpack and daily sling bag, used approx. once or twice per week.
 
-- [ ] Micro umbrella - *Optional*
+- [x] Micro umbrella - *Optional*
 - [x] Plastic bag
 - [x] Tempo
 - [x] FFP2 face masks

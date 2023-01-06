@@ -49,7 +49,8 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Drip Roasters - Colombia Wush Wush Planadas](https://www.driproasters.ch/de/kaffee/filter/colombia-wush-wush-planadas-filter-250g) | 100% Arabica, Colombia - Tolima - Ibagué (Wush Wush), ❓️ roast, washed/anaerobic fermented, tropical fruits, strawberry/pineapple, <ins>peach-y</ins>, berry, sweet, ❓️ | ❓️ | V60p5R17C18T94 = ❓️x |
+| [Drip Roasters - Colombia Wush Wush Planadas](https://www.driproasters.ch/de/kaffee/filter/colombia-wush-wush-planadas-filter-250g) | 100% Arabica, Colombia - Tolima - Ibagué (Wush Wush), ❓️ roast, washed/anaerobic fermented, fruity, tropical fruits, strawberry/pineapple, <ins>peach-y❓️</ins>, berry, sweet, ❓️ | ❓️ | V60p5R17C18T94 = ❓️x |
+| [Drip Roasters - Bolivia Chijchipani](https://www.driproasters.ch/en/coffee/filter/bolivia-chijchipani-filter-250g) | 100% Arabica, Bolivia - Chijchipani - Caranavi (Caturra, Red Catuai, Mundo Novo), ❓️ roast, washed, nutty, sweet, low fruitiness, low acidity, ❓️ bitter, ❓️ | ❓️ | V60p5R17C22T95 = ❓️x |
 | [Adrianos - Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen) | 100% Arabica, Ethiopia, fruity, acidic, citric | Unpleasant fruitiness expected ... ❓️ | ❓️ |
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Malabar](https://adrianos.ch/shop/kaffee/bohnen/adrianos-malabar-1) | 100% Arabica, India, ❓️ | ❓️ | ❓️ |

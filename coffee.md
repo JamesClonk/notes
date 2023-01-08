@@ -130,7 +130,7 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 - pour hot water into base (95-100c), 200g
 - stir with tool for 2-3s (important for even extraction!)
 - put plunger in for vacuum
-- wait 3min
+- wait 4min
 - gently swirl a few times
 - wait 20s
 - slowly push plunger, until all water has left (stop at the hiss!)

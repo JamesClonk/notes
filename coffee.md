@@ -50,7 +50,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Square Mile - La Serranía](https://shop.squaremilecoffee.com/) | 100% Arabica, Colombia - Hulia (Caturra, Colombia, Castillo), ❓️ roast, washed, ❓️ fruitiness, ❓️ acidity, ❓️ bitter, ❓️ | ❓️ | V60p5R17C24T94 = ❓️x |
+| [Square Mile - La Serranía](https://shop.squaremilecoffee.com/) | 100% Arabica, Colombia - Hulia (Caturra, Colombia, Castillo), ❓️ roast, washed, apple-ish, plum, fruity, some acidity, ❓️ bitter, ❓️ | Smells like red fruits or cooked apple. ❓️ | V60p5R17C24T94 = ❓️x |
 | [Drip Roasters - Bolivia Chijchipani](https://www.driproasters.ch/en/coffee/filter/bolivia-chijchipani-filter-250g) | 100% Arabica, Bolivia - Chijchipani - Caranavi (Caturra, Red Catuai, Mundo Novo), ❓️ roast, washed, nutty, sweet, low fruitiness, low acidity, ❓️ bitter, ❓️ | ❓️ | V60p5R17C22T95 = ❓️x |
 | [Adrianos - Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen) | 100% Arabica, Ethiopia, fruity, acidic, citric | Unpleasant fruitiness expected ... ❓️ | ❓️ |
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |

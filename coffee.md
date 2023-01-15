@@ -98,13 +98,13 @@ Starting points for dialing in:
 - C40 clicks for V60: 20-25 (a bit coarser for darker roasts)
 
 General observations of differences in brewing methods:
-- Basic AeroPress recipes generally produce a more "clear", smooth, watery, fruity result. Suited well for fruity coffees.
-- V60 produces more "full", dry-mouth, texture, heavy result than AeroPress. Suited well for milk-intended coffees.
-- Bialetti generally produces very heavy, earthy, bitter results. Viable only for milk-required coffees.
+- Default AeroPress recipes generally produce a more "clear", smooth, watery, fruity result. Suited well for fruity coffees.
+- V60 with high temp produces more "full", dry-mouth, texture, heavy result than AeroPress. Lower temps a more smooth, clear, light and fruity result like AeroPress.
+- Bialetti generally produces very heavy, earthy, thick, strong results. Mostly only for milk-required coffees.
 - 9barista so far never worked well with light roasts and/or fruity beans, seems to prefer dark and earthy. Suited for darker roasts.
 
 An4msR16C20 vs V60p5R16C23T95:
-The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth, more watery but more fruitiness. Overall I think the default AeroPress recipe is "clearer" and better for fruity coffees than default V60 recipe, but V60p5R18C24T95 got close (higher than "normal" ratios seem to make it closer through being more watery?). Overall C22 is probably best for a V60, while C18-20 the best starting point for an AeroPress. It's best to lower temps before grinding coarser on V60 as a first step when experimenting, for example going V60p5R16C22T92. Lower temps tend to push V60 more towards the AeroPressy taste profile.
+The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth, more watery but more fruitiness. Overall I think the default AeroPress recipe is "clearer" and better for fruity coffees than default V60 recipe, but V60p5R18C24T94 got close (higher than "normal" ratios seem to make it closer through being more watery?). Overall C22 is probably best for a V60, while C18-20 the best starting point for an AeroPress. It's best to lower temps before grinding coarser on V60 as a first step when experimenting, for example going V60p5R16C22T92. Lower temps tend to push V60 more towards the AeroPress taste profile.
 
 ---
 

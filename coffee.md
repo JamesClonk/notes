@@ -53,7 +53,7 @@
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
 | [Manana Cafés - Ridículo](https://www.mananacafes.com.br/product-page/rid%C3%ADculo) | x% Arabica / x% Robusta, Brazil, ❓️ roast, natural, lemon, floral, <ins>caramel</ins>, low bitter | ❓️ | V60p5R17C24T93 = ❓️x |
-| [Manana Cafés - Blend Capadocia](https://www.mananacafes.com.br/product-page/blend-capadocia) | 100% Arabica, Brazil (Yellow Catuaí, Red Catuaí), ❓️ roast, natural, chocolate, sweet, bitter | ❓️ | V60p5R17C24T93 = ❓️x |
+| [Manana Cafés - Blend Capadocia](https://www.mananacafes.com.br/product-page/blend-capadocia) | 100% Arabica, Brazil (Yellow Catuaí, Red Catuaí), light-to-medium roast, natural, <ins>chocolate</ins>, sweet, bitter | Has a strong chocolate smell. ❓️ | V60p5R17C24T93 = ❓️x |
 | [Drip Roasters - Bolivia Chijchipani](https://www.driproasters.ch/en/coffee/filter/bolivia-chijchipani-filter-250g) | 100% Arabica, Bolivia - Chijchipani - Caranavi (Caturra, Red Catuai, Mundo Novo), ❓️ roast, washed, nutty, sweet, low fruitiness, low acidity, ❓️ bitter, ❓️ | ❓️ | V60p5R17C22T95 = ❓️x |
 | [Adrianos - Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen) | 100% Arabica, Ethiopia, fruity, acidic, citric | Unpleasant fruitiness expected ... ❓️ | ❓️ |
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |

@@ -91,7 +91,7 @@ Note on T__, if omitted it means 100°C for AeroPress, 90°C for V60.
 ## General notes
 
 Starting points for dialing in:
-- C40 clicks for 9barista: 7-14
+- C40 clicks for 9barista: 8-12
 - C40 clicks for Bialetti: 16-20 (may go as high as 30 though)
 - C40 clicks for AeroPress, standard: 16-24
 - C40 clicks for AeroPress, inverted: 22-28

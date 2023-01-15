@@ -187,7 +187,7 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 - 2:00-2:05 - gently swirl
 - 2:05-3:00 - let it drain
 - 3:00+ - should be done roughly after hitting the 3min. mark
-  - Note: as a general rule, lighter roasts tend to have longer drawndown times, darker roasts are quicker. (Has something to do with fines production in the Comandante I guess) 
+  - Note: as a general rule, lighter roasts tend to have longer drawdown times, darker roasts are quicker. (Has something to do with fines production in the Comandante I guess) 
 - done, enjoy! 😋☕👌
 
 ---

@@ -54,7 +54,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Drip Roasters - Bolivia Chijchipani](https://www.driproasters.ch/en/coffee/filter/bolivia-chijchipani-filter-250g) | 100% Arabica, Bolivia - Chijchipani - Caranavi (Caturra, Red Catuai, Mundo Novo), medium roast, washed, nutty, sweet, low fruitiness, low acidity, some bitter, ❓️ | ❓️ | V60p5R17C20T93 = ❓️x<br/>V60p5R17C22T95 = ❓️x<br/>V60p5R17C24T94 = 4-5x |
+| [Drip Roasters - Bolivia Chijchipani](https://www.driproasters.ch/en/coffee/filter/bolivia-chijchipani-filter-250g) | 100% Arabica, Bolivia - Chijchipani - Caranavi (Caturra, Red Catuai, Mundo Novo), medium roast, washed, nutty, sweet, low fruitiness, low acidity, some bitter, ❓️ | A somewhat nutty, slightly bitter-ish taste, but overall light and clear. Not chocolate, but maybe in the direction of nougat? | V60p5R17C20T93 = ❓️x<br/>V60p5R17C22T95 = ❓️x<br/>V60p5R17C24T94 = 4-5x |
 | [Adrianos - Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen) | 100% Arabica, Ethiopia, fruity, acidic, citric | Unpleasant fruitiness expected ... ❓️ | ❓️ |
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Malabar](https://adrianos.ch/shop/kaffee/bohnen/adrianos-malabar-1) | 100% Arabica, India, ❓️ | ❓️ | ❓️ |

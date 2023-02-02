@@ -12,6 +12,7 @@ What to do next?
 - [ ] Hiking in New Zealand
 - [x] ~Hiking in Norway~
 - [ ] Watching Polar Lights
+- [ ] Visiting Reykjavík
 
 ## Restaurants
 
@@ -54,6 +55,7 @@ What to do next?
   - [ ] Tromsø
 
 - [ ] **Iceland**
+  - [ ] Reykjavík
   - [ ] Kirkjufell
   - [ ] Jökulsárlón
   - [ ] Skógafoss

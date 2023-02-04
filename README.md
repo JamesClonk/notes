@@ -59,6 +59,7 @@ What to do next?
   - [ ] Kirkjufell
   - [ ] Jökulsárlón
   - [ ] Skógafoss
+  - [ ] Háifoss
 
 - [ ] **Japan**
   - [ ] Okinawa

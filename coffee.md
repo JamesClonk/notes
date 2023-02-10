@@ -55,6 +55,8 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
+| [Drip Roasters - Costa Rica La Angostura](https://www.driproasters.ch/de/kaffee/filter/costa-rica-la-angostura-filter-250g) | 100% Arabica, Costa Rica - Tarrazú (Red Catuai), ❓️ roast, yellow honey method, plum, caramel, red apple, ❓️ | ❓️  | ❓️ |
+| [Drip Roasters - Ethiopia Bule Adado](https://www.driproasters.ch/de/kaffee/filter/ethiopia-bule-adado-filter-250g) | 100% Arabica (Yirgacheffe - Kudhume, Welisho, Dego), Ethiopia - Bule, light roast, natural/fermented, citric, fruity, <ins>berry</ins>, sweet, no bitter | ❓️ | ❓️ |
 | [Adrianos - Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen) | 100% Arabica, Ethiopia, fruity, acidic, citric | Unpleasant fruitiness expected ... ❓️ | ❓️ |
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Malabar](https://adrianos.ch/shop/kaffee/bohnen/adrianos-malabar-1) | 100% Arabica, India, ❓️ | ❓️ | ❓️ |

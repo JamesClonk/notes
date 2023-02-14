@@ -55,7 +55,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Square Mile - La Cidra](https://shop.squaremilecoffee.com/pages/our-pick-filter-subscription-coffees-2023) | 100% Arabica (Catuai), Honduras - Lempira, ❓️ roast, washed, apple, blackcurrant, chocolatey, ❓️ | ❓️ | An4msR17C20 = ❓️x<br/>An4msR17C22 = ❓️x<br/>V60p5R17C24T93 = ❓️x<br/>V60p5R17C22T94 = ❓️x |
+| [Square Mile - La Cidra](https://shop.squaremilecoffee.com/pages/our-pick-filter-subscription-coffees-2023) | 100% Arabica (Catuai), Honduras - Lempira, ❓️ roast, washed, apple, blackcurrant, chocolatey, ❓️ | clear and juicy, but astringent. A classical taste profile | An4msR17C20 = 4x<br/>An4msR17C22 = ❓️x<br/>V60p5R17C24T93 = ❓️x<br/>V60p5R17C22T94 = ❓️x |
 | [Drip Roasters - Costa Rica La Angostura](https://www.driproasters.ch/de/kaffee/filter/costa-rica-la-angostura-filter-250g) | 100% Arabica (Red Catuai), Costa Rica - Tarrazú, ❓️ roast, yellow honey method, plum, caramel, red apple, sweet, ❓️ | ❓️ | An4msR17C20 = ❓️x<br/>V60p5R17C21T93 = ❓️x |
 | [Drip Roasters - Rwanda Kamajumba](https://www.driproasters.ch/de/kaffee/filter/rwanda-kamajumba-filter-250g) | 100% Arabica (Red Bourbon), Rwanda - Nyamasheke, ❓️ roast, washed, orange, citric, tea, ❓️ | ❓️ | An4msR17C22 = ❓️x<br/>V60p5R17C24T95 = ❓️x |
 | [Adrianos - Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen) | 100% Arabica, Ethiopia, fruity, acidic, citric | Unpleasant fruitiness expected ... ❓️ | ❓️ |

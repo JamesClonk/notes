@@ -98,7 +98,7 @@ Starting points for dialing in:
 - C40 clicks for Bialetti: 16-20 (may go as high as 30 though)
 - C40 clicks for AeroPress, standard: 16-24
 - C40 clicks for AeroPress, inverted: 22-28
-- C40 clicks for V60: 20-25 (a bit coarser for darker roasts)
+- C40 clicks for V60: 22-24 (a bit coarser for darker roasts)
 
 General observations of differences in brewing methods:
 - Default AeroPress recipes generally produce a more "clear", smooth, watery, fruity result. Suited well for fruity coffees.

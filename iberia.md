@@ -9,6 +9,16 @@
 # North
 
 ##  Bilbao 
+- [ ] Bilbao
+  - https://en.wikipedia.org/wiki/Bilbao
+  - https://www.spain.info/en/destination/bilbao/
+- [ ] Guggenheim Museum
+  - https://www.guggenheim-bilbao.eus/
+- [ ] Erribera merkatua
+  - https://en.wikipedia.org/wiki/Mercado_de_la_Ribera
+  - https://goo.gl/maps/AhiLGSC7TrQofS1E6
+- [ ] Bilbao Town Hall
+  - https://www.spain.info/en/places-of-interest/bilbao-townhall/
 
 ## Gijón 
 - [ ] Museo y Circuito Fernando Alonso

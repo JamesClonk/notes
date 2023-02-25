@@ -44,13 +44,16 @@
 ## Cartagena
 - [ ] Cartagena
   - https://en.wikipedia.org/wiki/Cartagena,_Spain
-  - https://xyuandbeyond.com/cartagena-spain/
   - https://www.spain.info/en/destination/cartagena/
+- [ ] Teatro Romano de Cartagena
+  - http://www.teatroromanocartagena.org/
 
 ## Murcia
 - [ ] Murcia
   - https://en.wikipedia.org/wiki/Murcia
   - https://www.turismodemurcia.es/en/
+- [ ] Catedral de Murcia
+  - https://catedralmurcia.com/
 
 # East
 

@@ -31,7 +31,7 @@
   - https://www.spain.info/en/places-of-interest/bilbao-townhall/
 
 ## Gijón 
-- [ ] Museo y Circuito Fernando Alonso
+- [ ] Museo y Circuito Fernando Alonso 
   - https://goo.gl/maps/5MNTkhtLp7kXRxhH8
   - http://www.museoycircuitofernandoalonso.com/
 

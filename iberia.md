@@ -61,6 +61,13 @@
 - [ ] Valencia
   - https://en.wikipedia.org/wiki/Valencia
   - https://www.visitvalencia.com/en
+- [ ] Cathedral, Miguelete and Holy Grail
+  - https://www.visitvalencia.com/en/what-to-do-valencia/valencian-culture/monuments-in-valencia/catedral-valencia-cathedral
+  - https://en.wikipedia.org/wiki/Valencia_Cathedral
+  - https://museocatedralvalencia.com/en/
+  - https://catedraldevalencia.es/
+- [ ] Barrio del Carmen
+  - https://www.visitvalencia.com/en/what-to-see-valencia/historical-centre/del-carmen-neighborhood
 
 ---
 

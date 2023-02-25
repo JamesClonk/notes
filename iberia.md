@@ -24,7 +24,25 @@
 
 ## Málaga 
 
+## Granada
+
 # South-East
+
+## Sierra Nevada
+- [ ] Sierra Nevada
+  - https://de.wikipedia.org/wiki/Sierra_Nevada_(Spanien)
+  - https://en.wikipedia.org/wiki/Sierra_Nevada_(Spain)
+
+## Almería
+- [ ] Almería
+  - https://en.wikipedia.org/wiki/Almer%C3%ADa
+  - https://www.turismodealmeria.org/
+
+## Cartagena
+- [ ] Cartagena
+  - https://en.wikipedia.org/wiki/Cartagena,_Spain
+  - https://xyuandbeyond.com/cartagena-spain/
+  - https://www.spain.info/en/destination/cartagena/
 
 # East
 

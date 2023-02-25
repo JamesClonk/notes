@@ -8,6 +8,16 @@
 
 # North
 
+## San Sebastián
+- [ ] Donostia-San Sebastian
+  - https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n
+  - https://www.sansebastianturismoa.eus/en/
+- [ ] Parte Vieja (Old Town)
+  - https://www.nomads-travel-guide.com/places/san-sebastian-parte-vieja/
+- [ ] Playa de la Concha
+  - https://www.sansebastianturismoa.eus/en/to-do/what-not-to-miss/la-concha-beach
+  - https://www.google.com/search?q=Playa+de+la+Concha
+
 ##  Bilbao 
 - [ ] Bilbao
   - https://en.wikipedia.org/wiki/Bilbao

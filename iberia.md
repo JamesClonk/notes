@@ -1,6 +1,8 @@
 # North-East
 
 ## Pyrenees (Pyrénées)
+- [ ] Pyrénées National Park
+  - http://www.pyrenees-parcnational.fr/fr
 
 ## Barcelona
 
@@ -11,6 +13,7 @@
 ## Gijón 
 - [ ] Museo y Circuito Fernando Alonso
   - https://goo.gl/maps/5MNTkhtLp7kXRxhH8
+  - http://www.museoycircuitofernandoalonso.com/
 
 # North-West
 
@@ -44,9 +47,17 @@
   - https://xyuandbeyond.com/cartagena-spain/
   - https://www.spain.info/en/destination/cartagena/
 
+## Murcia
+- [ ] Murcia
+  - https://en.wikipedia.org/wiki/Murcia
+  - https://www.turismodemurcia.es/en/
+
 # East
 
 ## Valencia
+- [ ] Valencia
+  - https://en.wikipedia.org/wiki/Valencia
+  - https://www.visitvalencia.com/en
 
 ---
 

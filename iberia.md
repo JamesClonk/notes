@@ -39,6 +39,29 @@
 
 # West
 
+## Porto
+- [ ] Porto
+  - https://en.wikipedia.org/wiki/Porto
+  - https://www.lonelyplanet.com/portugal/the-north/porto/attractions
+- [ ] Francesinha
+  - https://en.wikipedia.org/wiki/Francesinha
+- [ ] Porto Cathedral
+  - https://www.diocese-porto.pt/pt/catedral-do-porto/
+
+## Lisbon
+- [ ] Lisbon
+  - https://en.wikipedia.org/wiki/Lisbon
+  - https://www.visitlisboa.com/en
+- [ ] Castelo de S. Jorge
+  - https://en.wikipedia.org/wiki/Saint_George%27s_Castle
+  - https://castelodesaojorge.pt/en/
+- [ ] Mercado da Ribeira
+  - https://www.timeoutmarket.com/lisboa/
+- [ ] Jerónimos Monastery
+  - https://www.patrimoniocultural.gov.pt/pt/museus-e-monumentos/dgpc/m/mosteiro-dos-jeronimos/
+- [ ] Praça do Comércio
+  - https://en.wikipedia.org/wiki/Pra%C3%A7a_do_Com%C3%A9rcio
+
 # South-West
 
 # South

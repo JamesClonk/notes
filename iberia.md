@@ -6,7 +6,7 @@
 
 ## Barcelona
 
-# North
+# North (Basque Country, Cantabria)
 
 ## San Sebastián
 - [ ] Donostia-San Sebastian
@@ -35,9 +35,13 @@
   - https://goo.gl/maps/5MNTkhtLp7kXRxhH8
   - http://www.museoycircuitofernandoalonso.com/
 
-# North-West
+# North-West (Galicia)
 
-# West
+## Santiago de Compostela
+- [ ] Santiago de Compostela
+  - https://en.wikipedia.org/wiki/Santiago_de_Compostela
+
+# West (Portugal)
 
 ## Porto
 - [ ] Porto
@@ -64,7 +68,7 @@
 
 # South-West
 
-# South
+# South (Andalusia)
 
 ## Gibraltar
 
@@ -98,7 +102,7 @@
 - [ ] Catedral de Murcia
   - https://catedralmurcia.com/
 
-# East
+# East (Valencia)
 
 ## Valencia
 - [ ] Valencia

@@ -46,7 +46,7 @@ What to do next?
 - [x] ~**Denmark**~
   - [x] ~Copenhagen~
 
-- [x] **Norway**
+- [x] [**Norway**](/norway.md)
   - [x] ~Oslo~
   - [x] ~Bergen~
   - [ ] Mardalsfossen

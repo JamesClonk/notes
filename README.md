@@ -20,14 +20,15 @@ What to do next?
 - [x] Arirang ⭐⭐⭐⭐⭐
 - [x] Bigote Verde ⭐⭐⭐⭐⭐
 - [x] Dr Süder ⭐⭐⭐⭐⭐
+- [x] Tanaka ⭐⭐⭐⭐⭐
 - [x] Chartreuse ⭐⭐⭐⭐⭐
 - [x] Onkel Thoms Schnitzelscheune ⭐⭐⭐⭐
 - [x] Namaste ⭐⭐⭐⭐
 - [x] Chu Garden ⭐⭐⭐⭐
 - [x] Noa ⭐⭐⭐⭐
+- [x] Williams ButchersTable ⭐⭐⭐⭐
 - [x] Tao Tao ⭐⭐⭐⭐
 - [x] Taishi ⭐⭐⭐
-- [ ] Williams ButchersTable
 - [ ] Sushibar Yamasaki
 - [ ] L'Osteria (Belp)
 - [ ] mille sens
@@ -70,4 +71,5 @@ What to do next?
 - [ ] **New Zealand**
 
 - [ ] **Scotland**
+  - [ ] Edinburgh (and Scotland in general) in August
 

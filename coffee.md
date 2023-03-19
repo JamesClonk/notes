@@ -59,7 +59,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
-| [Drip Roasters - Ecuador Maputo 2](https://www.driproasters.ch/de/kaffee/filter/ecuador-maputo-2-filter-250g) | 100% Arabica (Typica), Ecuador - Nanegal, ❓️ roast, honey method, citrus, honey, sweet, ❓️ | ❓️ | An4msR17C20 = ❓️x<br/>V60p5R17C20T93 = ❓️x<br/>V60p5R17C22T93 = ❓️x<br/>V60p5R17C23T93 = ❓️x |
+| [Drip Roasters - Ecuador Maputo 2](https://www.driproasters.ch/de/kaffee/filter/ecuador-maputo-2-filter-250g) | 100% Arabica (Typica), Ecuador - Nanegal, ❓️ roast, honey method, citrus, honey, sweet, ❓️ | Smells very sweet, strongly of honey and some citrus fruit. | An4msR17C20 = ❓️x<br/>V60p5R17C20T93 = ❓️x<br/>V60p5R17C22T93 = 4-5x<br/>V60p5R17C23T93 = ❓️x |
 | [Drip Roasters - Kenya Deman Estate](https://www.driproasters.ch/de/kaffee/filter/kenya-deman-estate-filter-250g) | 100% Arabica (Ruiru 11, Batian), Kenya - Nkubu, ❓️ roast, natural, citric, lime, plum, ❓️ | ❓️ | An4msR17C20 = ❓️x<br/>V60p5R17C22T93 = ❓️x<br/>V60p5R17C24T93 = ❓️x<br/>V60p5R17C23T94 = ❓️x |
 | [Adrianos - Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen) | 100% Arabica, Ethiopia, fruity, acidic, citric | Unpleasant fruitiness expected ... ❓️ | ❓️ |
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |

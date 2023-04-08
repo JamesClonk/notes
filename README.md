@@ -13,6 +13,7 @@ What to do next?
 - [x] ~Hiking in Norway~
 - [ ] Watching Polar Lights
 - [ ] Visiting Reykjavík
+- [ ] Traveling through Finland
 
 ## Restaurants
 

@@ -62,6 +62,7 @@
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
 | [Square Mile - Sul de Minas](https://shop.squaremilecoffee.com/pages/our-pick-filter-subscription-coffees-2023) | 100% Arabica (Bourbon, Catuaí, Catucaí, Mundo Novo), Brazil - Minas Gerais, ❓️ roast, natural, hazelnut, chocolatey, nutty, ❓️ | ❓️ | An4msR17C20 = ❓️x<br/>V60p5R17C22T93 = ❓️x<br/>V60p5R17C22T94 = ❓️x<br/>V60p5R17C23T93 = ❓️x<br/>V60p5R17C23T94 = ❓️x<br/>V60p5R17C24T93 = ❓️x<br/>V60p5R17C24T94 = ❓️x |
+| [Drip Roasters - Kenya Ngurueri](https://www.driproasters.ch/de/kaffee/filter/kenya-ngurueri-filter-250g) | 100% Arabica (SL-28, Ruiru 11, Batian, SL-34), Kenya - Ngurueri, ❓️ roast, washed, apple-ish, fruity, ❓️ | ❓️ | An4msR17C20 = ❓️x<br/>V60p5R17C22T93 = ❓️x<br/>V60p5R17C22T94 = ❓️x<br/>V60p5R17C23T93 = ❓️x<br/>V60p5R17C23T94 = ❓️x<br/>V60p5R17C24T93 = ❓️x<br/>V60p5R17C24T94 = ❓️x |
 | [Adrianos - Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen) | 100% Arabica, Ethiopia, fruity, acidic, citric | Unpleasant fruitiness expected ... ❓️ | ❓️ |
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Malabar](https://adrianos.ch/shop/kaffee/bohnen/adrianos-malabar-1) | 100% Arabica, India, ❓️ | ❓️ | ❓️ |

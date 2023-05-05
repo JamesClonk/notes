@@ -63,6 +63,7 @@
 
 | Name | Metadata | Comment | Usage |
 | --- | --- | --- | --- |
+| [Drip Roasters - Rwanda Impano](https://www.driproasters.ch/de/kaffee/espresso/rwanda-impano-espresso-250g) | 100% Arabica (Red Bourbon), Rwanda - Nyamasheke, ❓️ roast, natural/fermented, cherry, berry, chocolate, ❓️ | ❓️ | An4msR17C20 = ❓️x<br/>V60p5R17C22T93 = ❓️x<br/>V60p5R17C24T93 = ❓️x<br/>V60p5R17C23T94 = ❓️x |
 | [Adrianos - Boledu](https://adrianos.ch/shop/kaffee/bohnen/boledu-kaffee-bohnen) | 100% Arabica, Ethiopia, fruity, acidic, citric | Unpleasant fruitiness expected ... ❓️ | ❓️ |
 | [Adrianos - Candelaria](https://adrianos.ch/shop/kaffee/bohnen/adrianos-candelaria) | 100% Arabica, Costa Rica, ❓️ | ❓️ | ❓️ |
 | [Adrianos - Malabar](https://adrianos.ch/shop/kaffee/bohnen/adrianos-malabar-1) | 100% Arabica, India, ❓️ | ❓️ | ❓️ |

@@ -1,30 +1,30 @@
 # Route Planning
 max. 16 days
 
-- Day 1: Bordeaux, 8.5h, 850km
-- Day 2,3
+- Day 1 (8.): Bordeaux, 8.5h, 850km
+- Day 2,3 (9.,10.)
   - Donostia-San Sebastian, 3h, 256km
   - Bilbao, 1:10h, 100km
   - Bilbao, e.g. Playa de Sopelana, ~
-- Day 4
+- Day 4 (11.)
   - Santander, 1h, 100km
   - Gijon, 1:46h, 174km
-- Day 5
+- Day 5 (12.)
   - Museo y Circuito Fernando Alonso, 0:30h
   - A Coruna, 2:46h, 282km
-- Day 6,7
+- Day 6,7 (13.,14.)
   - Santiago de Compostela, 0:50h, 73km
   - Porto, 2:30h, 233km
   - Porto, Portwine, ~
-- Day 8,9
+- Day 8,9 (15.,16.)
   - Madrid, 5:35h, 562km
   - Madrid, ~
-- Day 10: Valencia, 3:49h, 377km
-- Day 11: Andorra La Vella, 5h, 423km
-- Day 12: Montpellier, 4:24h, 322km
-- Day 13: Nice, 3:25h, 324km
-- Day 14: Turin, 4h, 254km (Milan, 5h, 323km)
-- Day 15: Bern, 4h, 319km (from Milan, 4:32h, 352km) 
+- Day 10 (17.): Valencia, 3:49h, 377km
+- Day 11 (18.): Andorra La Vella, 5h, 423km
+- Day 12 (19.): Montpellier, 4:24h, 322km
+- Day 13 (20.): Nice, 3:25h, 324km
+- Day 14 (21.): Turin, 4h, 254km (Milan, 5h, 323km)
+- Day 15 (22.): Bern, 4h, 319km (from Milan, 4:32h, 352km) 
 
 # North-East
 

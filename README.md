@@ -14,6 +14,7 @@ What to do next?
 - [ ] Watching Polar Lights
 - [ ] Visiting Reykjavík
 - [ ] Traveling through Finland
+- [ ] A week in San Sebastián
 
 ## Restaurants
 
@@ -30,7 +31,7 @@ What to do next?
 - [x] Williams ButchersTable ⭐⭐⭐⭐
 - [x] Tao Tao ⭐⭐⭐⭐
 - [x] Taishi ⭐⭐⭐
-- [ ] Sushibar Yamasaki
+- [ ] Sushibar Yamasaki ⭐⭐⭐
 - [ ] L'Osteria (Belp)
 - [ ] mille sens
 - [ ] Jack's Brasserie

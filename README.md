@@ -31,7 +31,7 @@ What to do next?
 - [x] Williams ButchersTable ⭐⭐⭐⭐
 - [x] Tao Tao ⭐⭐⭐⭐
 - [x] Taishi ⭐⭐⭐
-- [ ] Sushibar Yamasaki ⭐⭐⭐
+- [x] Sushibar Yamasaki ⭐⭐⭐
 - [ ] L'Osteria (Belp)
 - [ ] mille sens
 - [ ] Jack's Brasserie

@@ -21,19 +21,17 @@ Pro Pflanze:
 |-|-|-|
 |[Gurke 'Patio Snack F1'](https://www.saemereien.ch/gurkensamen-kaufen-Patio-Snack-cucumis-sativus-samen)|2x Plants in 1x15L Trio Cottage|5|
 |[Gurke 'Euphya F1'](https://www.saemereien.ch/gurkensamen-kaufen-Euphya-f1-profiline-cucumis-sativus-samen)|1x Plant in 1x15L Trio Cottage|4|
-|[Spargelbohne](https://www.saemereien.ch/bohnensamen-kaufen-spargelbohne-vigna-unguiculata-subsp-sesquipedalis-samen)|2x Plant in 1x15L Trio Cottage|5|
+|[Spargelbohne](https://www.saemereien.ch/bohnensamen-kaufen-spargelbohne-vigna-unguiculata-subsp-sesquipedalis-samen)|2x Plants in 1x15L Trio Cottage|5|
 
 #### Trio Cottage (3x15L Pots)
 |Plant|Pot config|Drips|
 |-|-|-|
-|[Gurke 'Patio Snack F1'](https://www.saemereien.ch/gurkensamen-kaufen-Patio-Snack-cucumis-sativus-samen)|2x Plants in 1x15L Trio Cottage|5|
-|[Gurke 'Euphya F1'](https://www.saemereien.ch/gurkensamen-kaufen-Euphya-f1-profiline-cucumis-sativus-samen)|1x Plant in 1x15L Trio Cottage|4|
-|[Spargelbohne](https://www.saemereien.ch/bohnensamen-kaufen-spargelbohne-vigna-unguiculata-subsp-sesquipedalis-samen)|2x Plant in 1x15L Trio Cottage|5|
+|[Berner Rose](https://www.saemereien.ch/tomatensamen-kaufen-tomate-berner-rosen-lycopersicon-esculentum-bio-samen_1)|1x Plant in 1x15L Trio Cottage|5|
+|[Tomate 'Phantasia F1'](https://www.saemereien.ch/tomatensamen-kaufen-tomate-Phantasia-lycopersicon-esculentum-tomatensamen)|1x Plant in 1x15L Trio Cottage|5|
+|[Zuckertomate 'Solena Red F1'](https://www.saemereien.ch/tomatensamen-bestellen-tomate-zucker-tomate-solena-red-f1-lycopersicon-esculentum-tomatensamen)|1x Plant in 1x15L Trio Cottage|5|
 
-- Max 4-5 Tomatenpflanzen **IN TOTAL** ⛔
-- Max 4-5 Gurkenpflanzen **IN TOTAL** ⛔
-- 3x Drips pro Cucumis-Family Pflanze
-- 2-4x Drips pro Tomaten Pflanze
-- 2x Drips pro Chili Pflanze
-- 1-2x Drips für kleines Balkonbeet
-- 1-3x Drips für grosses Balkonbeet
+#### Cube Cottage (2x30L Pots)
+|Plant|Pot config|Drips|
+|-|-|-|
+|[Wassermelone 'Sugar Baby'](https://www.saemereien.ch/melonensamen-kaufen-wassermelone-sugar-baby-citrullus-lanatus-bio-samen)|1x Plant in 1x30L Cube Cottage|6|
+|[Zuckermelone 'Ancien'](https://www.saemereien.ch/melonensamen-kaufen-melone-zuckermelone-zuckermelone-ancien-cucumis-melo-bio-samen)|1x Plant in 1x30L Cube Cottage|6|

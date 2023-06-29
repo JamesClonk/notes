@@ -30,9 +30,10 @@ Pro Pflanze:
 |[Tomate 'Phantasia F1'](https://www.saemereien.ch/tomatensamen-kaufen-tomate-Phantasia-lycopersicon-esculentum-tomatensamen)|1x Plant in 1x15L|5|
 |[Zuckertomate 'Solena Red F1'](https://www.saemereien.ch/tomatensamen-bestellen-tomate-zucker-tomate-solena-red-f1-lycopersicon-esculentum-tomatensamen)|1x Plant in 1x15L |5|
 
-#### Cube Cottage (2x30L Pots)
+#### Cube Cottage (30L Pots)
 |Plant|Pot config|Drips|
 |-|-|-|
+|[Gurke 'Limona'](https://www.saemereien.ch/gemuesesamen-kaufen-gurke-limona-cucumis-sativus-l-bio-samen)|2x Plants in 1x30L|7|
 |[Wassermelone 'Sugar Baby'*](https://www.saemereien.ch/melonensamen-kaufen-wassermelone-sugar-baby-citrullus-lanatus-bio-samen)|1x Plant in 1x30L|6|
 |[Zuckermelone 'Ancien'*](https://www.saemereien.ch/melonensamen-kaufen-melone-zuckermelone-zuckermelone-ancien-cucumis-melo-bio-samen)|1x Plant in 1x30L|6|
 

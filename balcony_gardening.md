@@ -3,7 +3,7 @@
 ## Logistics
 
 Pro Pflanze:
-|Plant|Size|Water Drips|Drip Frequency|
+|Plant|Pot Size|Water Drips|Drip Frequency|
 |-|-|-|-|
 |Stabtomate|8-10L|3-5|20min / 2x pro Tag|
 |Buschtomate|5-10L|2-4|15-20min / 2x pro Tag|

@@ -3,7 +3,7 @@
 ## Plant metadata
 |Rating|Plant|Description|Pollination|
 |-|-|-|-|
-| ⭐️⭐️⭐️⭐️⭐️ | [Gurke 'Patio Snack F1'](https://www.saemereien.ch/gurkensamen-kaufen-Patio-Snack-cucumis-sativus-samen) | Super productive plant, very tasty cucumbers for salad, aggressive growth, parthenocarpic | not needed |
+| ⭐️⭐️⭐️⭐️⭐️ | [Gurke 'Patio Snack F1'](https://www.saemereien.ch/gurkensamen-kaufen-Patio-Snack-cucumis-sativus-samen) | Super productive plant, very tasty cucumbers for salad, aggressive growth, very hands-free and uncomplicated user experience, parthenocarpic | not needed |
 | ⭐️⭐️⭐️⭐️ | [Gurke 'Euphya F1'](https://www.saemereien.ch/gurkensamen-kaufen-Euphya-f1-profiline-cucumis-sativus-samen) | Good productive plant, large cucumbers for salad, parthenocarpic | not needed |
 | ⭐️⭐️⭐️⭐️ | [Gurke 'Burpee Hybrid II'](https://www.saemereien.ch/gurkensamen-kaufen-salatgurke-burpee-hybrid-ll-cucumis-sativus-samen) | Good productive plant with cucumbers for salad, very robust and resistant to disease, unfortunately not parthenocarpic | required: flower manipulation method |
 | ⭐️⭐️⭐️⭐️ | [Berner Rose](https://www.saemereien.ch/tomatensamen-kaufen-tomate-berner-rosen-lycopersicon-esculentum-bio-samen_1) | A classic, very tasty tomatoes, not a lot of fruits per plant unfortunately, not resistant to disease | recommended: electric toothbrush method |

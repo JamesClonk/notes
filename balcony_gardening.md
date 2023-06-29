@@ -33,5 +33,8 @@ Pro Pflanze:
 #### Cube Cottage (2x30L Pots)
 |Plant|Pot config|Drips|
 |-|-|-|
-|[Wassermelone 'Sugar Baby'](https://www.saemereien.ch/melonensamen-kaufen-wassermelone-sugar-baby-citrullus-lanatus-bio-samen)|1x Plant in 1x30L|6|
-|[Zuckermelone 'Ancien'](https://www.saemereien.ch/melonensamen-kaufen-melone-zuckermelone-zuckermelone-ancien-cucumis-melo-bio-samen)|1x Plant in 1x30L|6|
+|[Wassermelone 'Sugar Baby'*](https://www.saemereien.ch/melonensamen-kaufen-wassermelone-sugar-baby-citrullus-lanatus-bio-samen)|1x Plant in 1x30L|6|
+|[Zuckermelone 'Ancien'*](https://www.saemereien.ch/melonensamen-kaufen-melone-zuckermelone-zuckermelone-ancien-cucumis-melo-bio-samen)|1x Plant in 1x30L|6|
+
+* Note: Melonen brauchen ein Treibhaus/Glashaus, sonst wirds nix hier..
+  

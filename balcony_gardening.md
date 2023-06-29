@@ -22,8 +22,7 @@
 | ⭐️⭐️ | [Kefe, Zuckererbse 'Riesenzucker'](https://www.saemereien.ch/erbsensamen-kaufen-kefe-zuckererbse-riesenzucker-pisum-sativum-var-saccharatum-samen) | The plant works and the beans are tasty, but I'm not happy with the productiveness/yield, the amount is not enough | not needed |
 | ⭐️⭐️ | [Zuckertomate 'Solena Red F1'](https://www.saemereien.ch/tomatensamen-bestellen-tomate-zucker-tomate-solena-red-f1-lycopersicon-esculentum-tomatensamen) | Doesn't seem to work quite as expected so far, have to try again next year maybe | recommended: electric toothbrush method |
 | ⭐️⭐️ | [Chili 'Jalapeño'](https://www.saemereien.ch/chilisamen-kaufen-chili-peperoncini-jalapenos-capsicum-annuum-demeter-samen) | While the plant works, overall its just much easier to buy premade pickled Jalapeños | recommended: electric toothbrush method |
-
-
+| ⭐️⭐️ | [Chili 'Krakatoa'](https://www.saemereien.ch/chilisamen-kaufen-chili-krakatoa-f1-capsicum-annuum-samen) | Another plant whose purpose is not for me. Its easier to just buy 1 or 2 small chilies when needed for recipes. This plant only makes sense for very small/limited balcony spaces or pots. | recommended: electric toothbrush method |
 
 ## Logistics
 

@@ -21,14 +21,14 @@
 Pro Pflanze:
 |Plant|Pot Size|Water Drips|Drip Frequency|Hauert Kugeln|
 |-|-|-|-|-|
-|Stabtomate|8-10L|3-5|20min / 2x pro Tag|4x|
-|Buschtomate|5-10L|2-4|15-20min / 2x pro Tag|3-4x|
-|Melone|15-30L|4-5|20min / 2x pro Tag|4x|
-|Snackgurke|8-10L|3-4|20min / 2x pro Tag|3-4x|
-|Schlangengurke|8-10L|4-5|20min / 2x pro Tag|3-4x|
-|Spargelbohnen|5-10L|3-4|20min / 2x pro Tag|2-3x|
-|Kefen|5-10L|2-4|15-20min / 2x pro Tag|1-2x|
-|Snackchilis|5-10L|2-4|15-20min / 2x pro Tag|3-4x|
+|Stabtomate|8-10L|3-5|20min / 2x pro Tag|4|
+|Buschtomate|5-10L|2-4|15-20min / 2x pro Tag|3-4|
+|Melone|15-30L|4-5|20min / 2x pro Tag|4|
+|Snackgurke|8-10L|3-4|20min / 2x pro Tag|3-4|
+|Schlangengurke|8-10L|4-5|20min / 2x pro Tag|3-4|
+|Spargelbohnen|5-10L|3-4|20min / 2x pro Tag|2-3|
+|Kefen|5-10L|2-4|15-20min / 2x pro Tag|1-2|
+|Snackchilis|5-10L|2-4|15-20min / 2x pro Tag|3-4|
 
 ## Reference Deployment
 

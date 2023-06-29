@@ -14,8 +14,13 @@
 | ⭐️⭐️⭐️ | [Zuckermelone 'Ancien'](https://www.saemereien.ch/melonensamen-kaufen-melone-zuckermelone-zuckermelone-ancien-cucumis-melo-bio-samen) | Good sugar melon plant, needs consistent warm temps (glass roof / house) | required: flower manipulation method |
 | ⭐️⭐️⭐️ | [Edamame 'Chiba Green'](https://www.saemereien.ch/bohnensamen-kaufen-edamame-chiba-green-glycine-max-bio-samen) | Works, Edamame super tasty, but work effort and productiveness/yield are lacking for me (with Edamame in general) | not needed |
 | ⭐️⭐️⭐️ | [Edamame 'Green Shell'](https://www.saemereien.ch/bohnensamen-bestellen-edamame-sojabohne-green-shell-glycine-max-bio-samen) | Works, Edamame super tasty, but work effort and productiveness/yield are lacking for me (with Edamame in general) | not needed |
+| ⭐️⭐️⭐️ | [Chili 'Naga Bhut Jolokia'](https://www.saemereien.ch/chillisamen-kaufen-chili-Naga-Bhut-Jolokia-capsicum-annuum-samen) | As expected, suuuuper spicy! Fruits are very fruity in smell and taste. Very rewarding result/harvest, but don't plant it if you don't like spicy stuff! | recommended: electric toothbrush method |
+| ⭐️⭐️⭐️ | [Chili 'Habanero Orange'](https://www.saemereien.ch/chilisamen-kaufen-chili-orange-habanero-capsicum-chinense-samen) | As expected, spicy! Fruits are tasty. Also a ewarding result/harvest, but don't plant it if you don't like spicy stuff! | recommended: electric toothbrush method |
 | ⭐️⭐️ | [Kefe, Zuckererbse 'Riesenzucker'](https://www.saemereien.ch/erbsensamen-kaufen-kefe-zuckererbse-riesenzucker-pisum-sativum-var-saccharatum-samen) | The plant works and the beans are tasty, but I'm not happy with the productiveness/yield, the amount is not enough | not needed |
 | ⭐️⭐️ | [Zuckertomate 'Solena Red F1'](https://www.saemereien.ch/tomatensamen-bestellen-tomate-zucker-tomate-solena-red-f1-lycopersicon-esculentum-tomatensamen) | Doesn't seem to work quite as expected so far, have to try again next year maybe | recommended: electric toothbrush method |
+| ⭐️⭐️ | [Chili 'Jalapeño'](https://www.saemereien.ch/chilisamen-kaufen-chili-peperoncini-jalapenos-capsicum-annuum-demeter-samen) | While the plant works, overall its just much easier to buy premade pickled Jalapeños | recommended: electric toothbrush method |
+
+
 
 ## Logistics
 

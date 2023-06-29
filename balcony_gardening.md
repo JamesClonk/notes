@@ -42,6 +42,7 @@ Pro Pflanze:
 |Plant|Pot config|Drips|
 |-|-|-|
 |[Gurke 'Limona'](https://www.saemereien.ch/gemuesesamen-kaufen-gurke-limona-cucumis-sativus-l-bio-samen)|2x Plants in 1x30L|7|
+|[Gurke 'Lemon'](https://www.saemereien.ch/gurkensamen-kaufen-gurke-lemon-cucumis-sativus-bio-samen)|2x Plants in 1x30L|7|
 |[Wassermelone 'Sugar Baby'*](https://www.saemereien.ch/melonensamen-kaufen-wassermelone-sugar-baby-citrullus-lanatus-bio-samen)|1x Plant in 1x30L|6|
 |[Zuckermelone 'Ancien'*](https://www.saemereien.ch/melonensamen-kaufen-melone-zuckermelone-zuckermelone-ancien-cucumis-melo-bio-samen)|1x Plant in 1x30L|6|
 

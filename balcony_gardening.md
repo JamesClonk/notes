@@ -20,7 +20,7 @@
 
 Pro Pflanze:
 |Plant|Pot Size|Water Drips|Drip Frequency|Hauert Kugeln|
-|-|-|-|-|
+|-|-|-|-|-|
 |Stabtomate|8-10L|3-5|20min / 2x pro Tag|4x|
 |Buschtomate|5-10L|2-4|15-20min / 2x pro Tag|3-4x|
 |Melone|15-30L|4-5|20min / 2x pro Tag|4x|

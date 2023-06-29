@@ -1,5 +1,12 @@
 # Urban gardening information
 
+## Plant metadata
+|Rating|Plant|Description|
+|-|-|-|
+|⭐️⭐️⭐️⭐️⭐️|[Gurke 'Patio Snack F1'](https://www.saemereien.ch/gurkensamen-kaufen-Patio-Snack-cucumis-sativus-samen)|Super productive plant, very tasty cucumbers for salad, parthenocarpic|
+|⭐️⭐️⭐️⭐️|[Gurke 'Euphya F1'](https://www.saemereien.ch/gurkensamen-kaufen-Euphya-f1-profiline-cucumis-sativus-samen)|Good productive plant, large cucumbers for salad, parthenocarpic|
+|⭐️⭐️⭐️⭐️|[Gurke 'Burpee Hybrid II'](https://www.saemereien.ch/gurkensamen-kaufen-salatgurke-burpee-hybrid-ll-cucumis-sativus-samen)|Good productive plant with cucumbers for salad, very robust and resistant to disaease, unfortunately not parthenocarpic|
+
 ## Logistics
 
 Pro Pflanze:

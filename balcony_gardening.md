@@ -3,10 +3,10 @@
 ## Plant metadata
 |Rating|Plant|Description|Pollination|
 |-|-|-|-|
-| ⭐️⭐️⭐️⭐️⭐️ | [Gurke 'Patio Snack F1'](https://www.saemereien.ch/gurkensamen-kaufen-Patio-Snack-cucumis-sativus-samen) | Super productive plant, very tasty cucumbers for salad, aggressive growth, very hands-free and uncomplicated user experience, parthenocarpic | not needed |
+| ⭐️⭐️⭐️⭐️⭐️ | [Gurke 'Patio Snack F1'](https://www.saemereien.ch/gurkensamen-kaufen-Patio-Snack-cucumis-sativus-samen) | Super productive plant, very tasty cucumbers for salad, aggressive growth, very hands-free and uncomplicated user experience, best-in-all-categories, parthenocarpic | not needed |
 | ⭐️⭐️⭐️⭐️ | [Gurke 'Euphya F1'](https://www.saemereien.ch/gurkensamen-kaufen-Euphya-f1-profiline-cucumis-sativus-samen) | Good productive plant, large snake cucumbers for salad, parthenocarpic | not needed |
 | ⭐️⭐️⭐️⭐️ | [Gurke 'Burpee Hybrid II'](https://www.saemereien.ch/gurkensamen-kaufen-salatgurke-burpee-hybrid-ll-cucumis-sativus-samen) | Good productive plant with cucumbers for salad, very robust and resistant to disease, unfortunately not parthenocarpic | recommended: flower manipulation method |
-| ⭐️⭐️⭐️⭐️ | [Tomate 'Berner Rose'](https://www.saemereien.ch/tomatensamen-kaufen-tomate-berner-rosen-lycopersicon-esculentum-bio-samen_1) | A classic, very tasty tomatoes, not a lot of fruits per plant unfortunately, not resistant to disease | recommended: electric toothbrush method |
+| ⭐️⭐️⭐️⭐️ | [Tomate 'Berner Rose'](https://www.saemereien.ch/tomatensamen-kaufen-tomate-berner-rosen-lycopersicon-esculentum-bio-samen_1) | A classic, very tasty tomatoes, not a lot of fruits per plant unfortunately, not resistant to disease (be careful) | recommended: electric toothbrush method |
 | ⭐️⭐️⭐️⭐️ | [Tomate 'Goldene Königin'](https://www.saemereien.ch/tomatensamen-kaufen-tomate-goldene-koenigin-lycopersicon-esculentum-mill-samen) | Very tasty tomatoes, good yield | recommended: electric toothbrush method |
 | ⭐️⭐️⭐️⭐️ | [Spargelbohne](https://www.saemereien.ch/bohnensamen-kaufen-spargelbohne-vigna-unguiculata-subsp-sesquipedalis-samen) |  Very productive plant, the overly long beans are very tasty when grilled/cooked. Make sure to harvest them early enough though, or else they get chewy! | not needed |
 | ⭐️⭐️⭐️⭐️ | [Kapuzinerkresse](https://www.saemereien.ch/blumensamen-shop-kapuzinerkresse-niedrige-mischung-tropaeolum-majus-bio-samen) | Very nice for salad ingredients (leaves, flowers, seeds, etc., everything is edible and tasty!), easy growing, hands-free and robust plant. Its main downside is a small size and somewhat narrow harvest window. | not needed |
@@ -33,7 +33,7 @@
 | ⭐️⭐️ | [Zuckertomate 'Solena Red F1'](https://www.saemereien.ch/tomatensamen-bestellen-tomate-zucker-tomate-solena-red-f1-lycopersicon-esculentum-tomatensamen) | Doesn't seem to work quite as expected so far, have to try again next year maybe | recommended: electric toothbrush method |
 | ⭐️⭐️ | [Minze 'Mojito und Hugo'](https://www.saemereien.ch/kraeutersamen-kaufen-mojito-huog-minze-mentha-piperita-samen) | Grows well (it is a mint plant after all, they are weeds!), but it has a rather weak taste, not that minty. |not needed |
 | ⭐️⭐️ | [Chili 'Jalapeño'](https://www.saemereien.ch/chilisamen-kaufen-chili-peperoncini-jalapenos-capsicum-annuum-demeter-samen) | While the plant works, overall its just much easier to buy premade pickled Jalapeños | recommended: electric toothbrush method |
-| ⭐️⭐️ | [Chili 'Krakatoa'](https://www.saemereien.ch/chilisamen-kaufen-chili-krakatoa-f1-capsicum-annuum-samen) | Another plant whose purpose is not for me. Its easier to just buy 1 or 2 small chilies when needed for recipes. This plant only makes sense for very small/limited balcony spaces or pots. | recommended: electric toothbrush method |
+| ⭐️⭐️ | [Chili 'Krakatoa'](https://www.saemereien.ch/chilisamen-kaufen-chili-krakatoa-f1-capsicum-annuum-samen) | Another plant whose purpose is not for me. Its easier to just buy 1 or 2 small chilis when needed for recipes. This plant only makes sense for very small/limited balcony spaces or pots. | recommended: electric toothbrush method |
 
 ## Logistics
 

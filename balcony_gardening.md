@@ -79,4 +79,9 @@ Pro Pflanze:
 |* [Zuckermelone 'Ancien'](https://www.saemereien.ch/melonensamen-kaufen-melone-zuckermelone-zuckermelone-ancien-cucumis-melo-bio-samen)|1x Plant in 1x30L|6|
 
 * Note: Melonen brauchen ein Treibhaus/Glashaus, sonst wirds nix hier..
+
+## Other notes
+
+- Do fight an early onset of Aphids, they can greatly reduce yield otherwise!
+
   

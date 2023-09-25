@@ -30,11 +30,11 @@ What to do next?
 - [x] Noa ⭐⭐⭐⭐
 - [x] Williams ButchersTable ⭐⭐⭐⭐
 - [x] Tao Tao ⭐⭐⭐⭐
+- [x] Jack's Brasserie ⭐⭐⭐⭐
 - [x] Taishi ⭐⭐⭐
 - [x] Sushibar Yamasaki ⭐⭐⭐
 - [ ] L'Osteria (Belp)
 - [ ] mille sens
-- [ ] Jack's Brasserie
 - [ ] Noumi
 - [ ] Kesar
 

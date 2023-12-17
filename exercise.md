@@ -55,6 +55,7 @@
 ---
 # various videos
 
+- climbing techniques: https://www.youtube.com/watch?v=s-ArwEzr-2M
 - crimp finger technique: https://www.youtube.com/watch?v=o-tVB9xi__8
 - how to flag: https://www.youtube.com/watch?v=jLsii8s6acM
 - heel hooks: https://www.youtube.com/watch?v=ALk8vVPKdco&t=454s

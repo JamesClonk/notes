@@ -50,6 +50,25 @@
 - plank hold, 45s
 - superman hold, 45s
 
+---
+# various videos
+
+- crimp finger technique: https://www.youtube.com/watch?v=o-tVB9xi__8
+- how to flag: https://www.youtube.com/watch?v=jLsii8s6acM
+- heel hooks: https://www.youtube.com/watch?v=ALk8vVPKdco&t=454s
+- exercises: https://www.youtube.com/watch?v=etAwQ4jzyNY
+- warm up: https://www.youtube.com/watch?v=MSoKP919jxo
+- fix your technique: https://www.youtube.com/watch?v=4UA2hc9Qhg4
+- more technique: https://www.youtube.com/watch?v=luyvjVVy-OU
+- core training: https://www.youtube.com/watch?v=f_J48vXCaN4
+- more core training: https://www.youtube.com/watch?v=tauGlV63s7c
+- pullup training: https://www.youtube.com/watch?v=ixlOzOv6ZR0
+- wrist training: https://www.youtube.com/watch?v=03-Le-fMba8
+- hallux valgus exercises: https://www.youtube.com/watch?v=cf71KySHPAk
+- treat toe pain practices: https://www.youtube.com/watch?v=kiewOehiTLQ
+- hip mobility: https://www.youtube.com/watch?v=f86QMiSMaZ4
+- hangboard routine: https://www.youtube.com/watch?v=BEvLiyywoDA
+- shoe sole rubber types: https://www.youtube.com/watch?v=66G-O0ljzo0
 
 ---
 # OLD data

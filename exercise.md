@@ -43,6 +43,8 @@
 - assisted front pullups, 5-10 reps
 - assisted backhand pullups, 5-10 reps
 - (knuckle) pushups, 10-15 reps
+- normal front pullups, 3-x? reps
+- normal backhand pullups, 2-x? reps
 
 ### core, daily, 1-2x sets
 

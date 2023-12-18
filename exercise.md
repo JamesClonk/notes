@@ -65,6 +65,7 @@
 - more technique: https://www.youtube.com/watch?v=luyvjVVy-OU
 - core training: https://www.youtube.com/watch?v=f_J48vXCaN4
 - more core training: https://www.youtube.com/watch?v=tauGlV63s7c
+- flexibility training: https://www.youtube.com/watch?v=3rwc6UPRzRo
 - pullup training: https://www.youtube.com/watch?v=ixlOzOv6ZR0
 - wrist training: https://www.youtube.com/watch?v=03-Le-fMba8
 - hallux valgus exercises: https://www.youtube.com/watch?v=cf71KySHPAk

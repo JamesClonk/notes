@@ -72,6 +72,7 @@
 - treat toe pain practices: https://www.youtube.com/watch?v=kiewOehiTLQ
 - hip mobility: https://www.youtube.com/watch?v=f86QMiSMaZ4
 - hangboard routine: https://www.youtube.com/watch?v=BEvLiyywoDA
+- forearm stretching: https://www.youtube.com/watch?v=9aNmCJc-TeY
 - shoe sole rubber types: https://www.youtube.com/watch?v=66G-O0ljzo0
 
 ---

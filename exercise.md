@@ -102,4 +102,6 @@ https://www.youtube.com/watch?v=0MZd3iKzzPM
 
 ## plans
 
+https://www.youtube.com/watch?v=IjEl1m-Ef1M
+
 ...

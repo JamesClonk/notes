@@ -43,6 +43,7 @@
 - single leg, opposite arm/shoulder low row, 10 reps (https://youtu.be/rWMMFoeTKLw?t=55)
 - single leg, hip pulls, 10 reps (https://youtu.be/rWMMFoeTKLw?t=90)
 - single leg, angels, 10 reps (https://youtu.be/rWMMFoeTKLw?t=120)
+- backwards pushup, 10 reps (https://youtu.be/rWMMFoeTKLw?t=155)
 
 ### general upper body, daily, 1-2x sets
 

@@ -35,11 +35,15 @@
 - knuckle pushups, make fist, put weight on knuckles and forward-facing thumbs, do pushups, 5-10 reps
 - knuckle plank with shoulder taps, 5-10 reps
 
-### upper body, daily, 1-2x sets
+### shoulders, daily, 1-2x sets
 
 - no money move, 15 reps
 - face pulls, 20 reps
 - superman/jesus move? 15 reps
+- single leg, opposite arm/shoulder low row, 10 reps (https://youtu.be/rWMMFoeTKLw?t=55)
+
+### general upper body, daily, 1-2x sets
+
 - assisted front pullups, 5-10 reps
 - assisted backhand pullups, 5-10 reps
 - (knuckle) pushups, 10-15 reps

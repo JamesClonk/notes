@@ -44,6 +44,7 @@
 - single leg, hip pulls, 10 reps (https://youtu.be/rWMMFoeTKLw?t=90)
 - single leg, angels, 10 reps (https://youtu.be/rWMMFoeTKLw?t=120)
 - backwards pushup, 10 reps (https://youtu.be/rWMMFoeTKLw?t=155)
+- arnold press, 10-15 reps (https://youtu.be/LrMZnLvfbbY?t=122)
 
 ### general upper body, daily, 1-2x sets
 

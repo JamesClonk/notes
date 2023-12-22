@@ -41,6 +41,7 @@
 - face pulls, 20 reps
 - superman/jesus move? 15 reps
 - single leg, opposite arm/shoulder low row, 10 reps (https://youtu.be/rWMMFoeTKLw?t=55)
+- single leg, wrist pulls, 10 reps (https://youtu.be/rWMMFoeTKLw?t=90)
 
 ### general upper body, daily, 1-2x sets
 

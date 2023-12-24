@@ -16,6 +16,7 @@
 - elevated push-ups, 5-10 reps
 - scapular shrugs, hang on bar, only pull-up/down with your shoulders (not arms), 5-10 reps
 - doorway shoulder stretching, stand in doorway and hold walls, push chest forwards and stretch shoulders backwards, 3x, low/mid/high arms, 5-10 reps (https://youtu.be/CDZxdrG7Na8?t=433)
+- arm cross body stretch, left and right, hold 10-20s each (https://youtu.be/CDZxdrG7Na8?t=450)
 
 ### fingers
 

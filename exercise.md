@@ -42,6 +42,7 @@
 - no money move, 15 reps
 - face pulls, 20 reps
 - superman/jesus move? 15 reps
+- sword-from-the-sheath move, both sides, beware of thumb position, 10-15 reps (https://youtu.be/CMU1beXJv1c?t=120)
 - single leg, opposite arm/shoulder low row, 10 reps (https://youtu.be/rWMMFoeTKLw?t=55)
 - single leg, hip pulls, 10 reps (https://youtu.be/rWMMFoeTKLw?t=90)
 - single leg, angels, 10 reps (https://youtu.be/rWMMFoeTKLw?t=120)

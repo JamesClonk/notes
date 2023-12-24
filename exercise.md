@@ -47,6 +47,7 @@
 - single leg, opposite arm/shoulder low row, 10 reps (https://youtu.be/rWMMFoeTKLw?t=55)
 - single leg, hip pulls, 10 reps (https://youtu.be/rWMMFoeTKLw?t=90)
 - single leg, angels, 10 reps (https://youtu.be/rWMMFoeTKLw?t=120)
+- (single leg), goalpost press, 10 reps (https://youtu.be/CMU1beXJv1c?t=390)
 - backwards pushup, 10 reps (https://youtu.be/rWMMFoeTKLw?t=155)
 - arnold press, 10-15 reps (https://youtu.be/LrMZnLvfbbY?t=122)
 - mvp, mountain victory pose, 10 reps each side (https://youtu.be/CMU1beXJv1c?t=275)

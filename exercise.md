@@ -62,6 +62,7 @@
 ### core, daily, 1-2x sets
 
 - (knuckle) plank with shoulder taps, 20 reps
+- plank rows with dumbbells, 10 reps (https://youtu.be/CMU1beXJv1c?t=295)
 - plank hold, 45s
 - superman hold, 45s
 

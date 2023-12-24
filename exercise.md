@@ -34,7 +34,7 @@
 - wrist flexion with dumbbell roll, hold dumbbell in hand inwards, then sloooowly moved it downwards, rolling right into fingertips/crimps, 5-10 reps (https://youtu.be/03-Le-fMba8?t=45, or with both hands: https://youtu.be/03-Le-fMba8?t=105)
 - wrist extensions with rubberband, 5-10 reps each (https://youtu.be/03-Le-fMba8?t=135)
 - wrist extensions with dumbbells, hold in hands, back of hands facing up, thumb over bar (also on top, NOT around), then slowly move from shoulder down to hips like a normal dumbbell exercise, 5-10 reps (https://youtu.be/03-Le-fMba8?t=180)
-- lever rotation, left and right, first with bent elbow (90°), then with arm stretched, hold lever-weight in hand and only rotate wrist, 5-10 reps
+- lever rotation, left and right, first with bent elbow (90°), then with arm stretched, hold lever-weight in hand and only rotate wrist, 5-10 reps (https://youtu.be/03-Le-fMba8?t=270)
 - knuckle pushups, make fist, put weight on knuckles and forward-facing thumbs, do pushups, 5-10 reps
 - knuckle plank with shoulder taps, 5-10 reps
 

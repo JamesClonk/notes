@@ -15,6 +15,7 @@
 - scapular/shoulder press-ups, elevated hands, press up and down only with shoulders (not arms), 5-10 reps
 - elevated push-ups, 5-10 reps
 - scapular shrugs, hang on bar, only pull-up/down with your shoulders (not arms), 5-10 reps
+- doorway shoulder stretching, stand in doorway and hold walls, push chest forwards and stretch shoulders backwards, 3x, low/mid/high arms, 5-10 reps
 
 ### fingers
 
@@ -78,6 +79,7 @@
 - wrist training: https://www.youtube.com/watch?v=03-Le-fMba8
 - hallux valgus exercises: https://www.youtube.com/watch?v=cf71KySHPAk
 - treat toe pain practices: https://www.youtube.com/watch?v=kiewOehiTLQ
+- shoulder/biceps pain stretching: https://www.youtube.com/watch?v=CDZxdrG7Na8
 - hip mobility: https://www.youtube.com/watch?v=f86QMiSMaZ4
 - hangboard routine: https://www.youtube.com/watch?v=BEvLiyywoDA
 - forearm stretching: https://www.youtube.com/watch?v=9aNmCJc-TeY

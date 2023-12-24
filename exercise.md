@@ -57,7 +57,7 @@
 
 - assisted front pullups, 5-10 reps
 - assisted backhand pullups, 5-10 reps
-- (knuckle) pushups, 10-15 reps
+- (knuckle) pushups, 10-15 reps (https://youtu.be/03-Le-fMba8?t=340)
 - normal front pullups, 3-x? reps
 - normal backhand pullups, 2-x? reps
 

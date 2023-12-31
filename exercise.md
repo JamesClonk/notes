@@ -98,6 +98,7 @@
 - dumbbell (2kg) sideways from bottom all the way up to the top to almost touch, backhand facing outwards at all times, 10-20 reps
 - dumbbell frontwards from bottom all the way up to the top, backhand facing forward at all times, 10-20 reps
 - dumbbell backwards from bottom to about chest height, palm facing forward at all times, 10-20 reps
+- single arm no money move, outwards arm rotation with rubber band, stand straight, hold rubber band fixed from wall sideways, arm at 90° angle to body and wall, pull/rotate outwards with arm (elbow must touch hip at all times), 10-15 reps
 
 ---
 # OLD data

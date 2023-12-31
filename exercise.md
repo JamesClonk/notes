@@ -99,6 +99,7 @@
 - dumbbell frontwards from bottom all the way up to the top, backhand facing forward at all times, 10-20 reps
 - dumbbell backwards from bottom to about chest height, palm facing forward at all times, 10-20 reps
 - single arm no money move, outwards arm rotation with rubber band, stand straight, hold rubber band fixed from wall sideways, arm at 90° angle to body and wall, pull/rotate outwards with arm (elbow must touch hip at all times), 10-15 reps
+- single arm shoulder backward extensions, grab rubber band from side, twist hand into correct position ([see picture](/images/shoulder_back-in_extension.png)), pull with a straight arm back and inwards behind your back, 10-15 reps
 
 ---
 # OLD data

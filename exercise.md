@@ -93,6 +93,13 @@
 - shoe sole rubber types: https://www.youtube.com/watch?v=66G-O0ljzo0
 
 ---
+## shoulder exercises
+- just hang from pull-up bar (backhand) for 30s, 1min break afterwards, 5 reps
+- dumbbell (2kg) sideways from bottom all the way up to the top to almost touch, backhand facing outwards at all times, 10-20 reps
+- dumbbell frontwards from bottom all the way up to the top, backhand facing forward at all times, 10-20 reps
+- dumbbell backwards from bottom to about chest height, palm facing forward at all times, 10-20 reps
+
+---
 # OLD data
 ## guides
 

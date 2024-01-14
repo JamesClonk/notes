@@ -35,5 +35,5 @@
 |[Dermophil - Handcreme](https://www.coopvitality.ch/de/dermophil-handcreme-tb-75-ml.html)|⭐⭐|⭐⭐|⭐|-|⭐⭐|
 |[KletterRetter - Handcreme](https://www.kletterretter.com/produkte/handcreme-75ml/)|⭐⭐|⭐|⭐|⭐|⭐⭐⭐|
 |[O'Keeffe's Working Hands - Handcreme](https://okeeffescompany.com/products/working-hands)|⭐|⭐|⭐⭐|⭐|⭐⭐⭐|
-|[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|-|
-|[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|-|
+|[O'Keeffe's Working Hands - Creme/Balsam](https://okeeffescompany.com/products/working-hands)|⭐|⭐|⭐⭐⭐|⭐⭐|⭐⭐|
+|[KletterRetter - Repair Balsam](https://www.kletterretter.com/produkte/kletterretter-repair-balsam/)|-|-|⭐⭐|⭐⭐⭐|-|

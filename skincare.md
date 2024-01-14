@@ -30,10 +30,10 @@
 
 |product|moisturizing|softness|repair|protect|fast absorbing|
 |---|---|---|---|---|---|
-|[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐⭐|-|-|-|
-|[Eucerin - Handcreme](https://www.de.eucerin.ch/produkte/urea-repair/plus-handcreme-5prozent-urea-30ml)|⭐⭐⭐|⭐⭐|⭐|-|⭐|
-|[Dermophil - Handcreme](https://www.coopvitality.ch/de/dermophil-handcreme-tb-75-ml.html)|⭐⭐|⭐⭐|⭐|-|⭐⭐|
-|[KletterRetter - Handcreme](https://www.kletterretter.com/produkte/handcreme-75ml/)|⭐⭐|⭐|⭐|⭐|⭐⭐⭐|
-|[O'Keeffe's Working Hands - Handcreme](https://okeeffescompany.com/products/working-hands)|⭐|⭐|⭐⭐|⭐|⭐⭐⭐|
-|[O'Keeffe's Working Hands - Creme/Balsam](https://okeeffescompany.com/products/working-hands)|⭐|⭐|⭐⭐⭐|⭐⭐|⭐⭐|
-|[KletterRetter - Repair Balsam](https://www.kletterretter.com/produkte/kletterretter-repair-balsam/)|-|-|⭐⭐|⭐⭐⭐|-|
+|pH balance - Handcreme|⭐⭐|⭐⭐⭐|-|-|-|
+|Eucerin - Handcreme|⭐⭐⭐|⭐⭐|⭐|-|⭐|
+[Dermophil - Handcreme|⭐⭐|⭐⭐|⭐|-|⭐⭐|
+|KletterRetter - Handcreme|⭐⭐|⭐|⭐|⭐|⭐⭐⭐|
+|O'Keeffe's Working Hands - Handcreme|⭐|⭐|⭐⭐|⭐|⭐⭐⭐|
+|O'Keeffe's Working Hands - Creme/Balsam|⭐|⭐|⭐⭐⭐|⭐⭐|⭐⭐|
+|KletterRetter - Repair Balsam|-|-|⭐⭐|⭐⭐⭐|-|

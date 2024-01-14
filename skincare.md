@@ -1,7 +1,8 @@
 # hands
 
 - [pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)
-- [Kletterretter - Handcreme](https://www.transa.ch/p/kletterretter-handcreme-klassik-75ml-306752-001/) (https://www.kletterretter.com/produkte/handcreme-75ml/)
+- [KletterRetter - Handcreme](https://www.kletterretter.com/produkte/handcreme-75ml/) (Buy at: https://www.transa.ch/p/kletterretter-handcreme-klassik-75ml-306752-001/)
+- [KletterRetter - Repair Balsam](https://www.kletterretter.com/produkte/kletterretter-repair-balsam/) (Buy at: https://www.transa.ch/p/kletterretter-repair-balsam-318710-001/)
 
 # feet
 

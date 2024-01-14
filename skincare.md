@@ -11,7 +11,7 @@
 
 # feet
 
-- [Vaseline](https://www.galaxus.ch/de/s6/product/vaseline-original-koerpercreme-100-ml-bodylotion-5990210)
+- [Vaseline](https://www.galaxus.ch/de/s6/product/vaseline-original-koerpercreme-100-ml-bodylotion-5990210) (Buy at: [Galaxus](https://www.galaxus.ch/de/s6/product/vaseline-original-koerpercreme-100-ml-bodylotion-5990210))
 
 # face
 

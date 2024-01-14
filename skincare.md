@@ -28,10 +28,10 @@
 
 ## hand care products scoring
 
-|product|moisturizing|softness|repair|protect|
-|---|---|---|---|---|
-|[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|
-|[Eucerin - Handcreme](https://www.de.eucerin.ch/produkte/urea-repair/plus-handcreme-5prozent-urea-30ml)|⭐⭐|⭐⭐|-|-|
-|[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|
+|product|moisturizing|softness|repair|protect|fast absorbing|
+|---|---|---|---|---|---|
+|[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐⭐|-|-|-|
+|[Eucerin - Handcreme](https://www.de.eucerin.ch/produkte/urea-repair/plus-handcreme-5prozent-urea-30ml)|⭐⭐⭐|⭐⭐|⭐|-|⭐|
+|[Dermophil - Handcreme](https://www.coopvitality.ch/de/dermophil-handcreme-tb-75-ml.html)|⭐⭐|⭐⭐|⭐|-|⭐⭐|
 |[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|
 |[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|

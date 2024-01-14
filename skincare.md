@@ -33,5 +33,7 @@
 |[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐⭐|-|-|-|
 |[Eucerin - Handcreme](https://www.de.eucerin.ch/produkte/urea-repair/plus-handcreme-5prozent-urea-30ml)|⭐⭐⭐|⭐⭐|⭐|-|⭐|
 |[Dermophil - Handcreme](https://www.coopvitality.ch/de/dermophil-handcreme-tb-75-ml.html)|⭐⭐|⭐⭐|⭐|-|⭐⭐|
-|[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|
-|[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|
+|[KletterRetter - Handcreme](https://www.kletterretter.com/produkte/handcreme-75ml/)|⭐⭐|⭐|⭐|⭐|⭐⭐⭐|
+|[O'Keeffe's Working Hands - Handcreme](https://okeeffescompany.com/products/working-hands)|⭐|⭐|⭐⭐|⭐|⭐⭐⭐|
+|[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|-|
+|[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|-|

@@ -29,4 +29,5 @@
 ## hand care scoring
 
 |product|moisturizing|softness|repair|protect|
+|---|---|---|---|---|
 |[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|

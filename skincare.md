@@ -1,5 +1,6 @@
 # hands
 
+- [CMD - Teebaumöl](https://www.cmd-natur.de/Teebaumoel-kontrollierter-bio-Anbau) (Buy at: [Galaxus](https://www.galaxus.ch/de/s6/product/cmd-teebaumoel-kba-20-ml-gesichtsoel-gesichtscreme-18984606))
 - [pH balance - Handcreme](https://www.migros.ch/de/product/526820700000) (Buy at: [Migros](https://www.migros.ch/de/product/526820700000))
 - [KletterRetter - Handcreme](https://www.kletterretter.com/produkte/handcreme-75ml/) (Buy at: [Transa](https://www.transa.ch/p/kletterretter-handcreme-klassik-75ml-306752-001/))
 - [O'Keeffe's Working Hands - Handcreme](https://okeeffescompany.com/products/working-hands) (Buy at: [Galaxus](https://www.galaxus.ch/en/s6/product/okeeffes-working-hands-hand-cream-tube-85-g-hand-cream-30054119))
@@ -12,6 +13,7 @@
 # face
 
 - [pH balance - Gesichtscreme](https://www.migros.ch/de/product/526801900000) (Buy at: [Migros](https://www.migros.ch/de/product/526801900000))
+- [Brooklyn Soap Company - Bartöl](https://bklynsoap.com/shop/bartoel-50ml) (Buy at: [Galaxus](https://www.galaxus.ch/en/s6/product/brooklyn-soap-company-beard-oil-50-ml-beard-care-12380171))
 
 # body
 

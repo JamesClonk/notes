@@ -23,3 +23,10 @@
 - [pH balance - Duschgel](https://www.migros.ch/de/product/526800400000) (Buy at: [Migros](https://www.migros.ch/de/product/526800400000))
 - [pH balance - Duschcreme](https://www.migros.ch/de/product/526820100000) (Buy at: [Migros](https://www.migros.ch/de/product/526820100000))
 - [Eucerin - Body Lotion](https://www.de.eucerin.ch/produkte/urea-repair/plus-lotion-10prozent-urea-400ml) (Buy at: [Galaxus](https://www.galaxus.ch/de/s6/product/eucerin-urearepair-plus-10-urea-koerpercreme-400-ml-bodylotion-9301773))
+
+-----
+
+## hand care scoring
+
+|product|moisturizing|softness|repair|protect|
+|[pH balance - Handcreme](https://www.migros.ch/de/product/526820700000)|⭐⭐|⭐⭐|-|-|

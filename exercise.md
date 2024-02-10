@@ -105,6 +105,13 @@
 - stretch with doorframe, hold with straight arm, pull back and arch your back, look downwards and feel the shoulder and back stretching, 1min, 10s break, 2 reps
 
 ---
+## knee exercises, 2 sets per day
+- sit upright on floor, legs and knee straight/stretched out, pull back toes/foot to stretch entire leg, rotate foot slightly/slowly right and left
+- lie on chest, pull back leg to ass, hold foot/toes to stretch
+- sit upright on floor, legs and knee straight/stretched out, put small blackroll ball under knee and keep leg straight (in air), slowly rotate ball position, move fluid inside knee around
+- sit upright on floor, legs and knee straight/stretched out, put large blackroll ball under lower leg and keep leg straight (in air), slowly rotate blackroll upwards (by moving yourself downwards) until almost at ass, move fluid inside legs around
+
+---
 # OLD data
 ## guides
 

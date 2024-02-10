@@ -110,6 +110,9 @@
 - lie on chest, pull back leg to ass, hold foot/toes to stretch
 - sit upright on floor, legs and knee straight/stretched out, put small blackroll ball under knee and keep leg straight (in air), slowly rotate ball position, move fluid inside knee around
 - sit upright on floor, legs and knee straight/stretched out, put large blackroll ball under lower leg and keep leg straight (in air), slowly rotate blackroll upwards (by moving yourself downwards) until almost at ass, move fluid inside legs around
+- sit upright on floor, do single leg air bicycle, 90° knee movement
+- standing, knee stretching by moving other leg backwards, standing in a large step, moving hips down, bend the knee, **dont move knee-tip in front of toes!!!**
+- bridging, lie on back, make bridge move (thrust hip upwards), hold position at 90° angle of knees
 
 ---
 # OLD data

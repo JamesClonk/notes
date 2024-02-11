@@ -105,6 +105,12 @@
 - stretch with doorframe, hold with straight arm, pull back and arch your back, look downwards and feel the shoulder and back stretching, 1min, 10s break, 2 reps
 
 ---
+## shoulder blade exercises, 2 sets per day
+- do some warmups from above
+- sit upright, hold out arms together in front of you with palms together, pull one arm slowly back and forth, pulling/pushing it along with your shoulder
+- angel move: sit upright, hold out arms sidewas, elbows 90°, palms forward (making a U pose), then pull back arms with your shoulder behind your back, and then slowly move them upwards, shrugging upwards
+
+---
 ## knee exercises, 2 sets per day
 - sit upright on floor, legs and knee straight/stretched out, pull back toes/foot to stretch entire leg, rotate foot slightly/slowly right and left
 - lie on chest, pull back leg to ass, hold foot/toes to stretch

@@ -10,5 +10,5 @@
 |Scarpa|Vapor V|42|✅|allrounder, bouldering, sport climbing, indoor|good allrounder, similar to but more "performance" oriented than a katana, slightly more asymetrical/pointy|02.2024|
 |Scarpa|Vapor S|❓️|-|bouldering, sport climbing, indoor|expecting a good and convenient indoor allrounder|-|
 |Scarpa|Vapor|❓️|-|allrounder-ish, rock, sport climbing, indoor-ish, outdoor|expecting a good sport/rock climber shoe|-|
-|Scarpa|Veloce|42|✅|bouldering, indoor|bouldering-focused, excellent smearing, slight downturn, a bit crunchy toebox (😢), good intermediate performance|12.2023|
+|Scarpa|Veloce|41.5-42|✅|bouldering, indoor|bouldering-focused, excellent smearing, slight downturn, a bit crunchy toebox (😢), good intermediate performance. I had it at size 41.5 but with toe pain after just a few routes, can't be worn too long, only for short time to do some critical sends. Maybe size 42 would alleviate the toe pain, but then might be loose?|12.2023|
 |Scarpa|Arpia V|41.5 - 42|-|bouldering, sport climbing, indoor|good indoor boulderer. size 41.5 feels snug, but pains toes slightly on the side. size 42 doesn't, but can feel a bit floaty / too loose unfortunately|03.2024|

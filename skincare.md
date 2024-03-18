@@ -32,7 +32,7 @@
 |---|---|---|---|---|---|
 |pH balance - Handcreme|⭐⭐|⭐⭐⭐|-|-|-|
 |Eucerin - Handcreme|⭐⭐⭐|⭐⭐|⭐|-|⭐|
-|Dermophil - Handcreme|⭐⭐|⭐⭐|⭐|-|⭐⭐|
+|Dermophil - Handcreme|⭐⭐|⭐⭐|⭐|-|⭐⭐⭐|
 |KletterRetter - Handcreme|⭐⭐|⭐|⭐|⭐|⭐⭐⭐|
 |O'Keeffe's Working Hands - Handcreme|⭐|⭐|⭐⭐|⭐|⭐⭐⭐|
 |O'Keeffe's Working Hands - Creme/Balsam|⭐|⭐|⭐⭐⭐|⭐⭐|⭐⭐|

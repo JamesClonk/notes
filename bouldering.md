@@ -14,5 +14,5 @@ As a rule of thumb, if your street shoe size is 42.5, go with 41's for La Sporti
 |Scarpa|Vapor|❓️|-|allrounder-ish, rock, sport climbing, indoor-ish, outdoor|expecting a good sport/rock climber shoe|-|
 |Scarpa|Veloce|41.5-42|✅|bouldering, indoor|bouldering-focused, excellent smearing, slight downturn, a bit crunchy toebox (😢), good intermediate performance. I had it at size 41.5 but with toe pain after just a few routes, can't be worn too long, only for short time to do some critical sends. Maybe size 42 would alleviate the toe pain, but then might be loose?|12.2023|
 |Scarpa|Arpia V|41.5 - 42|-|bouldering, sport climbing, indoor|good indoor boulderer. size 41.5 feels snug, but pains toes slightly on the side. size 42 doesn't, but can feel a bit floaty / too loose unfortunately|03.2024|
-|Scarpa|Instinct VS|42|-|bouldering, sport climbing, indoor|expecting a highly performance oriented indoor allrounder. size 42 seemed to fit during testing|-|
+|Scarpa|Instinct VS|42|-|bouldering, sport climbing, indoor|expecting a highly performance oriented indoor allrounder. size 42 seemed to fit during testing|02.2024|
 |Scarpa|Quantix SF|❓️|-|bouldering, sport climbing, indoor|expecting a reasonable indoor allrounder|-|

@@ -1,7 +1,7 @@
 
 ## shoe database
 
-|vendor|shoe|size|proven|use case|comment|date/version|
+|vendor|shoe|size|proven|use case|comment|date / shoe version|
 |---|---|---|---|---|---|---|
 |Street|Shoe|42.5|✅|standing, walking, running, hiking|default street shoe size|01.1970|
 |La Sportiva|Mythos|41|✅|sport climbing, outdoor|okayish rock/trad allrounder, extremy comfy (can be worn 4-5h without a break no problem!), can do indoor rope-climbing well too. I used to use it for indoor bouldering too, but for anything other than a beginner its not matching that discipline well|12.2023|

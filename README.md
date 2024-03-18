@@ -5,7 +5,7 @@ What to do next?
 
 - [ ] Skydiving in Hawaii
 - [x] ~Wardruna Concert in Norway~
-- [x] Dune Part II in IMAX
+- [x] ~Dune Part II in IMAX~
 - [ ] Okonomiyaki, Tonkatsu and Wagyu in Japan
 - [ ] Bicycle Tour through Japan
 - [ ] Hiking in Scotland

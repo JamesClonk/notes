@@ -17,9 +17,12 @@ In the beginning...
 |Rig|used Sim-Lab GT1|Fabio|0.-|-|
 |Wheel Base|used SimuCube 1|Fabio|0.-|https://granitedevices.com/simucube-simulator-force-feedback-controller/ <br/> https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a3806f9-da49-49fc-a0e1-e079aff22b96?rule=$_59.JPG <br/> https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/268e7654-fdfa-42dc-9498-9cdf4107d381?rule=$_57.JPG|
 |Wheel|used SRB GT|Fabio|0.- for renting, 100.- for buying|-|
-|Pedals|new Fanatec ClubSport Pedals V3|Fanatec|399€|https://fanatec.com/eu-de/pedale/clubsport-pedals-v3|
-|Seat #1|Sparco Rennsitz REV QRT + Stahlkonsole|Sandtler|458€|https://www.sandtler24.de/Sparco-Rennsitz-REV-QRT-Stahlkonsole-3151ST-KA2244S|
-|or Seat #2|Sparco Rennsitz Sprint|Sandtler|269€|https://www.sandtler24.de/Sparco-Rennsitz-Sprint-2212S|
+|Pedals (Variante A)|Fanatec ClubSport Pedals V3|Fanatec|399€|https://fanatec.com/eu-de/pedale/clubsport-pedals-v3|
+|Pedals (Variante B)|Sim-Lab XP1|Fanatec|409.-|https://sim-lab.eu/en-ch/products/pedal-set-xp1-loadcell-sim-racing?variant=46840693948765|
+|Pedals (Variante C)|Heusinkveld Sprint Black|Fanatec|536€|https://heusinkveld.com/shop/sim-pedals/sprint-black/|
+|Seat (Variante A)|Sparco Rennsitz Sprint|Sandtler|269€|https://www.sandtler24.de/Sparco-Rennsitz-Sprint-2212S|
+|Seat (Variante B)|Sparco Rennsitz REV QRT + Stahlkonsole|Sandtler|458€|https://www.sandtler24.de/Sparco-Rennsitz-REV-QRT-Stahlkonsole-3151ST-KA2244S|
+|Seat (Variante C)|Sparco Rennsitz Grid-Q + Stahlkonsole|Sandtler|475€|https://www.sandtler24.de/Sparco-Rennsitz-Grid-Q-Stahlkonsole-3007ST-KA2201S|
 
 ---
 

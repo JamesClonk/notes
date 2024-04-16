@@ -58,6 +58,12 @@ Other SimuCube compatible wheels / hardware:
 - https://www.simracingbay.com/shop/
 - https://www.simracingbay.com/product-category/bundles/
 
+Other LoadCell Pedals if not wanting to buy Fanatec Pedals and going full open ecosystem from the start:
+- https://simultimate.ch/produkt-kategorie/racing/pedals/load-cell-pedals/
+- https://heusinkveld.com/shop/sim-pedals/sprint-black/
+- https://sim-lab.eu/en-ch/products/pedal-set-xp1-loadcell-sim-racing
+- https://shop.gperformance.eu/product-category/sim-racing-pedals/
+
 ## The Fanatec way
 give Fabio back his wheel and SimuCube 1 wheel base, and buy a Fanatec wheel base / wheel combo, to complement the Fanatec pedals
 |Component|Name|From?|Price|URL/Pictures|

@@ -37,7 +37,7 @@ In the beginning...
 ---
 
 ## The SimuCube way
-everything's already in place, all you might optionally need/want is new, fancy, shiny Formula-style wheel 😄
+everything's already in place, all you might optionally need/want is a new, fancy, shiny Formula-style wheel 😄
 |Component|Name|From?|Price|URL/Pictures|
 |-|-|-|-|-|
 |Wheel|GSI Formula Pro Elite V2|GSI|1159-1379.-|https://gomezsimindustries.com/en-ch/products/formula-pro-elite-v2|

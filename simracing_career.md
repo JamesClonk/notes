@@ -1,14 +1,14 @@
 # simracing einstieg
 
 ## whats needed?
-- triple screens
-- monitor mount
-- gaming pc
-- wheel
-- direct drive wheel base
-- racing seat
-- rig
-- pedals, at least throttle and brake, clutch optional / unnecessary
+- [ ] triple screens
+- [ ] monitor mount
+- [ ] gaming pc
+- [ ] wheel
+- [x] direct drive wheel base
+- [ ] racing seat
+- [x] rig
+- [ ] pedals, at least throttle and brake, clutch optional / unnecessary
 
 ## how to get it, and its cost?
 

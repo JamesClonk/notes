@@ -41,6 +41,7 @@ everything's already in place, all you might optonally need/want is new, fancy, 
 |Wheel|MOZA FSR Formula|SimUltimate|739.-|https://simultimate.ch/produkt/fsr-formula-wheel/|
 |Wheel|MOZA GS V2P|SimUltimate|559.-|https://simultimate.ch/produkt/moza-gs-v2p-gt-wheel/|
 |Wheel|MOZA KS|SimUltimate|329.-|https://simultimate.ch/produkt/ks-steering-wheel/|
+
 **Attention ⚠️**: For MOZA wheels you need an adapter to the SimuCube wheelbase!
 
 Other SimuCube compatible wheels:

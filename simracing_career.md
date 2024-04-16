@@ -27,7 +27,7 @@ In the beginning...
 |Component|Name|From?|Price|URL/Pictures|
 |-|-|-|-|-|
 |Wheel|GSI Formula Pro Elite V2|GSI|1159-1379.-|https://gomezsimindustries.com/en-ch/products/formula-pro-elite-v2|
-|Wheel|GSI X-29|GSI Webshop|603-784.-|https://gomezsimindustries.com/en-ch/products/x-29|
+|Wheel|GSI X-29|GSI|603-784.-|https://gomezsimindustries.com/en-ch/products/x-29|
 |Wheel|Ascher F64|Ascher Racing|1099€|https://ascher-racing.com/de/shop/steering-wheels/f64-usb-v3/|
 |Wheel|Ascher F28|Ascher Racing|749€|https://ascher-racing.com/de/shop/steering-wheels/f28-sc-v2/|
 |Wheel|SRB GT3|SimRacingBay|840€|https://www.simracingbay.com/product/srb-gt3-wheel-v2-sww2/|
@@ -36,3 +36,15 @@ In the beginning...
 |Wheel|GSI Formula Elite Pro (v1)|Trak Racer|990€|https://trakracer.eu/collections/steering-wheels-bases/products/gomez-gsi-formual-pro-elite-prime-dc-sim-racing-steering-wheel-dual-clutch|
 |Wheel|GSI GXL Pro|Trak Racer|619€|https://trakracer.eu/collections/steering-wheels-bases/products/gomez-gsi-gxl-pro-prime-sim-racing-steering-wheel-no-clutch|
 |Wheel|ESPORTSIM Formula|Trak Racer|1362€|https://trakracer.eu/collections/steering-wheels-bases/products/esportsim-formula-steering-wheel-series-3|
+|Wheel|Simagic FX Pro|SimUltimate|879.-|https://simultimate.ch/produkt/simagic-fx-pro/|
+|Wheel|MOZA FSR Formula|SimUltimate|739.-|https://simultimate.ch/produkt/fsr-formula-wheel/|
+|Wheel|MOZA GS V2P|SimUltimate|559.-|https://simultimate.ch/produkt/moza-gs-v2p-gt-wheel/|
+|Wheel|MOZA KS|SimUltimate|329.-|https://simultimate.ch/produkt/ks-steering-wheel/|
+
+Other SimuCube compatible wheels:
+- https://simultimate.ch/produkt-kategorie/racing/wheels-bases/wheels/
+- https://simraceshop.de/steering-wheels/simracing-wheels/
+- https://simucube.com/steering-wheels
+- https://trakracer.eu/collections/steering-wheels-bases
+- https://ascher-racing.com/de/shop/steering-wheels
+- https://gomezsimindustries.com/en-ch

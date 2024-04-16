@@ -27,6 +27,6 @@ In the beginning...
 |Component|Name|From?|Price|URL/Pictures|
 |-|-|-|-|-|
 |Wheel|GSI Formula Pro Elite V2|GSI|1159.-|https://gomezsimindustries.com/en-ch/products/formula-pro-elite-v2|
-|Wheel|GSI X-29|GSI Webshop|603.-|https://gomezsimindustries.com/en-ch/products/x-29|
+|Wheel|GSI X-29|GSI Webshop|603-784.-|https://gomezsimindustries.com/en-ch/products/x-29|
 |Wheel|Ascher F64|Ascher Racing|1099€|https://ascher-racing.com/de/shop/steering-wheels/f64-usb-v3/|
 |Wheel|Ascher F28|Ascher Racing|749€|https://ascher-racing.com/de/shop/steering-wheels/f28-sc-v2/|

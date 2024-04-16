@@ -30,3 +30,5 @@ In the beginning...
 |Wheel|GSI X-29|GSI Webshop|603-784.-|https://gomezsimindustries.com/en-ch/products/x-29|
 |Wheel|Ascher F64|Ascher Racing|1099€|https://ascher-racing.com/de/shop/steering-wheels/f64-usb-v3/|
 |Wheel|Ascher F28|Ascher Racing|749€|https://ascher-racing.com/de/shop/steering-wheels/f28-sc-v2/|
+|Wheel|SRB GT3|SimRacingBay|840€|https://www.simracingbay.com/product/srb-gt3-wheel-v2-sww2/|
+|Wheel|SRB Ultra|SimRacingBay|479€|https://www.simracingbay.com/product/srb-ultra-competition-wheel/|

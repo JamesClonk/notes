@@ -2,6 +2,7 @@
 
 ## whats needed?
 - triple screens
+- monitor mount
 - gaming pc
 - wheel
 - direct drive wheel base

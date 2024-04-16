@@ -23,8 +23,8 @@ In the beginning...
 - **The SimuCube way**: buy the used wheel from Fabio, or give it back to him and buy a fancy Formula wheel for SimuCube and everything is done
 - **The Fanatec way**: give back the used wheel to Fabio, buy into the Fanatec ecosystem
 
-### The SimuCube way
-everything's already in place, all you might optonally need/want is new, fancy, shiny Formula-style wheel 😄
+## The SimuCube way
+everything's already in place, all you might optionally need/want is new, fancy, shiny Formula-style wheel 😄
 |Component|Name|From?|Price|URL/Pictures|
 |-|-|-|-|-|
 |Wheel|GSI Formula Pro Elite V2|GSI|1159-1379.-|https://gomezsimindustries.com/en-ch/products/formula-pro-elite-v2|
@@ -51,3 +51,19 @@ Other SimuCube compatible wheels:
 - https://trakracer.eu/collections/steering-wheels-bases
 - https://ascher-racing.com/de/shop/steering-wheels
 - https://gomezsimindustries.com/en-ch
+
+## The Fanatec way
+give Fabio back his wheel and SimuCube 1 wheel base, and buy a Fanatec wheel base / wheel combo, to complement the Fanatec pedals
+|Component|Name|From?|Price|URL/Pictures|
+|-|-|-|-|-|
+|Wheel Base / Wheel Combo Bundle|ClubSport Racing Wheel F1|Fanatec|1299€|https://fanatec.com/eu-de/racing-wheels-direct-drive-bases/racing-wheels/clubsport-racing-wheel-f1|
+|Wheel Base|Podium DD1|Fanatec|999€|https://fanatec.com/eu-de/racing-wheels-direct-drive-bases/direct-drive-bases/podium-wheel-base-dd1-qr2|
+|Wheel Base|ClubSport DD+|Fanatec|999€|https://fanatec.com/eu-de/racing-wheels-direct-drive-bases/direct-drive-bases/clubsport-dd-plus|
+|Wheel Base|ClubSport DD|Fanatec|799€|https://fanatec.com/eu-de/racing-wheels-direct-drive-bases/direct-drive-bases/clubsport-dd|
+|Wheel|Podium Porsche 911 GT3|Fanatec|579€|https://fanatec.com/eu-de/lenkraeder/podium-steering-wheel-porsche-911-gt3-r-leather|
+|Wheel|Podium R300|Fanatec|499€|https://fanatec.com/eu-de/lenkraeder/podium-lenkrad-r300|
+|Wheel|ClubSport Formula V2.5|Fanatec|339€|https://fanatec.com/eu-de/lenkraeder/clubsport-steering-wheel-formula-v2.5|
+|Wheel|ClubSport ESports V2|Fanatec|219€|https://fanatec.com/eu-de/lenkraeder/clubsport-lenkrad-f1-esports-v2|
+
+Other Fanatec hardware / wheels:
+- https://fanatec.com/eu-de/lenkraeder/?p=1

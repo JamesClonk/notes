@@ -19,7 +19,7 @@ In the beginning...
 |Wheel|used SRB GT|Fabio|0.- for renting, 100.- for buying|-|
 |Pedals|new Fanatec ClubSport Pedals V3|Fanatec|399€|https://fanatec.com/eu-de/pedale/clubsport-pedals-v3|
 |Seat #1|Sparco Rennsitz REV QRT + Stahlkonsole|Sandtler|458€|https://www.sandtler24.de/Sparco-Rennsitz-REV-QRT-Stahlkonsole-3151ST-KA2244S|
-|Seat #2|Sparco Rennsitz Sprint|Sandtler|269€|https://www.sandtler24.de/Sparco-Rennsitz-Sprint-2212S|
+|or Seat #2|Sparco Rennsitz Sprint|Sandtler|269€|https://www.sandtler24.de/Sparco-Rennsitz-Sprint-2212S|
 
 ---
 

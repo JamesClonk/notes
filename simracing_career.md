@@ -21,7 +21,7 @@ In the beginning...
 
 ### After evaluation, there's 2 options:
 - **The SimuCube way**: buy the used wheel from Fabio, or give it back to him and buy a fancy Formula wheel for SimuCube and everything is done
-- **The Fanatec way**: give back the used wheel to Fabio, buy into the Fanatec ecosystem
+- **The Fanatec way**: give back the used wheel and wheel base to Fabio, buy into the Fanatec ecosystem
 
 ---
 

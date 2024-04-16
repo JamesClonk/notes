@@ -32,3 +32,7 @@ In the beginning...
 |Wheel|Ascher F28|Ascher Racing|749€|https://ascher-racing.com/de/shop/steering-wheels/f28-sc-v2/|
 |Wheel|SRB GT3|SimRacingBay|840€|https://www.simracingbay.com/product/srb-gt3-wheel-v2-sww2/|
 |Wheel|SRB Ultra|SimRacingBay|479€|https://www.simracingbay.com/product/srb-ultra-competition-wheel/|
+|Wheel|REXING Formula Wheel MAYARIS|Trak Racer|990€|https://trakracer.eu/collections/steering-wheels-bases/products/rexing-formula-wheel-mayaris|
+|Wheel|GSI Formula Elite Pro (v1)|Trak Racer|990€|https://trakracer.eu/collections/steering-wheels-bases/products/gomez-gsi-formual-pro-elite-prime-dc-sim-racing-steering-wheel-dual-clutch|
+|Wheel|GSI GXL Pro|Trak Racer|619€|https://trakracer.eu/collections/steering-wheels-bases/products/gomez-gsi-gxl-pro-prime-sim-racing-steering-wheel-no-clutch|
+|Wheel|ESPORTSIM Formula|Trak Racer|1362€|https://trakracer.eu/collections/steering-wheels-bases/products/esportsim-formula-steering-wheel-series-3|

@@ -16,6 +16,8 @@ In the beginning...
 |-|-|-|-|-|
 |Rig|used Sim-Lab GT1|Fabio|0.-|-|
 |Wheel Base|used SimuCube 1|Fabio|0.-|https://granitedevices.com/simucube-simulator-force-feedback-controller/ <br/> https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a3806f9-da49-49fc-a0e1-e079aff22b96?rule=$_59.JPG <br/> https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/268e7654-fdfa-42dc-9498-9cdf4107d381?rule=$_57.JPG|
+|Wheel|used SRB GT wheel|Fabio|0.- for renting, 100.- for buying|-|
+|Pedals|new Fanatec ClubSport Pedals V3|Fanatec|399€|https://fanatec.com/eu-de/pedale/clubsport-pedals-v3|
 
 ---
 
@@ -46,13 +48,15 @@ everything's already in place, all you might optionally need/want is new, fancy,
 
 **⚠️ Attention**: For MOZA and Simagic wheels you need an adapter to the SimuCube wheelbase!
 
-Other SimuCube compatible wheels:
+Other SimuCube compatible wheels / hardware:
 - https://simultimate.ch/produkt-kategorie/racing/wheels-bases/wheels/
 - https://simraceshop.de/steering-wheels/simracing-wheels/
 - https://simucube.com/steering-wheels
 - https://trakracer.eu/collections/steering-wheels-bases
 - https://ascher-racing.com/de/shop/steering-wheels
 - https://gomezsimindustries.com/en-ch
+- https://www.simracingbay.com/shop/
+- https://www.simracingbay.com/product-category/bundles/
 
 ## The Fanatec way
 give Fabio back his wheel and SimuCube 1 wheel base, and buy a Fanatec wheel base / wheel combo, to complement the Fanatec pedals

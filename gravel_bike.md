@@ -10,5 +10,7 @@
 - handlebar with at least 40cm width, up to 44cm, 42cm would be preferred. with a reasonable amount of flare.
 - carbon fork
 - reasonable amount of attachment points on frame for future potential bikepacking
+- wheels, 27.5" or 28", 28 would highly preferred though.
+- tires to be continental terra trail|speed, or schwalbe g-one, or similar, 40-45 wide.
 
 ## data collection

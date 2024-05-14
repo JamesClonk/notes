@@ -11,6 +11,6 @@
 - carbon fork
 - reasonable amount of attachment points on frame for future potential bikepacking
 - wheels, 27.5" or 28", 28 would highly preferred though.
-- tires to be continental terra trail|speed, or schwalbe g-one, or similar, 40-45 wide.
+- tires to be continental terra trail|speed, or schwalbe g-one, or similar, could be 35-45 but ideally 40 wide.
 
 ## data collection

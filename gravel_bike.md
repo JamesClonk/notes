@@ -22,8 +22,8 @@
 |[Rose Backroad GRX RX820 1x12](https://www.rosebikes.ch/rose-backroad-grx-rx820-1x12-2719082?product_shape=light+grey&article_size=53cm)|3150.-|Carbon|8.9kg|40/45|WTB Raddler TCS (700x44)|Shimano GRX RD-RX822, BR-RX820|⭐⭐⭐|
 |[Rose Backroad AL GRX RX610 1x12](https://www.rosebikes.ch/rose-backroad-al-grx-rx610-1x12-2709731?product_shape=roasted+olive&article_size=53cm)|2500.-|Alu|9.9kg|40/51|Continental Terra Trail (700x45)|Shimano GRX RD-RX822, BR-RX410|⭐⭐⭐|
 |[Specialized Diverge Comp E5](https://www.specialized.com/ch/de/diverge-comp-e5/p/221373?color=367648-221373&searchText=95424-5354)|2700.-|Alu|10.3kg|40/50|Pathfinder Pro (700x42)|SRAM Apex Eagle 1x12|⭐|
-|[Canyon Grizl CF SL 8 1by](https://www.canyon.com/en-ch/gravel-bikes/adventure/grizl/cf-sl/grizl-cf-sl-8-1by/3697.html?dwvar_3697_pv_rahmenfarbe=R095_P10)|2850.-|Carbon|9.5kg|40/45|Schwalbe G-One Bite (700x45)|Shimano GRX RD-RX822, BR-RX820|⭐⭐|
+|[Canyon Grizl CF SL 8 1by](https://www.canyon.com/en-ch/gravel-bikes/adventure/grizl/cf-sl/grizl-cf-sl-8-1by/3697.html?dwvar_3697_pv_rahmenfarbe=R095_P10)|2850.-|Carbon|9.5kg|40/45|Schwalbe G-One Bite (700x45)|Shimano GRX RD-RX822, BR-RX820|⭐⭐⭐|
 |[Canyon Grizl 8 1by](https://www.canyon.com/en-ch/gravel-bikes/adventure/grizl/al/grizl-8-1by/3467.html?dwvar_3467_pv_rahmenfarbe=R075_P05)|1950.-|Alu|10.5kg|40/45|Schwalbe G-One Bite Performance (700x45)|Shimano GRX RD-RX822, BR-RX820|⭐⭐⭐|
-|xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|
+|[Cube Nuroad C:62 SLX](https://www.cube.eu/ch-de/cube-nuroad-c-62-slx-olive-n-green/9a763ca0aa943cceb50ca0a0e391e0d5)|3300.-|Carbon|8.3kg|40/50|WTB Riddler TCS (700x45)|SRAM GX Eagle AXS, SRAM Rival eTap|⭐⭐|
 |xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|
 |xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|

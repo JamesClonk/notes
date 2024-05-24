@@ -25,5 +25,5 @@
 |[Canyon Grizl CF SL 8 1by](https://www.canyon.com/en-ch/gravel-bikes/adventure/grizl/cf-sl/grizl-cf-sl-8-1by/3697.html?dwvar_3697_pv_rahmenfarbe=R095_P10)|2850.-|Carbon|9.5kg|40/45|Schwalbe G-One Bite (700x45)|Shimano GRX RD-RX822, BR-RX820|⭐⭐⭐|
 |[Canyon Grizl 8 1by](https://www.canyon.com/en-ch/gravel-bikes/adventure/grizl/al/grizl-8-1by/3467.html?dwvar_3467_pv_rahmenfarbe=R075_P05)|1950.-|Alu|10.5kg|40/45|Schwalbe G-One Bite Performance (700x45)|Shimano GRX RD-RX822, BR-RX820|⭐⭐⭐|
 |[Cube Nuroad C:62 SLX](https://www.cube.eu/ch-de/cube-nuroad-c-62-slx-olive-n-green/9a763ca0aa943cceb50ca0a0e391e0d5)|3300.-|Carbon|8.3kg|40/50|WTB Riddler TCS (700x45)|SRAM GX Eagle AXS, SRAM Rival eTap|⭐⭐|
-|xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|
+|[Tour de Suisse - Gravel](https://www.tds-velo.ch/velos/modelle/gravel/konfigurator~gravel~?rahmenTyp=diamant&year=2024&configurationId=gjJQjFMn&color=caumamatt&dekor=creme)|3150.-|Alu|12.2kg|40/51|Continental Terra Speed (700x40)|Shimano GRX RD-RX822, BR-RX820|⭐|
 |xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|

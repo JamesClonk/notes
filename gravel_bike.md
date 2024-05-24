@@ -17,5 +17,5 @@
 
 |Bike|Price|Frame|Weight|Gearing|Tires|Components|
 |---|---|---|---|---|---|---|
-|[Rose Backroad GRX RX810 Di2 1x11 Limited](https://www.rosebikes.ch/rose-backroad-grx-rx810-di2-1x11-limited-2692752?product_shape=midnight+laser+grey&article_size=53cm)|4700.-|Carbon|8.3kg|Di2 - 40/42|Continental Terra Trail (700x40)|Shimano GRX Di2 RX817|
+|[Rose Backroad GRX RX810 Di2 1x11](https://www.rosebikes.ch/rose-backroad-grx-rx810-di2-1x11-limited-2692752?product_shape=midnight+laser+grey&article_size=53cm)|4700.-|Carbon|8.3kg|Di2 - 40/42|Continental Terra Trail (700x40)|Shimano GRX Di2 RX817|
 |[](https://www.rosebikes.ch/rose-backroad-grx-rx810-di2-1x11-limited-2692752?product_shape=midnight+laser+grey&article_size=53cm)|---|---|---|---|---|---|

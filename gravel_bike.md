@@ -20,7 +20,7 @@
 |[Rose Backroad GRX RX810 Di2 1x11](https://www.rosebikes.ch/rose-backroad-grx-rx810-di2-1x11-limited-2692752?product_shape=midnight+laser+grey&article_size=53cm)|4700.-|Carbon|8.3kg|Di2 - 40/42|Continental Terra Trail (700x40)|Shimano GRX RX817 Di2, BR-RX810|-|
 |[Rose Backroad Classified 2x11](https://www.rosebikes.ch/rose-backroad-classified-2x11-2702506?product_shape=%2Ablue+haze&article_size=53cm)|4700.-|Carbon|8.6kg|Di2 - 32/34|Continental Terra Speed (700x40)|Shimano GRX RD-RX815 Di2, BR-RX810|-|
 |[Rose Backroad GRX RX820 1x12](https://www.rosebikes.ch/rose-backroad-grx-rx820-1x12-2719082?product_shape=light+grey&article_size=53cm)|3150.-|Carbon|8.9kg|40/45|WTB Raddler TCS (700x44)|Shimano GRX RD-RX822, BR-RX820|⭐⭐⭐|
-|xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|
+|[Rose Backroad AL GRX RX610 1x12](https://www.rosebikes.ch/rose-backroad-al-grx-rx610-1x12-2709731?product_shape=roasted+olive&article_size=53cm)|2500.-|Alu|9.9kg|40/51|Continental Terra Trail (700x45)|Shimano GRX RD-RX822, BR-RX410|⭐⭐⭐|
 |xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|
 |xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|
 |xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|

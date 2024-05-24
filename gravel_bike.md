@@ -15,7 +15,7 @@
 
 ## data collection
 
-|Bike|Price|Frame|Weight|Gearing|Tires|Components|Final Candidate|
+|Bike|Price CHF|Frame|Weight|Gearing|Tires|Components|Final Candidate|
 |---|---|---|---|---|---|---|---|
 |[Rose Backroad GRX RX810 Di2 1x11](https://www.rosebikes.ch/rose-backroad-grx-rx810-di2-1x11-limited-2692752?product_shape=midnight+laser+grey&article_size=53cm)|4700.-|Carbon|8.3kg|Di2 - 40/42|Continental Terra Trail (700x40)|Shimano GRX RX817 Di2, BR-RX810|-|
 |[Rose Backroad Classified 2x11](https://www.rosebikes.ch/rose-backroad-classified-2x11-2702506?product_shape=%2Ablue+haze&article_size=53cm)|4700.-|Carbon|8.6kg|Di2 - 32/34|Continental Terra Speed (700x40)|Shimano GRX RD-RX815 Di2, BR-RX810|-|

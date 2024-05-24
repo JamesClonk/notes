@@ -21,7 +21,7 @@
 |[Rose Backroad Classified 2x11](https://www.rosebikes.ch/rose-backroad-classified-2x11-2702506?product_shape=%2Ablue+haze&article_size=53cm)|4700.-|Carbon|8.6kg|Di2 - 32/34|Continental Terra Speed (700x40)|Shimano GRX RD-RX815 Di2, BR-RX810|-|
 |[Rose Backroad GRX RX820 1x12](https://www.rosebikes.ch/rose-backroad-grx-rx820-1x12-2719082?product_shape=light+grey&article_size=53cm)|3150.-|Carbon|8.9kg|40/45|WTB Raddler TCS (700x44)|Shimano GRX RD-RX822, BR-RX820|⭐⭐⭐|
 |[Rose Backroad AL GRX RX610 1x12](https://www.rosebikes.ch/rose-backroad-al-grx-rx610-1x12-2709731?product_shape=roasted+olive&article_size=53cm)|2500.-|Alu|9.9kg|40/51|Continental Terra Trail (700x45)|Shimano GRX RD-RX822, BR-RX410|⭐⭐⭐|
-|xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|
+|[Specialized Diverge Comp E5](https://www.specialized.com/ch/de/diverge-comp-e5/p/221373?color=367648-221373&searchText=95424-5354)|2700.-|Alu|10.3kg|40/50|Pathfinder Pro (700x42)|SRAM Apex Eagle 1x12|⭐|
 |xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|
 |xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|
 |xyz|xyz|xyz|xyz|xyz|xyz|xyz|xyz|

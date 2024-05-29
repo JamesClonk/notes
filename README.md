@@ -11,7 +11,7 @@ What to do next?
 - [ ] Hiking in Scotland
 - [ ] Hiking in New Zealand
 - [x] ~Hiking in Norway~
-- [ ] Watching Polar Lights
+- [x] Watching Polar Lights
 - [ ] Visiting Reykjavík
 - [ ] Traveling through Finland
 - [ ] A week in San Sebastián
@@ -53,8 +53,8 @@ What to do next?
   - [x] ~Bergen~
   - [ ] Mardalsfossen
   - [ ] Trondheim
-  - [ ] Lofoten
-  - [ ] Kvalvika Beach
+  - [x] Lofoten
+  - [x] Kvalvika Beach
   - [ ] Tromsø
 
 - [ ] **Iceland**

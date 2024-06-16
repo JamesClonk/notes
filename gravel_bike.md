@@ -13,6 +13,7 @@
 - wheels, 27.5" or 28", 28 would highly preferred though. (much higher suitable tire choices available for 28!)
 - tires to be continental terra trail|speed, or schwalbe g-one, or similar, could be 35-45 but ideally 40 wide.
 - preference for aluminium over carbon fiber due to robustness. titanium would also be awesome. steel probably too heavy.
+- preference for a somewhat more relaxed frame geometry vs. it being aggressive. My wrists, back and neck do _not_ like full-on racing bike geometry.
 
 ## data collection
 

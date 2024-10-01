@@ -13,7 +13,7 @@ What to do next?
 - [x] ~Hiking in Norway~
 - [x] ~Watching Polar Lights~
 - [ ] Visiting Reykjavík
-- [ ] Traveling through Finland
+- [ ] Traveling through Iceland
 - [ ] A week in San Sebastián
 
 ## Restaurants

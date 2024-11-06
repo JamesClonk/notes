@@ -1,36 +1,34 @@
 # Room plants
 
-## Final plan
+### Pots still available
 
-### Pots available
+### Positions still available
 
-### Positions available
-
-### Plants available
+### Plants
 
 #### A class
 
-|name|size|spec|
-|-|-|-|
-|Bogenhanf (Sansevieria trifasciata)|medium|air cleaner, resilient|
-|Dracaena|small-large|air cleaner|
-|Glücksfeder (Zamioculcas zamiifolia)|small-medium|tolerates shadow|
-|Yucca Palme|small-large|-|
-|Efeu (Hedera Helix)|small-medium|-|
-|Efeutute (Epipremnum aureum)|small-medium|air leaner, fast grower|
-|Grünlilie (Chlorophytum comosum)|small-medium|air cleaner, resilient|
-|Sansevieria Fernwood "Mikado"|small-medium|air cleaner, resilient|
+|name|size|spec|rating|
+|-|-|-|-|
+|Bogenhanf (Sansevieria trifasciata)|medium|air cleaner, resilient|⭐️⭐️⭐️⭐️|
+|Dracaena|small-large|air cleaner|⭐️⭐️⭐️⭐️|
+|Glücksfeder (Zamioculcas zamiifolia)|small-medium|tolerates shadow|⭐️⭐️⭐️⭐️|
+|Efeu (Hedera Helix)|small-medium|-|⭐️⭐️⭐️⭐️|
+|Efeutute (Epipremnum aureum)|small-medium|air leaner, fast grower|⭐️⭐️⭐️⭐️⭐️|
+|Grünlilie (Chlorophytum comosum)|small-medium|air cleaner, resilient|⭐️⭐️⭐️⭐️⭐️|
+|Sansevieria Fernwood "Mikado"|small-medium|air cleaner, resilient|⭐️⭐️⭐️⭐️|
 
 #### B class
 
-|name|size|spec|
-|-|-|-|
-|Philodendron|small-medium|tolerates shadow, climber like Efeutute|
-|Dieffenbachie (dieffenbachia)|small-large|-|
-|Kentia-Palme (Howea)|large|air cleaner, long lived|
-|Fensterblatt (Monstera deliciosa)|medium-large|needs leaf maintenance|
-|Geldbaum / Glücksbaum|small|-|
-|Gummibaum (Ficus elastica)|medium-large|-|
+|name|size|spec|rating|
+|-|-|-|-|
+|Yucca Palme|small-large|-|⭐️⭐️⭐️|
+|Philodendron|small-medium|tolerates shadow, climber like Efeutute|⭐️⭐️⭐️⭐️|
+|Dieffenbachie (dieffenbachia)|small-large|-|⭐️⭐️⭐️⭐️|
+|Kentia-Palme (Howea)|large|air cleaner, long lived|⭐️⭐️⭐️⭐️|
+|Fensterblatt (Monstera deliciosa)|medium-large|needs leaf maintenance|⭐️⭐️⭐️|
+|Geldbaum / Glücksbaum|small|-|⭐️⭐️⭐️⭐️|
+|Gummibaum (Ficus elastica)|medium-large|-|⭐️⭐️⭐️|
 
 
     zimmerpflanzen, finalposition arbeitsplatz/lautsprecher:

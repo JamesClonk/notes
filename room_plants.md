@@ -14,7 +14,7 @@
 |Dracaena|small-large|air cleaner|⭐️⭐️⭐️⭐️|
 |Glücksfeder (Zamioculcas zamiifolia)|small-medium|tolerates shadow|⭐️⭐️⭐️⭐️|
 |Efeu (Hedera Helix)|small-medium|tolerates shadow|⭐️⭐️⭐️⭐️|
-|Efeutute (Epipremnum aureum)|small-medium|air leaner, fast grower, tolerates shadow|⭐️⭐️⭐️⭐️⭐️|
+|Efeutute (Epipremnum aureum)|small-medium|air leaner, climber, fast grower, tolerates shadow|⭐️⭐️⭐️⭐️⭐️|
 |Grünlilie (Chlorophytum comosum)|small-medium|air cleaner, resilient|⭐️⭐️⭐️⭐️⭐️|
 |Sansevieria Fernwood "Mikado"|small-medium|air cleaner, resilient|⭐️⭐️⭐️⭐️|
 
@@ -23,7 +23,7 @@
 |name|size|spec|rating|
 |-|-|-|-|
 |Yucca Palme|small-large|-|⭐️⭐️⭐️|
-|Philodendron|small-medium|tolerates shadow, climber like Efeutute|⭐️⭐️⭐️⭐️|
+|Philodendron|small-medium|climber, tolerates shadow|⭐️⭐️⭐️⭐️|
 |Dieffenbachie (dieffenbachia)|small-large|-|⭐️⭐️⭐️⭐️|
 |Kentia-Palme (Howea)|large|air cleaner, long lived|⭐️⭐️⭐️⭐️|
 |Fensterblatt (Monstera deliciosa)|medium-large|needs leaf maintenance|⭐️⭐️⭐️|

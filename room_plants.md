@@ -19,7 +19,7 @@
 |Efeu (Hedera Helix)|small-medium|-|
 |Efeutute (Epipremnum aureum)|small-medium|air leaner, fast grower|
 |Grünlilie (Chlorophytum comosum)|small-medium|air cleaner, resilient|
-|Sansevieria Fernwood|small-medium|air cleaner, resuilient|
+|Sansevieria Fernwood "Mikado"|small-medium|air cleaner, resilient|
 
 #### B class
 

@@ -14,7 +14,7 @@
   - ???        (these 2 need to match their watering needs)
   - ???        (these 2 need to match their watering needs)
 - Weisser 30er Cubico, gross/hoch
-  - grosser Dracaena
+  - grosse Dracaena
   - Kentia-Palme
   - ???
     

@@ -13,8 +13,8 @@
 |Bogenhanf (Sansevieria trifasciata)|medium|air cleaner, resilient|⭐️⭐️⭐️⭐️|
 |Dracaena|small-large|air cleaner|⭐️⭐️⭐️⭐️|
 |Glücksfeder (Zamioculcas zamiifolia)|small-medium|tolerates shadow|⭐️⭐️⭐️⭐️|
-|Efeu (Hedera Helix)|small-medium|-|⭐️⭐️⭐️⭐️|
-|Efeutute (Epipremnum aureum)|small-medium|air leaner, fast grower|⭐️⭐️⭐️⭐️⭐️|
+|Efeu (Hedera Helix)|small-medium|tolerates shadow|⭐️⭐️⭐️⭐️|
+|Efeutute (Epipremnum aureum)|small-medium|air leaner, fast grower, tolerates shadow|⭐️⭐️⭐️⭐️⭐️|
 |Grünlilie (Chlorophytum comosum)|small-medium|air cleaner, resilient|⭐️⭐️⭐️⭐️⭐️|
 |Sansevieria Fernwood "Mikado"|small-medium|air cleaner, resilient|⭐️⭐️⭐️⭐️|
 

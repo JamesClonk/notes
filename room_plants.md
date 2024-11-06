@@ -20,7 +20,16 @@
 
 #### B class
 
-add hedera helix to the list.. could be placed even on schrank?
+|name|size|spec|
+|-|-|-|
+|Philodendron|small-medium|tolerates shadow, climber like Efeutute|
+|Dieffenbachie (dieffenbachia)|small-large|-|
+|Kentia-Palme (Howea)|large|air cleaner, long-lived|
+|xxx|xxx|-|
+|xxx|xxx|-|
+|xxx|xxx|-|
+|xxx|xxx|-|
+|xxx|xxx|-|
 
 
     zimmerpflanzen, finalposition arbeitsplatz/lautsprecher:
@@ -36,17 +45,9 @@ add hedera helix to the list.. could be placed even on schrank?
     -
 
     Weisser 30er Cubico, gross/hoch:
-    -A Class:
-    - Bogenhanf (Sansevieria trifasciata)            mittel         (Luftreiniger)
-    - Dracaena                                        klein - gross         > Yucca (weil Dracaena ist Luftreiniger)
-    - Glücksfeder (Zamioculcas zamiifolia)            klein - mittel            (veträgt Schatten)
-    - Yucca Palme                                     klein - gross
 
 
     B Class:
-    - Philodendron                                    klein - mittel            (veträgt Schatten, Kletterpflanze ähnlich Efeutute)
-    - Dieffenbachie (dieffenbachia)                    klein - gross
-    - Kentia-Palme (Howea)                            gross         (Luftreiniger, sehr langlebig)
     - Fensterblatt (Monstera deliciosa)                mittel - gross            (Blattpflege mühsam)
     - Geldbaum / Glücksbaum                         klein
     - Gummibaum (Ficus elastica)                    mittel - gross

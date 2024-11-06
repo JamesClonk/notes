@@ -25,9 +25,9 @@
 |Philodendron|small-medium|tolerates shadow, climber like Efeutute|
 |Dieffenbachie (dieffenbachia)|small-large|-|
 |Kentia-Palme (Howea)|large|air cleaner, long-lived|
-|xxx|xxx|-|
-|xxx|xxx|-|
-|xxx|xxx|-|
+|Fensterblatt (Monstera deliciosa)|medium-large|needs leaf maintenance|
+|Geldbaum / Glücksbaum|small|-|
+|Gummibaum (Ficus elastica)|medium-large|-|
 |xxx|xxx|-|
 |xxx|xxx|-|
 
@@ -47,8 +47,4 @@
     Weisser 30er Cubico, gross/hoch:
 
 
-    B Class:
-    - Fensterblatt (Monstera deliciosa)                mittel - gross            (Blattpflege mühsam)
-    - Geldbaum / Glücksbaum                         klein
-    - Gummibaum (Ficus elastica)                    mittel - gross
 

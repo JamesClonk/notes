@@ -10,13 +10,13 @@
 
 |name|size|spec|rating|
 |-|-|-|-|
-|Bogenhanf (Sansevieria trifasciata)|medium|air cleaner, resilient|⭐️⭐️⭐️⭐️|
+|Bogenhanf (Sansevieria trifasciata)|medium|air cleaner, resilient, low watering|⭐️⭐️⭐️⭐️|
 |Dracaena|small-large|air cleaner|⭐️⭐️⭐️⭐️|
 |Glücksfeder (Zamioculcas zamiifolia)|small-medium|tolerates shadow|⭐️⭐️⭐️⭐️|
 |Efeu (Hedera Helix)|small-medium|tolerates shadow|⭐️⭐️⭐️⭐️|
 |Efeutute (Epipremnum aureum)|small-medium|air leaner, climber, fast grower, tolerates shadow|⭐️⭐️⭐️⭐️⭐️|
 |Grünlilie (Chlorophytum comosum)|small-medium|air cleaner, resilient|⭐️⭐️⭐️⭐️⭐️|
-|Sansevieria Fernwood "Mikado"|small-medium|air cleaner, resilient|⭐️⭐️⭐️⭐️|
+|Sansevieria Fernwood "Mikado"|small-medium|air cleaner, resilient, low watering|⭐️⭐️⭐️⭐️|
 
 #### B class
 

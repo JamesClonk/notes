@@ -1,8 +1,30 @@
 # Room plants
 
 ### Pots still available
-
+- Weisser 14er Topf
+  - Grünlilie (fix)
+- Weisser 16er Topf, ründlich
+  - Bogenhanf
+  - kleine Glücksfeder
+  - kleiner Dracaena
+  - ???
+- Weisser 16er Topf, quadratisch
+  - ???
+- Schwarzer 2er Topf, länglich
+  - ???        (these 2 need to match their watering needs)
+  - ???        (these 2 need to match their watering needs)
+- Weisser 30er Cubico, gross/hoch
+  - grosser Dracaena
+  - Kentia-Palme
+  - ???
+    
 ### Positions still available
+
+- 1x small - Arbeitsplatz/Lautsprecher (needs 14er, or 16er ründlich)
+- 1-2x - Gestell
+- 1x large - Schiebetüre
+- 1x large - Schrankecke
+- 1x small - Schrank
 
 ### Plants
 
@@ -29,21 +51,6 @@
 |Fensterblatt (Monstera deliciosa)|medium-large|needs leaf maintenance|⭐️⭐️⭐️|
 |Geldbaum / Glücksbaum|small|-|⭐️⭐️⭐️⭐️|
 |Gummibaum (Ficus elastica)|medium-large|-|⭐️⭐️⭐️|
-
-
-    zimmerpflanzen, finalposition arbeitsplatz/lautsprecher:
-    - weisser 14er Topf, mit: Grünlilie
-    - weisser 16er ründlich Topf, mit: Bogenhanf, kleine Glücksfeder oder kleiner DracaenaSchwarzer 2er Topf, länglich:
-    - ???        (these 2 need to match their watering needs)
-    - ???        (these 2 need to match their watering needs)
-
-    Weisser 16er Topf, quadratisch:
-    -
-
-    Weisser 16er Topf, ründlich:
-    -
-
-    Weisser 30er Cubico, gross/hoch:
 
 
 

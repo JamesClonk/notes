@@ -12,13 +12,14 @@
 
 |name|size|spec|
 |-|-|-|
-|Bogenhanf (Sansevieria trifasciata)|medium|air cleaner|
+|Bogenhanf (Sansevieria trifasciata)|medium|air cleaner, resilient|
 |Dracaena|small-large|air cleaner|
 |Glücksfeder (Zamioculcas zamiifolia)|small-medium|tolerates shadow|
 |Yucca Palme|small-large|-|
 |Efeu (Hedera Helix)|small-medium|-|
 |Efeutute (Epipremnum aureum)|small-medium|air leaner, fast grower|
 |Grünlilie (Chlorophytum comosum)|small-medium|air cleaner, resilient|
+|Sansevieria Fernwood|small-medium|air cleaner, resuilient|
 
 #### B class
 
@@ -30,8 +31,6 @@
 |Fensterblatt (Monstera deliciosa)|medium-large|needs leaf maintenance|
 |Geldbaum / Glücksbaum|small|-|
 |Gummibaum (Ficus elastica)|medium-large|-|
-|xxx|xxx|-|
-|xxx|xxx|-|
 
 
     zimmerpflanzen, finalposition arbeitsplatz/lautsprecher:

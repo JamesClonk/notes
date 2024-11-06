@@ -17,6 +17,8 @@
 |Glücksfeder (Zamioculcas zamiifolia)|small-medium|tolerates shadow|
 |Yucca Palme|small-large|-|
 |Efeu (Hedera Helix)|small-medium|-|
+|Efeutute (Epipremnum aureum)|small-medium|air leaner, fast grower|
+|Grünlilie (Chlorophytum comosum)|small-medium|air cleaner, resilient|
 
 #### B class
 
@@ -24,7 +26,7 @@
 |-|-|-|
 |Philodendron|small-medium|tolerates shadow, climber like Efeutute|
 |Dieffenbachie (dieffenbachia)|small-large|-|
-|Kentia-Palme (Howea)|large|air cleaner, long-lived|
+|Kentia-Palme (Howea)|large|air cleaner, long lived|
 |Fensterblatt (Monstera deliciosa)|medium-large|needs leaf maintenance|
 |Geldbaum / Glücksbaum|small|-|
 |Gummibaum (Ficus elastica)|medium-large|-|

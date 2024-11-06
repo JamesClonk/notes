@@ -10,7 +10,7 @@
 
 |name|size|spec|rating|
 |-|-|-|-|
-|Bogenhanf (Sansevieria trifasciata)|small-large|air cleaner, resilient, low watering|⭐️⭐️⭐️⭐️|
+|Bogenhanf (Sansevieria trifasciata)|small-medium|air cleaner, resilient, low watering|⭐️⭐️⭐️⭐️|
 |Dracaena|small-large|air cleaner|⭐️⭐️⭐️⭐️|
 |Glücksfeder (Zamioculcas zamiifolia)|small-medium|tolerates shadow|⭐️⭐️⭐️⭐️|
 |Efeu (Hedera Helix)|small-medium|tolerates shadow|⭐️⭐️⭐️⭐️|

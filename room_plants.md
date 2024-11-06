@@ -10,11 +10,13 @@
 
 #### A class
 
-- Bogenhanf (Sansevieria trifasciata)            mittel         (Luftreiniger)
-- Dracaena                                        klein - gross         > Yucca (weil Dracaena ist Luftreiniger)
-- Glücksfeder (Zamioculcas zamiifolia)            klein - mittel            (veträgt Schatten)
-- Yucca Palme                                     klein - gross
-- Hedera Helix
+|name|size|spec|
+|-|-|-|
+|Bogenhanf (Sansevieria trifasciata)|medium|air cleaner|
+|Dracaena|small-large|air cleaner|
+|Glücksfeder (Zamioculcas zamiifolia)|small-medium|tolerates shadow|
+|Yucca Palme|small-large|-|
+|Efeu (Hedera Helix)|small-medium|-|
 
 #### B class
 

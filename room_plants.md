@@ -17,11 +17,12 @@
 ## Plan
 
 ### Pots locations
-- Weisser 16er Topf, ründlich
-  - Bogenhanf (Arbeitsplatz/Lautsprecher)
-- Weisser 16er Topf, quadratisch
-  - Hedera Helix (Gestell or Schrank)
-- Schwarzer 2er Topf, länglich
+- Weisser 16er Topf, ründlich -> (Arbeitsplatz/Lautsprecher)
+  - Bogenhanf  (if Glücksfeder in 2er Topf)
+  - Glücksfeder (otherwise)
+- Weisser 16er Topf, quadratisch -> (Gestell or Schrank)
+  - Hedera Helix
+- Schwarzer 2er Topf, länglich -> (Gestell)
   - Yucca und Glücksfeder
   - Glücksfeder und Geldbaum
   - Dracaena surculosa und Glücksfeder

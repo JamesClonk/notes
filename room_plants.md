@@ -25,9 +25,9 @@
   - Yucca und Glücksfeder
   - Glücksfeder und Geldbaum
   - Dracaena surculosa und Glücksfeder
-  - Dracaena und Dieffenbachie
+  - Dracaena marginata und Dieffenbachie
 - Weisser 30er Cubico, gross/hoch
-  - grosse Dracaena
+  - Dracaena Lemon Lime
   - Kentia-Palme
 
 ### Plants

@@ -9,24 +9,10 @@
 - 1x small - Schrank
 
 ### Pots still available
-- Weisser 14er Topf
-  - Grünlilie (Arbeitsplatz/Lautsprecher)
 - Weisser 16er Topf, ründlich
-  - Glücksfeder (Arbeitsplatz/Lautsprecher)
-  - Dracaena (Arbeitsplatz/Lautsprecher)
-  - Bogenhanf (Arbeitsplatz/Lautsprecher)
 - Weisser 16er Topf, quadratisch
-  - Bogenhanf (Schrank)
-  - Glücksfeder (Schrank) 
-  - Hedera Helix (Gestell or Schrank)
 - Schwarzer 2er Topf, länglich
-  - Yucca und Bogenhanf
-  - Yucca und Glücksfeder
-  - Dracaena surculosa und Glücksfeder
-  - Dracaena und Dieffenbachie
 - Weisser 30er Cubico, gross/hoch
-  - grosse Dracaena
-  - Kentia-Palme
 
 ## Plan
 

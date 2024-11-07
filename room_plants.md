@@ -21,7 +21,9 @@
   - Bogenhanf  (if Glücksfeder in 2er Topf)
   - Glücksfeder (otherwise)
 - Weisser 16er Topf, quadratisch -> (Gestell or Schrank)
-  - Hedera Helix
+  - Hedera Helix (Gestell)
+  - Bogenhanf  (Schrank)
+  - Glücksfeder (Schrank)
 - Schwarzer 2er Topf, länglich -> (Gestell)
   - Yucca und Glücksfeder
   - Glücksfeder und Geldbaum

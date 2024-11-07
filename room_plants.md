@@ -1,23 +1,5 @@
 # Room plants
 
-### Pots still available
-- Weisser 14er Topf
-  - Grünlilie (fix)
-- Weisser 16er Topf, ründlich
-  - Bogenhanf
-  - kleine Glücksfeder
-  - kleiner Dracaena
-  - ???
-- Weisser 16er Topf, quadratisch
-  - ???
-- Schwarzer 2er Topf, länglich
-  - ???        (these 2 need to match their watering needs)
-  - ???        (these 2 need to match their watering needs)
-- Weisser 30er Cubico, gross/hoch
-  - grosse Dracaena
-  - Kentia-Palme
-  - ???
-    
 ### Positions still available
 
 - 1x small - Arbeitsplatz/Lautsprecher (needs 14er, or 16er ründlich)
@@ -25,6 +7,26 @@
 - 1x large - Schiebetüre
 - 1x large - Schrankecke
 - 1x small - Schrank
+
+### Pots still available
+- Weisser 14er Topf
+  - Grünlilie (Arbeitsplatz/Lautsprecher)
+- Weisser 16er Topf, ründlich
+  - Glücksfeder (Arbeitsplatz/Lautsprecher)
+  - Dracaena (Arbeitsplatz/Lautsprecher)
+  - Bogenhanf (Arbeitsplatz/Lautsprecher)
+- Weisser 16er Topf, quadratisch
+  - Bogenhanf (Schrank)
+  - Glücksfeder (Schrank) 
+  - Hedera Helix (Gestell or Schrank)
+- Schwarzer 2er Topf, länglich
+  - Yucca und Bogenhanf
+  - Yucca und Glücksfeder
+  - Dracaena surculosa und Glücksfeder
+  - Dracaena und Dieffenbachie
+- Weisser 30er Cubico, gross/hoch
+  - grosse Dracaena
+  - Kentia-Palme
 
 ### Plants
 

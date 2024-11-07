@@ -28,6 +28,22 @@
   - grosse Dracaena
   - Kentia-Palme
 
+## Plan
+
+### Pots locations
+- Weisser 16er Topf, ründlich
+  - Bogenhanf (Arbeitsplatz/Lautsprecher)
+- Weisser 16er Topf, quadratisch
+  - Hedera Helix (Gestell or Schrank)
+- Schwarzer 2er Topf, länglich
+  - Yucca und Glücksfeder
+  - Glücksfeder und Geldbaum
+  - Dracaena surculosa und Glücksfeder
+  - Dracaena und Dieffenbachie
+- Weisser 30er Cubico, gross/hoch
+  - grosse Dracaena
+  - Kentia-Palme
+
 ### Plants
 
 #### A class

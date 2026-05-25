@@ -1,7 +1,7 @@
 
 ## shoe database
 
-As a rule of thumb, if your street shoe size is 42.5, go with 41's for La Sportiva and 41.5-42's for Scarpa.
+As a rule of thumb, if your street shoe size is 42.5, go with 41's for La Sportiva and 41.5-42.5's for Scarpa.
 
 |vendor|shoe|size|proven|use case|comment|date / shoe version|
 |---|---|---|---|---|---|---|

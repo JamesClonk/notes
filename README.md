@@ -55,7 +55,7 @@ What to do next?
   - [ ] Trondheim
   - [x] ~Lofoten~
   - [x] ~Kvalvika Beach~
-  - [x] Tromsø
+  - [x] ~Tromsø~
 
 - [ ] **Iceland**
   - [ ] Reykjavík

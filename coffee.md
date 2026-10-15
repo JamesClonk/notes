@@ -102,7 +102,7 @@ Note on T__, if omitted it means 100°C for AeroPress, 90°C for V60.
 
 Starting points for dialing in:
 - C40 clicks for 9barista: 8-12
-- C40 clicks for Bialetti: 16-20 (may go as high as 30 though)
+- C40 clicks for Bialetti: 16-20 (may go as high as 30 though, 20-24 is awesome for low heat brews)
 - C40 clicks for AeroPress, standard: 16-24
 - C40 clicks for AeroPress, inverted: 22-28
 - C40 clicks for V60: 22-24 (a bit coarser for darker roasts)

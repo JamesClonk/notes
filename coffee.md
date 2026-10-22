@@ -107,14 +107,14 @@ Starting points for dialing in:
 - C40 clicks for AeroPress, standard: 16-24
 - C40 clicks for AeroPress, inverted: 22-28
 - C40 clicks for V60: 22-24 (a bit coarser for darker roasts)
-- C40 clicks for Kode FB45: 22-28
+- C40 clicks for Kode FB45: 23-28
 
 General observations of differences in brewing methods:
 - Default AeroPress recipes generally produce a more "clear", smooth, watery, fruity result. Suited well for fruity coffees.
 - V60 with high temp produces more "full", dry-mouth, texture, heavy result than AeroPress. Lower temps a more smooth, clear, light and fruity result like AeroPress.
 - Bialetti generally produces very heavy, earthy, thick, strong results. Mostly only for milk-required coffees.
 - 9barista so far never worked well with light roasts and/or fruity beans, seems to prefer dark and earthy. Suited for darker roasts.
-- Kode FB45 can clog easily, if so then agitate the water less and grind coarser (and maybe increase temp 1°C)
+- Kode FB45 can clog easily, if so then grind coarser (~ +3-5 clicks) (and maybe agitate the water less)
 
 An4msR16C20 vs V60p5R16C23T95:
 The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth, more watery but more fruitiness. Overall I think the default AeroPress recipe is "clearer" and better for fruity coffees than default V60 recipe, but V60p5R18C24T94 got close (higher than "normal" ratios seem to make it closer through being more watery?). Overall C22 is probably best for a V60, while C18-20 the best starting point for an AeroPress. It's best to lower temps before grinding coarser on V60 as a first step when experimenting, for example going V60p5R16C22T92. Lower temps tend to push V60 more towards the AeroPress taste profile.

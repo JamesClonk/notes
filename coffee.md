@@ -220,6 +220,8 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 
 ---
 
+## ZP6 Special - notes
+
 ### C40 vs. ZP6 clicks
 
 | C40 MK4 | ZP6 Special |

@@ -180,9 +180,9 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 - rinse filter paper
 - heat water
   - the darker it gets the lower the temps
-  - down to 80-85c (maybe up to 90c) for dark roasts
-  - 85-95c for medium roasts
-  - 90-100c for light roasts
+  - down to 82-87c (maybe up to 90c) for dark roasts
+  - 87-93c for medium roasts
+  - 90-95c for light roasts
 - preheat V60 cup
 - put hot V60 cup on caraffe, add rinsed filter paper
 - add coffee, dig small mound in middle
@@ -202,6 +202,26 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 - 3:00+ - should be done roughly after hitting the 3min. mark
   - Note: as a general rule, lighter roasts tend to have longer drawdown times, darker roasts are quicker. (Has something to do with fines production in the Comandante I guess) 
 - done, enjoy! 😋☕👌
+
+#### KODE FB45 process:
+
+- base recipe: 15g beans, 250g water, 16.6 ratio
+- when in doubt, use C25 as base grind size
+- heat water
+  - the darker it gets the lower the temps
+  - down to 82-87c (maybe up to 90c) for dark roasts
+  - 87-93c for medium roasts
+  - 90-95c for light roasts
+- add coffee, loosely shake it to even out the bed flat
+- 0:00 - pour 50g (use simple circular pouring for all pours!)
+- 0:00-0:45 - bloom
+- 0:45-1:05 - pour 100g (150g total)
+- 1:05-1:30 - wait
+- 1:30-1:50 - pour 100g (250g total)
+- 1:50-2:45 - let it drain, do NOT swirl!
+- 2:50+ - should be done roughly after hitting the 2:50min. mark
+- done, enjoy! 😋☕👌 (or not if it clogged and extracted too much bitter stuff 🤢)
+  - Note: do very gentle pours, do not agitate bed too much. Maybe even use drip-helper tools. 
 
 ---
 
@@ -259,7 +279,7 @@ Flat-bottom beds naturally offer more resistance than a V60 cone. If you try to 
 - 4.5 to 5.0 (45 to 50 clicks)
 - "Zonal Flow" pulse recipe:
 	- Use 1:16-17 ratio: 15g coffee to 250g water.
-	- Divide your brew into three clean, equal pulses to maximize the brewer's aeration and exit zone design:
+	- Divide brew into three clean, equal pulses to maximize aeration and exit zone design:
 	  - Pour 1: 50g bloom for 45 seconds.
-		- Pour 2: At 0:45, pour gently in wider circles up to 150g. Let it drain.
-		- Pour 3: At 1:30, pour straight down the center up to 250g.
+	  - Pour 2: At 0:45, pour gently in wider circles up to 150g. Let it drain.
+	  - Pour 3: At 1:30, pour straight down the center up to 250g.

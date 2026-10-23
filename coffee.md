@@ -219,7 +219,7 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 - 1:05-1:30 - wait
 - 1:30-1:50 - pour 100g (250g total)
 - 1:50-2:45 - let it drain, do NOT swirl!
-- 2:50+ - should be done roughly after hitting the 2:50min. mark
+- 2:45+ - should be done roughly after hitting the 2:45min. mark (if it takes longer = nasty clogging!)
 - done, enjoy! 😋☕👌 (or not if it clogged and extracted too much bitter stuff 🤢)
   - Note: do very gentle pours, do not agitate bed too much. Maybe even use drip-helper tools. 
 

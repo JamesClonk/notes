@@ -237,3 +237,27 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 | 35 clicks | 79 clicks |
 | 38 clicks | 85 clicks |
 | 40 clicks | 90 clicks |
+
+### ZP6 brew recipes
+
+#### V60
+
+Grind finer to get high flavor separation:
+- 3.8 to 4.2 (38 to 42 clicks)
+- Lance Hedrick’s "1-2-1" recipe for clarity:
+  - Use a 1:16 ratio (e.g., 15g coffee to 240g water).
+	- 0:00 (bloom): pour 45g of water quickly and give the dripper a gentle swirl. Let it bloom for a full 2 minutes. This long bloom allows the ultra-clean ZP6 grinds to fully saturate.
+	- 2:00 (main pour): Pour continuously and heavily in spirals up to 140g.
+	- drop-down: Let the water level recede until it is just above the coffee bed.
+	- final-pour: Pour dead-center up to 240g. Give it one final, gentle swirl to flatten the bed. It should draw down fast, yielding an incredibly vibrant, clean, and distinct fruit-forward cup.
+
+#### KODE FB45
+
+Flat-bottom beds naturally offer more resistance than a V60 cone. If you try to use the same tight V60 grind size here, you run the risk of over-extracting:
+- 4.5 to 5.0 (45 to 50 clicks)
+- "Zonal Flow" pulse recipe:
+	- Use 1:16-17 ratio: 15g coffee to 250g water.
+	- Divide your brew into three clean, equal pulses to maximize the brewer's aeration and exit zone design:
+	  - Pour 1: 50g bloom for 45 seconds.
+		- Pour 2: At 0:45, pour gently in wider circles up to 150g. Let it drain.
+		- Pour 3: At 1:30, pour straight down the center up to 250g.

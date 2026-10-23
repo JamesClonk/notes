@@ -217,3 +217,23 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
   - _new finding!_ -> don't immediately take it off heat, wait a few seconds to extract more bitter-balance into a sour shot 😋👌
 - pour shot into glass
 - enjoy! (or not.. 🤣)
+
+---
+
+### C40 vs. ZP6 clicks
+
+| C40 MK4 | ZP6 Special |
+| --- | --- |
+| 8 clicks | 20 clicks |
+| 11 clicks | 26 clicks |
+| 15 clicks | 31 clicks |
+| 19 clicks | 37 clicks |
+| 23 clicks | 43 clicks |
+| 27 clicks | 49 clicks |
+| 29 clicks | 55 clicks |
+| 30 clicks | 62 clicks |
+| 31 clicks | 68 clicks |
+| 33 clicks | 73 clicks |
+| 35 clicks | 79 clicks |
+| 38 clicks | 85 clicks |
+| 40 clicks | 90 clicks |

@@ -288,32 +288,34 @@ Flat-bottom beds naturally offer more resistance than a V60 cone. If you try to 
 ## James Hoffmann V60 recipe
 
 ### 1 Cup V60 Technique
-15g Ground Coffee, 250g Water
+15g coffee, 250g water
 
 - Try to use best possible quality of water
 - Try to use water as hot as possible after boiling
 - Use swirling motion, aim for 5g/sec Pour rate
 - Try to keep spout close to surface
 
-1. Preheat and Rinse (Plastic) Brewer and Filter with Hot tap water (Hot to Touch)
-2. Dig a mound in the middle of the Ground Coffee
-3. Zero/Reset Scale with Brewer and Ground Coffee
-4. Boil Water
+1. Preheat and rinse (plastic) brewer and filter with hot water
+2. Dig a mound in the middle of the coffee
+3. Zero/Reset scale with brewer and coffee
+4. Boil water
 
 | Time | Task |
 | --- | --- |
-| 0:00 | Approx. ~50g Bloom Pour |
-| 0:10 - 0:15 | Gentle Swirl |
+| 0:00 | ~50g bloom |
+| 0:10 - 0:15 | Gentle swirl |
 | 0:00 - 0:45 | Bloom |
-| 0:45 - 1:00 | Pour to ~100g Total |
+| 0:45 - 1:00 | Pour to ~100g total |
 | 1:00 - 1:10 | Pause |
-| 1:10 - 1:20 | Pour to ~150g Total |
+| 1:10 - 1:20 | Pour to ~150g total |
 | 1:20 - 1:30 | Pause |
-| 1:30 - 1:40 | Pour to ~200g Total |
+| 1:30 - 1:40 | Pour to ~200g total |
 | 1:40 - 1:50 | Pause |
-| 1:50 - 2:00 | Pour to ~250g Total |
-| 2:00 | Gentle Swirl, Wait for drawdown to Complete |
+| 1:50 - 2:00 | Pour to ~250g total |
+| 2:00 | Gentle swirl, wait for drawdown to complete |
 
-Total Brew Time: Approx. ~3:00, YMMV; Adjust Grind if necessary for Taste/Time
-Too Fast/Acidic = Finer
-Too Slow/Bitter = Coarser
+Total brew time:  ~3:00
+
+Adjust grind setting if necessary for taste/time:
+- Too fast/acidic = finer
+- Too slow/bitter = coarser

@@ -206,7 +206,7 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 #### KODE FB45 process:
 
 - base recipe: 15g beans, 250g water, 16.6 ratio
-- when in doubt, use C25 as base grind size
+- when in doubt, use C26 as base grind size
 - heat water
   - the darker it gets the lower the temps
   - down to 82-87c (maybe up to 90c) for dark roasts

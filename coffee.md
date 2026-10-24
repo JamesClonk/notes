@@ -300,17 +300,18 @@ Flat-bottom beds naturally offer more resistance than a V60 cone. If you try to 
 3. Zero/Reset Scale with Brewer and Ground Coffee
 4. Boil Water
 
-0:00 : Approx. ~50g Bloom Pour
-0:10 - 0:15 : Gentle Swirl
-0:00 - 0:45 : Bloom
-0:45 - 1:00 : Pour to ~100g Total
-1:00 - 1:10 : Pause
-1:10 - 1:20 : Pour to ~150g Total
-1:20 - 1:30 : Pause
-1:30 - 1:40 : Pour to ~200g Total
-1:40 - 1:50 : Pause
-1:50 - 2:00 : Pour to ~250g Total
-2:00 : Gentle Swirl, Wait for drawdown to Complete
+| --- |
+| 0:00 | Approx. ~50g Bloom Pour |
+| 0:10 - 0:15 | Gentle Swirl |
+| 0:00 - 0:45 | Bloom |
+| 0:45 - 1:00 | Pour to ~100g Total |
+| 1:00 - 1:10 | Pause |
+| 1:10 - 1:20 | Pour to ~150g Total |
+| 1:20 - 1:30 | Pause |
+| 1:30 - 1:40 | Pour to ~200g Total |
+| 1:40 - 1:50 | Pause |
+| 1:50 - 2:00 | Pour to ~250g Total |
+| 2:00 | Gentle Swirl, Wait for drawdown to Complete |
 
 Total Brew Time: Approx. ~3:00, YMMV; Adjust Grind if necessary for Taste/Time
 Too Fast/Acidic = Finer

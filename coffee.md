@@ -283,3 +283,4 @@ Flat-bottom beds naturally offer more resistance than a V60 cone. If you try to 
 	  - Pour 1: 50g bloom for 45 seconds.
 	  - Pour 2: At 0:45, pour gently in wider circles up to 150g. Let it drain.
 	  - Pour 3: At 1:30, pour straight down the center up to 250g.
+- Use a drip-helper tool if it gets too clogged and nasty without (typical flat-bed issues)

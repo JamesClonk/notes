@@ -107,7 +107,7 @@ Starting points for dialing in:
 - C40 clicks for AeroPress, standard: 16-24
 - C40 clicks for AeroPress, inverted: 22-28
 - C40 clicks for V60: 22-24 (a bit coarser for darker roasts)
-- C40 clicks for Kode FB45: 23-28
+- C40 clicks for Kode FB45: 24-28
 
 General observations of differences in brewing methods:
 - Default AeroPress recipes generally produce a more "clear", smooth, watery, fruity result. Suited well for fruity coffees.

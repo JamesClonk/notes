@@ -285,7 +285,7 @@ Flat-bottom beds naturally offer more resistance than a V60 cone. If you try to 
 	  - Pour 3: At 1:30, pour straight down the center up to 250g.
 - Use a drip-helper tool if it gets too clogged and nasty without (typical flat-bed issues)
 
-## James V60 recipe
+## James Hoffmann V60 recipe
 
 ### 1 Cup V60 Technique
 15g Ground Coffee, 250g Water

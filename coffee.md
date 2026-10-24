@@ -182,7 +182,7 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
   - the darker it gets the lower the temps
   - down to 82-87c (maybe up to 90c) for dark roasts
   - 87-93c for medium roasts
-  - 91-95c for light roasts
+  - 91-96c for light roasts
 - preheat V60 cup
 - put hot V60 cup on caraffe, add rinsed filter paper
 - add coffee, dig small mound in middle
@@ -211,7 +211,7 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
   - the darker it gets the lower the temps
   - down to 82-87c (maybe up to 90c) for dark roasts
   - 87-93c for medium roasts
-  - 90-94c for light roasts
+  - 90-95c for light roasts
 - add coffee, loosely shake it to even out the bed flat
 - 0:00 - pour 50g (use simple circular pouring for all pours!)
 - 0:00-0:45 - bloom

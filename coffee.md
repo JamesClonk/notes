@@ -300,7 +300,7 @@ Flat-bottom beds naturally offer more resistance than a V60 cone. If you try to 
 3. Zero/Reset Scale with Brewer and Ground Coffee
 4. Boil Water
 
-| Time | Description |
+| Time | Task |
 | --- | --- |
 | 0:00 | Approx. ~50g Bloom Pour |
 | 0:10 - 0:15 | Gentle Swirl |

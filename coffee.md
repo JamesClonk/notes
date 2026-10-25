@@ -260,6 +260,8 @@ The basic AeroPress recipe has better citrus taste, less texture, less dry-mouth
 | 38 clicks | 85 clicks |
 | 40 clicks | 90 clicks |
 
+Notes: Lance does 55 clicks?
+
 ### ZP6 brew recipes
 
 #### V60

@@ -335,6 +335,7 @@ Adjust grind setting if necessary for taste/time:
 - 2 blooms
 - Pour at 5-10ml/s for blooms
 - Pour at 9-10ml/s in coin-sized circles in the middle for main pour
+- No swirling!
 
 | Time | Task |
 | --- | --- |

@@ -6,8 +6,8 @@ What to do next?
 - [ ] Skydiving in Hawaii
 - [x] ~Wardruna Concert in Norway~
 - [x] ~Dune Part II in IMAX~
-- [ ] Okonomiyaki, Tonkatsu and Wagyu in Japan
-- [ ] Bicycle Tour through Japan
+- [x] Okonomiyaki, Tonkatsu and Wagyu in Japan
+- [x] Bicycle Tour through Japan
 - [ ] Hiking in Scotland
 - [ ] Hiking in New Zealand
 - [x] ~Hiking in Norway~
@@ -64,11 +64,16 @@ What to do next?
   - [ ] Skógafoss
   - [ ] Háifoss
 
-- [ ] **Japan**
+- [x] **Japan**
   - [ ] Okinawa
   - [ ] Kyushu
+  - [x] Shikoku
   - [ ] North-Western Side
-  - [ ] Hokkaido
+  - [x] Hokkaido
+    - [x] Hakodate
+    - [x] Sapporo
+    - [x] Otaru
+    - [ ] Wakkanai
 
 - [ ] **New Zealand**
 

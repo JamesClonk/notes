@@ -321,3 +321,23 @@ Total brew time:  ~3:00
 Adjust grind setting if necessary for taste/time:
 - Too fast/acidic = finer
 - Too slow/bitter = coarser
+
+## Lance Hedrick V60 recipe
+
+### 1 Cup V60 Technique
+
+- Grind fine enough for ~2:00-2:30s draw down 
+- Temperature:
+  - 93-96° for light
+  - 90-93° for medium
+  - lower if darker
+- Ration: 1:15 - 15g:225g
+- 2 blooms
+- Pour at 5-10ml/s for blooms
+- Pour at 9-10ml/s in coin-sized circles in the middle for main pour
+
+| Time | Task |
+| --- | --- |
+| 00:00 | 45g bloom |
+| 00:30 | Pour to ~90g total |
+| 1:00 | Pour to ~225g  total |

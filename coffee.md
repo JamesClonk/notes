@@ -338,6 +338,6 @@ Adjust grind setting if necessary for taste/time:
 
 | Time | Task |
 | --- | --- |
-| 00:00 | 45g bloom |
-| 00:30 | Pour to ~90g total |
-| 1:00 | Pour to ~225g  total |
+| 00:00 | Bloom #1 - Pour to ~45g total |
+| 00:30 | Bloom #2 - Pour to ~90g total |
+| 1:00 | Main pour to ~225g total |

@@ -322,7 +322,7 @@ Adjust grind setting if necessary for taste/time:
 - Too fast/acidic = finer
 - Too slow/bitter = coarser
 
-## Lance Hedrick V60 recipe
+## Lance Hedrick "Forgiving" V60 recipe
 
 ### 1 Cup V60 Technique
 
